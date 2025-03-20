@@ -1,0 +1,63 @@
+model_name: LLaMA
+checkpoint: ../PTM/Llama-2-7b-chat-hf
+# checkpoint: ../PTM/Llama-3-8B
+
+# model_name: Mistral
+# checkpoint: ../PTM/Mistral-7B-Instruct-v0.2
+
+half_quantized: False
+database_vector_calculate: True
+
+train_epoch: 10
+train_batch: 16 # 12 # 8
+lr: 1e-4
+lr_w_tensor: 0.001
+gradient_accumulation_steps: 12 # 16 # 6
+max_grad_norm: 1.0
+seed: 42
+
+# train_epoch: 3
+# train_batch: 8
+# lr: 1e-5
+# lr_w_tensor: 0.01
+# gradient_accumulation_steps: 16
+# max_grad_norm: 1.0
+# seed: 42
+
+use_mamba: False
+
+cal_seq: False
+tensor_weighting: True
+tensor_filtering: False
+tensor_filtering_threshold: 1.0
+
+tool_range: -1
+
+similarity_norm: False
+
+dataset_dir:
+  gsm8k_xl: ./data/gsm8k_xl/
+  funcqa: ./data/funcqa/
+  vh: ./data/vh/
+  kamel: ./data/kamel/
+  SimpleQuestionsv2: ./data/SimpleToolQuestions/
+
+output_dir: output/
+
+load_toolcalling_checkpoint: True
+judge_checkpoint_dir: ./output/judge_joint/ # 联合  LLaMA_2024-04-03 15:37:17
+# judge_checkpoint_dir: ./output/judge_gsm8k_funcqa/epoch_1/ # gsm8k & funcqa LLaMA_2024-05-09 16:20:32
+# judge_checkpoint_dir: ./output/judge_gsm8k/epoch_3/ # gsm8k LLaMA_2024-05-19 22:15:15
+
+# retriever_checkpoint_dir: ./output/retriever_gsm8k/epoch_5/ # gsm8k LLaMA_2024-05-18 23:22:31
+# retriever_checkpoint_dir: ./output/retriever_funcqa/epoch_19/ # funcqa LLaMA_2024-05-10 14:45:23
+retriever_checkpoint_dir: ./output/retriever_simplequestions/epoch_6/ #SimpleQuestions LLaMA_2024-05-16 04:29:44
+
+# retriever_checkpoint_dir: ./output/retriever_kamel_gold/epoch_6/ # kamel_gold LLaMA_2024-04-24 20:00:50
+# retriever_checkpoint_dir: ./output/retriever_kamel_gpt/epoch_8/ # kamel_gpt LLaMA_2024-04-25 16:00:20
+
+# retriever_checkpoint_dir: ./output/retriever_kamel_gold_01/ # LLaMA_2024-05-28 10:06:10
+# retriever_checkpoint_dir: ./output/retriever_kamel_gold_0001/ # LLaMA_2024-05-28 10:08:58
+
+temperature: 0 # 0.9
+top_p: 0.6

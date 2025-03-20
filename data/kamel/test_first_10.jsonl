@@ -1,0 +1,500 @@
+{"dataset_name": "kamel", "case_idx": 0, "question": "What form does the creative work La Historia Continúa... Parte III has?", "tool": "P7937", "result": "compilation album"}
+{"dataset_name": "kamel", "case_idx": 1, "question": "What are the main topic of Declaration of the Clergy of France?", "tool": "P921", "result": "Gallicanism"}
+{"dataset_name": "kamel", "case_idx": 2, "question": "Who were employers of Iolanda Mărculescu?", "tool": "P108", "result": "University of Wisconsin–Milwaukee"}
+{"dataset_name": "kamel", "case_idx": 3, "question": "What disciplines is Yang Yang competing in?", "tool": "P2416", "result": "short track speed skating"}
+{"dataset_name": "kamel", "case_idx": 4, "question": "What groups or organizations was Joaquín Soriano a member?", "tool": "P463", "result": "Real Academia de Bellas Artes de San Fernando"}
+{"dataset_name": "kamel", "case_idx": 5, "question": "What teams was Kenny Iwebema a member of?", "tool": "P54", "result": "Arizona Cardinals"}
+{"dataset_name": "kamel", "case_idx": 6, "question": "How many floors above the ground has ChungYuet World Center?", "tool": "P1101", "result": "32"}
+{"dataset_name": "kamel", "case_idx": 7, "question": "Where are the workplaces of Butet Manurung?", "tool": "P937", "result": "Bukit Duabelas National Park"}
+{"dataset_name": "kamel", "case_idx": 8, "question": "Where are the workplaces of Agustín Barrios Gómez?", "tool": "P937", "result": "Mexico City"}
+{"dataset_name": "kamel", "case_idx": 9, "question": "Where are the workplaces of Agostino Steffani?", "tool": "P937", "result": "Hanover"}
+{"dataset_name": "kamel", "case_idx": 10, "question": "How many floors above the ground has Manhattan Hill?", "tool": "P1101", "result": "51"}
+{"dataset_name": "kamel", "case_idx": 11, "question": "What teams was Dylan Thompson a member of?", "tool": "P54", "result": "South Carolina Gamecocks football"}
+{"dataset_name": "kamel", "case_idx": 12, "question": "What disciplines is Luz Dary Castro competing in?", "tool": "P2416", "result": "discus throw"}
+{"dataset_name": "kamel", "case_idx": 13, "question": "Where are the workplaces of Ulrike Lunacek?", "tool": "P937", "result": "Vienna"}
+{"dataset_name": "kamel", "case_idx": 14, "question": "What are the main topic of Yodeling Yokels?", "tool": "P921", "result": "Alps"}
+{"dataset_name": "kamel", "case_idx": 15, "question": "What country is Tehranno located in?", "tool": "P17", "result": "Iran"}
+{"dataset_name": "kamel", "case_idx": 16, "question": "What groups or organizations was Anne-Sofie Østvedt a member?", "tool": "P463", "result": "XU"}
+{"dataset_name": "kamel", "case_idx": 17, "question": "What are the main topic of Rocket Men?", "tool": "P921", "result": "Apollo 8"}
+{"dataset_name": "kamel", "case_idx": 18, "question": "How many floors above the ground has Marathon Oil Tower?", "tool": "P1101", "result": "41"}
+{"dataset_name": "kamel", "case_idx": 19, "question": "What groups or organizations was Spike Robinson a member?", "tool": "P463", "result": "Club Eleven"}
+{"dataset_name": "kamel", "case_idx": 20, "question": "Where are the workplaces of Adriaen van der Spelt?", "tool": "P937", "result": "Leiden"}
+{"dataset_name": "kamel", "case_idx": 21, "question": "Where are the workplaces of Iris Spranger?", "tool": "P937", "result": "Berlin"}
+{"dataset_name": "kamel", "case_idx": 22, "question": "What country is Karashamb located in?", "tool": "P17", "result": "Armenia"}
+{"dataset_name": "kamel", "case_idx": 23, "question": "Who were employers of Lillian Friedman Astor?", "tool": "P108", "result": "Fleischer Studios"}
+{"dataset_name": "kamel", "case_idx": 24, "question": "Where are the workplaces of Georg Dehio?", "tool": "P937", "result": "Tübingen"}
+{"dataset_name": "kamel", "case_idx": 25, "question": "What form does the creative work WOW Hits 2011 has?", "tool": "P7937", "result": "compilation album"}
+{"dataset_name": "kamel", "case_idx": 26, "question": "What teams was Reynaldo dos Santos Silva a member of?", "tool": "P54", "result": "FK Qarabağ"}
+{"dataset_name": "kamel", "case_idx": 27, "question": "What places is WJCM broadcasted to?", "tool": "P1408", "result": "Sebring"}
+{"dataset_name": "kamel", "case_idx": 28, "question": "What country is Luverne located in?", "tool": "P17", "result": "United States of America"}
+{"dataset_name": "kamel", "case_idx": 29, "question": "What are the main topic of ISO 639-5?", "tool": "P921", "result": "language family"}
+{"dataset_name": "kamel", "case_idx": 30, "question": "What are the main topic of Ten Days that Shook the World?", "tool": "P921", "result": "October Revolution"}
+{"dataset_name": "kamel", "case_idx": 31, "question": "What groups or organizations was Adam Skorek a member?", "tool": "P463", "result": "Institute of Electrical and Electronics Engineers"}
+{"dataset_name": "kamel", "case_idx": 32, "question": "How many floors above the ground has Chennai Port Trust Centenary Building?", "tool": "P1101", "result": "12"}
+{"dataset_name": "kamel", "case_idx": 33, "question": "What places is KKWK broadcasted to?", "tool": "P1408", "result": "Cameron"}
+{"dataset_name": "kamel", "case_idx": 34, "question": "Where are the workplaces of John C. Burch?", "tool": "P937", "result": "Sacramento"}
+{"dataset_name": "kamel", "case_idx": 35, "question": "What country is Lambourn located in?", "tool": "P17", "result": "United Kingdom"}
+{"dataset_name": "kamel", "case_idx": 36, "question": "What places is WLBJ-LP broadcasted to?", "tool": "P1408", "result": "Fostoria"}
+{"dataset_name": "kamel", "case_idx": 37, "question": "How many floors above the ground has Conrad Centennial Singapore?", "tool": "P1101", "result": "31"}
+{"dataset_name": "kamel", "case_idx": 38, "question": "What form does the creative work La reine Fiammette has?", "tool": "P7937", "result": "opera"}
+{"dataset_name": "kamel", "case_idx": 39, "question": "What country is Sollstedt located in?", "tool": "P17", "result": "Germany"}
+{"dataset_name": "kamel", "case_idx": 40, "question": "What teams was Vladislav Mirchev a member of?", "tool": "P54", "result": "PFC Spartak Varna"}
+{"dataset_name": "kamel", "case_idx": 41, "question": "What country is Bryce Hospital located in?", "tool": "P17", "result": "United States of America"}
+{"dataset_name": "kamel", "case_idx": 42, "question": "What form does the creative work The Shroud Conspiracy has?", "tool": "P7937", "result": "novel"}
+{"dataset_name": "kamel", "case_idx": 43, "question": "What are the main topic of Metro-Land?", "tool": "P921", "result": "suburb"}
+{"dataset_name": "kamel", "case_idx": 44, "question": "What are the main topic of The Search for Kennedy's PT 109?", "tool": "P921", "result": "World War II"}
+{"dataset_name": "kamel", "case_idx": 45, "question": "What are the main topic of A Racial Program for the Twentieth Century?", "tool": "P921", "result": "civil rights movement"}
+{"dataset_name": "kamel", "case_idx": 46, "question": "What form does the creative work Monument of Metal has?", "tool": "P7937", "result": "compilation album"}
+{"dataset_name": "kamel", "case_idx": 47, "question": "What groups or organizations was Deutsche Reichspartei a member?", "tool": "P463", "result": "National Party of Europe"}
+{"dataset_name": "kamel", "case_idx": 48, "question": "What disciplines is Pavla Hamáčková-Rybová competing in?", "tool": "P2416", "result": "pole vault"}
+{"dataset_name": "kamel", "case_idx": 49, "question": "What groups or organizations was Henry Wansey a member?", "tool": "P463", "result": "Society of Antiquaries of London"}
+{"dataset_name": "kamel", "case_idx": 50, "question": "Who were employers of Bruno Rossi?", "tool": "P108", "result": "Massachusetts Institute of Technology"}
+{"dataset_name": "kamel", "case_idx": 51, "question": "What disciplines is Stanley Redwine competing in?", "tool": "P2416", "result": "800 metres"}
+{"dataset_name": "kamel", "case_idx": 52, "question": "What teams was Stephen Danbusky a member of?", "tool": "P54", "result": "Virginia Beach Piranhas"}
+{"dataset_name": "kamel", "case_idx": 53, "question": "What country is East Caprivi located in?", "tool": "P17", "result": "South-West Africa"}
+{"dataset_name": "kamel", "case_idx": 54, "question": "What disciplines is Jacques Favart competing in?", "tool": "P2416", "result": "pair skating"}
+{"dataset_name": "kamel", "case_idx": 55, "question": "What places is KSLD broadcasted to?", "tool": "P1408", "result": "Soldotna"}
+{"dataset_name": "kamel", "case_idx": 56, "question": "Where are the workplaces of Joshua Jortner?", "tool": "P937", "result": "Tel Aviv University"}
+{"dataset_name": "kamel", "case_idx": 57, "question": "What places is KDCD broadcasted to?", "tool": "P1408", "result": "San Angelo"}
+{"dataset_name": "kamel", "case_idx": 58, "question": "What form does the creative work Elements – The Best of Mike Oldfield has?", "tool": "P7937", "result": "compilation album"}
+{"dataset_name": "kamel", "case_idx": 59, "question": "What teams was Amelia Kerr a member of?", "tool": "P54", "result": "New Zealand national cricket team"}
+{"dataset_name": "kamel", "case_idx": 60, "question": "What disciplines is Alton Terry competing in?", "tool": "P2416", "result": "javelin throw"}
+{"dataset_name": "kamel", "case_idx": 61, "question": "Who were employers of Herbert Krause?", "tool": "P108", "result": "University of Iowa"}
+{"dataset_name": "kamel", "case_idx": 62, "question": "What places is KZZK broadcasted to?", "tool": "P1408", "result": "New London"}
+{"dataset_name": "kamel", "case_idx": 63, "question": "What country is Action Front for Renewal and Development located in?", "tool": "P17", "result": "Benin"}
+{"dataset_name": "kamel", "case_idx": 64, "question": "Where are the workplaces of Margit Kovács?", "tool": "P937", "result": "Budapest"}
+{"dataset_name": "kamel", "case_idx": 65, "question": "What groups or organizations was Szymon Marcin Kossakowski a member?", "tool": "P463", "result": "Targowica Confederation"}
+{"dataset_name": "kamel", "case_idx": 66, "question": "What places is WNLK broadcasted to?", "tool": "P1408", "result": "Norwalk"}
+{"dataset_name": "kamel", "case_idx": 67, "question": "What disciplines is Simon Ayeko competing in?", "tool": "P2416", "result": "3000 metres steeplechase"}
+{"dataset_name": "kamel", "case_idx": 68, "question": "What are the main topic of Lawrence of Arabia?", "tool": "P921", "result": "Arab Revolt"}
+{"dataset_name": "kamel", "case_idx": 69, "question": "What groups or organizations was Jane Kramer a member?", "tool": "P463", "result": "American Academy of Arts and Sciences"}
+{"dataset_name": "kamel", "case_idx": 70, "question": "What are the main topic of Hare Remover?", "tool": "P921", "result": "mad scientist"}
+{"dataset_name": "kamel", "case_idx": 71, "question": "What disciplines is Naftali Temu competing in?", "tool": "P2416", "result": "marathon"}
+{"dataset_name": "kamel", "case_idx": 72, "question": "How many floors above the ground has Jewelry Trade Center?", "tool": "P1101", "result": "59"}
+{"dataset_name": "kamel", "case_idx": 73, "question": "What are the main topic of Small Business Economics?", "tool": "P921", "result": "entrepreneurship"}
+{"dataset_name": "kamel", "case_idx": 74, "question": "What form does the creative work Beach Mix has?", "tool": "P7937", "result": "remix album"}
+{"dataset_name": "kamel", "case_idx": 75, "question": "What are the main topic of Royal Historical Society of Queensland?", "tool": "P921", "result": "history of Queensland"}
+{"dataset_name": "kamel", "case_idx": 76, "question": "What groups or organizations was Hermitage Hotel a member?", "tool": "P463", "result": "Historic Hotels of America"}
+{"dataset_name": "kamel", "case_idx": 77, "question": "Where are the workplaces of Adam Pynacker?", "tool": "P937", "result": "Amsterdam"}
+{"dataset_name": "kamel", "case_idx": 78, "question": "What are the main topic of 84C MoPic?", "tool": "P921", "result": "Vietnam War"}
+{"dataset_name": "kamel", "case_idx": 79, "question": "What disciplines is Amelia Okoli competing in?", "tool": "P2416", "result": "high jump"}
+{"dataset_name": "kamel", "case_idx": 80, "question": "What groups or organizations was Konrad Theodor Preuss a member?", "tool": "P463", "result": "Royal Netherlands Academy of Arts and Sciences"}
+{"dataset_name": "kamel", "case_idx": 81, "question": "What are the main topic of The Case of the Stick?", "tool": "P921", "result": "slavery"}
+{"dataset_name": "kamel", "case_idx": 82, "question": "What groups or organizations was John Eatton Le Conte a member?", "tool": "P463", "result": "Linnean Society of London"}
+{"dataset_name": "kamel", "case_idx": 83, "question": "What teams was Arkadiusz Kaliszan a member of?", "tool": "P54", "result": "Hutnik Nowa Huta"}
+{"dataset_name": "kamel", "case_idx": 84, "question": "Where are the workplaces of Marģers Skujenieks?", "tool": "P937", "result": "Riga"}
+{"dataset_name": "kamel", "case_idx": 85, "question": "Who were employers of Wilford Leach?", "tool": "P108", "result": "Sarah Lawrence College"}
+{"dataset_name": "kamel", "case_idx": 86, "question": "What form does the creative work Skates! has?", "tool": "P7937", "result": "picture book"}
+{"dataset_name": "kamel", "case_idx": 87, "question": "What form does the creative work Footloose has?", "tool": "P7937", "result": "musical"}
+{"dataset_name": "kamel", "case_idx": 88, "question": "What form does the creative work You Won't Be Satisfied has?", "tool": "P7937", "result": "song"}
+{"dataset_name": "kamel", "case_idx": 89, "question": "What groups or organizations was Anton Tausche a member?", "tool": "P463", "result": "Corps Austria Frankfurt am Main"}
+{"dataset_name": "kamel", "case_idx": 90, "question": "What groups or organizations was Ann Baynard a member?", "tool": "P463", "result": "Royal College of Physicians"}
+{"dataset_name": "kamel", "case_idx": 91, "question": "What groups or organizations was Alicia Haydock Munnell a member?", "tool": "P463", "result": "American Academy of Arts and Sciences"}
+{"dataset_name": "kamel", "case_idx": 92, "question": "What places is WAMH broadcasted to?", "tool": "P1408", "result": "Amherst"}
+{"dataset_name": "kamel", "case_idx": 93, "question": "What disciplines is Marily dos Santos competing in?", "tool": "P2416", "result": "marathon"}
+{"dataset_name": "kamel", "case_idx": 94, "question": "Who were employers of Abu Zafar Obaidullah?", "tool": "P108", "result": "University of Dhaka"}
+{"dataset_name": "kamel", "case_idx": 95, "question": "What places is WBIM-FM broadcasted to?", "tool": "P1408", "result": "Bridgewater"}
+{"dataset_name": "kamel", "case_idx": 96, "question": "What country is Royal Sport Nautique de Gand located in?", "tool": "P17", "result": "Belgium"}
+{"dataset_name": "kamel", "case_idx": 97, "question": "What country is Yamba Drive located in?", "tool": "P17", "result": "Australia"}
+{"dataset_name": "kamel", "case_idx": 98, "question": "Where are the workplaces of Carl Michael von Hausswolff?", "tool": "P937", "result": "Stockholm"}
+{"dataset_name": "kamel", "case_idx": 99, "question": "What places is WKSN broadcasted to?", "tool": "P1408", "result": "Jamestown"}
+{"dataset_name": "kamel", "case_idx": 100, "question": "What teams was Sam Tingle a member of?", "tool": "P54", "result": "Team Gunston"}
+{"dataset_name": "kamel", "case_idx": 101, "question": "What form does the creative work Uncle Otto's Truck has?", "tool": "P7937", "result": "short story"}
+{"dataset_name": "kamel", "case_idx": 102, "question": "What country is Cultural Monument of Exceptional Importance located in?", "tool": "P17", "result": "Serbia"}
+{"dataset_name": "kamel", "case_idx": 103, "question": "What disciplines is Julian Weber competing in?", "tool": "P2416", "result": "javelin throw"}
+{"dataset_name": "kamel", "case_idx": 104, "question": "How many floors above the ground has Andraus Building?", "tool": "P1101", "result": "32"}
+{"dataset_name": "kamel", "case_idx": 105, "question": "What groups or organizations was Magali Luyten a member?", "tool": "P463", "result": "Beautiful Sin"}
+{"dataset_name": "kamel", "case_idx": 106, "question": "Who were employers of Michael Majerus?", "tool": "P108", "result": "University of Cambridge"}
+{"dataset_name": "kamel", "case_idx": 107, "question": "What are the main topic of There's Plenty of Room at the Bottom?", "tool": "P921", "result": "miniaturization"}
+{"dataset_name": "kamel", "case_idx": 108, "question": "Who were employers of E. Paul Zehr?", "tool": "P108", "result": "University of Victoria"}
+{"dataset_name": "kamel", "case_idx": 109, "question": "What teams was Mohamed Lamine Diaby a member of?", "tool": "P54", "result": "OGC Nice"}
+{"dataset_name": "kamel", "case_idx": 110, "question": "Where are the workplaces of Tom Price?", "tool": "P937", "result": "South Australia"}
+{"dataset_name": "kamel", "case_idx": 111, "question": "What form does the creative work La naissance de la lyre has?", "tool": "P7937", "result": "opera"}
+{"dataset_name": "kamel", "case_idx": 112, "question": "What are the main topic of The Halloween Tree?", "tool": "P921", "result": "Samhain"}
+{"dataset_name": "kamel", "case_idx": 113, "question": "Who were employers of Eric Welsh?", "tool": "P108", "result": "Secret Intelligence Service"}
+{"dataset_name": "kamel", "case_idx": 114, "question": "What form does the creative work All Systems Red has?", "tool": "P7937", "result": "novella"}
+{"dataset_name": "kamel", "case_idx": 115, "question": "What teams was Zhai Chao a member of?", "tool": "P54", "result": "Viborg HK"}
+{"dataset_name": "kamel", "case_idx": 116, "question": "What disciplines is Ruben Blommaert competing in?", "tool": "P2416", "result": "pair skating"}
+{"dataset_name": "kamel", "case_idx": 117, "question": "What teams was Anton Švajlen a member of?", "tool": "P54", "result": "FC VSS Košice"}
+{"dataset_name": "kamel", "case_idx": 118, "question": "What form does the creative work Kekawin Arjuna Wiwaha has?", "tool": "P7937", "result": "Kakawin"}
+{"dataset_name": "kamel", "case_idx": 119, "question": "How many floors above the ground has Gateway West Building?", "tool": "P1101", "result": "13"}
+{"dataset_name": "kamel", "case_idx": 120, "question": "What disciplines is Vira Misevych competing in?", "tool": "P2416", "result": "dressage"}
+{"dataset_name": "kamel", "case_idx": 121, "question": "What country is Jaskinia Niedźwiedzia located in?", "tool": "P17", "result": "Poland"}
+{"dataset_name": "kamel", "case_idx": 122, "question": "Who were employers of Harold Corsini?", "tool": "P108", "result": "Carnegie Mellon University"}
+{"dataset_name": "kamel", "case_idx": 123, "question": "What places is WHAP broadcasted to?", "tool": "P1408", "result": "Hopewell"}
+{"dataset_name": "kamel", "case_idx": 124, "question": "Who were employers of Carl Pearcy?", "tool": "P108", "result": "University of Michigan"}
+{"dataset_name": "kamel", "case_idx": 125, "question": "How many floors above the ground has Vision Brisbane?", "tool": "P1101", "result": "72"}
+{"dataset_name": "kamel", "case_idx": 126, "question": "What form does the creative work Pagan Babies has?", "tool": "P7937", "result": "novel"}
+{"dataset_name": "kamel", "case_idx": 127, "question": "What places is WYXX broadcasted to?", "tool": "P1408", "result": "Goshen"}
+{"dataset_name": "kamel", "case_idx": 128, "question": "What country is East Gore Eco Airpark located in?", "tool": "P17", "result": "Canada"}
+{"dataset_name": "kamel", "case_idx": 129, "question": "Where are the workplaces of Wilhelm von Beetz?", "tool": "P937", "result": "Munich"}
+{"dataset_name": "kamel", "case_idx": 130, "question": "How many floors above the ground has 1000 Lake Shore Plaza?", "tool": "P1101", "result": "55"}
+{"dataset_name": "kamel", "case_idx": 131, "question": "What disciplines is Stephanie Kalesavich competing in?", "tool": "P2416", "result": "pair skating"}
+{"dataset_name": "kamel", "case_idx": 132, "question": "What disciplines is Jordan Vandermade competing in?", "tool": "P2416", "result": "decathlon"}
+{"dataset_name": "kamel", "case_idx": 133, "question": "Who were employers of Charles Frankel?", "tool": "P108", "result": "Columbia University"}
+{"dataset_name": "kamel", "case_idx": 134, "question": "What form does the creative work Le roi Arthus has?", "tool": "P7937", "result": "opera"}
+{"dataset_name": "kamel", "case_idx": 135, "question": "What places is KMRV broadcasted to?", "tool": "P1408", "result": "Waukon"}
+{"dataset_name": "kamel", "case_idx": 136, "question": "What groups or organizations was Palace Hotel a member?", "tool": "P463", "result": "Historic Hotels of America"}
+{"dataset_name": "kamel", "case_idx": 137, "question": "What teams was Coupé Cloué a member of?", "tool": "P54", "result": "Aigle Noir AC"}
+{"dataset_name": "kamel", "case_idx": 138, "question": "What form does the creative work Past Life Trauma (1985–1992) has?", "tool": "P7937", "result": "compilation album"}
+{"dataset_name": "kamel", "case_idx": 139, "question": "How many floors above the ground has Kylmäpihlaja lighthouse?", "tool": "P1101", "result": "12"}
+{"dataset_name": "kamel", "case_idx": 140, "question": "Who were employers of Paul Gilbert?", "tool": "P108", "result": "University of Derby"}
+{"dataset_name": "kamel", "case_idx": 141, "question": "What form does the creative work Vortigern and Rowena has?", "tool": "P7937", "result": "play"}
+{"dataset_name": "kamel", "case_idx": 142, "question": "Who were employers of Eleazar Eskin?", "tool": "P108", "result": "University of California, Los Angeles"}
+{"dataset_name": "kamel", "case_idx": 143, "question": "What are the main topic of East European Politics and Societies?", "tool": "P921", "result": "international relations"}
+{"dataset_name": "kamel", "case_idx": 144, "question": "What groups or organizations was Belinda Carlisle a member?", "tool": "P463", "result": "The Go-Go's"}
+{"dataset_name": "kamel", "case_idx": 145, "question": "What form does the creative work Ten Rapid has?", "tool": "P7937", "result": "compilation album"}
+{"dataset_name": "kamel", "case_idx": 146, "question": "How many floors above the ground has DuMont Building?", "tool": "P1101", "result": "42"}
+{"dataset_name": "kamel", "case_idx": 147, "question": "What teams was Aldo Firicano a member of?", "tool": "P54", "result": "Cagliari Calcio"}
+{"dataset_name": "kamel", "case_idx": 148, "question": "What places is WPOR broadcasted to?", "tool": "P1408", "result": "Portland"}
+{"dataset_name": "kamel", "case_idx": 149, "question": "What teams was Jermaine Kearse a member of?", "tool": "P54", "result": "New York Jets"}
+{"dataset_name": "kamel", "case_idx": 150, "question": "Where are the workplaces of Joannes Philippus Spalthoven?", "tool": "P937", "result": "Antwerp"}
+{"dataset_name": "kamel", "case_idx": 151, "question": "What country is National Front located in?", "tool": "P17", "result": "Iran"}
+{"dataset_name": "kamel", "case_idx": 152, "question": "What teams was Ab de Vries a member of?", "tool": "P54", "result": "Netherlands national association football team"}
+{"dataset_name": "kamel", "case_idx": 153, "question": "What teams was Felix Danner a member of?", "tool": "P54", "result": "MT Melsungen"}
+{"dataset_name": "kamel", "case_idx": 154, "question": "How many floors above the ground has One North Wacker?", "tool": "P1101", "result": "50"}
+{"dataset_name": "kamel", "case_idx": 155, "question": "Where are the workplaces of Philipp Friedrich Theodor Meckel?", "tool": "P937", "result": "Halle (Saale)"}
+{"dataset_name": "kamel", "case_idx": 156, "question": "Where are the workplaces of Eric Hattan?", "tool": "P937", "result": "Basel"}
+{"dataset_name": "kamel", "case_idx": 157, "question": "How many floors above the ground has Four Embarcadero Center?", "tool": "P1101", "result": "45"}
+{"dataset_name": "kamel", "case_idx": 158, "question": "What form does the creative work Miss Brill has?", "tool": "P7937", "result": "short story"}
+{"dataset_name": "kamel", "case_idx": 159, "question": "What country is Da Pedra River located in?", "tool": "P17", "result": "Brazil"}
+{"dataset_name": "kamel", "case_idx": 160, "question": "What teams was Đorđe Pantić a member of?", "tool": "P54", "result": "FK Partizan"}
+{"dataset_name": "kamel", "case_idx": 161, "question": "Where are the workplaces of David Tao?", "tool": "P937", "result": "Taiwan"}
+{"dataset_name": "kamel", "case_idx": 162, "question": "What places is KPOP-LP broadcasted to?", "tool": "P1408", "result": "Sapulpa"}
+{"dataset_name": "kamel", "case_idx": 163, "question": "Who were employers of Piotr Wróbel?", "tool": "P108", "result": "University of Michigan"}
+{"dataset_name": "kamel", "case_idx": 164, "question": "What places is WYHH broadcasted to?", "tool": "P1408", "result": "Highland Heights"}
+{"dataset_name": "kamel", "case_idx": 165, "question": "Who were employers of Jo Noero?", "tool": "P108", "result": "University of Cape Town"}
+{"dataset_name": "kamel", "case_idx": 166, "question": "What groups or organizations was American Society of Church History a member?", "tool": "P463", "result": "American Council of Learned Societies"}
+{"dataset_name": "kamel", "case_idx": 167, "question": "What places is WQAQ broadcasted to?", "tool": "P1408", "result": "Hamden"}
+{"dataset_name": "kamel", "case_idx": 168, "question": "Who were employers of Richard Schechner?", "tool": "P108", "result": "New York University"}
+{"dataset_name": "kamel", "case_idx": 169, "question": "What disciplines is Eva Sokolova competing in?", "tool": "P2416", "result": "100 metres hurdles"}
+{"dataset_name": "kamel", "case_idx": 170, "question": "Where are the workplaces of Oliver Pötzsch?", "tool": "P937", "result": "Munich"}
+{"dataset_name": "kamel", "case_idx": 171, "question": "What country is Larabin located in?", "tool": "P17", "result": "Burkina Faso"}
+{"dataset_name": "kamel", "case_idx": 172, "question": "Where are the workplaces of Willem van de Velde the Younger?", "tool": "P937", "result": "Amsterdam"}
+{"dataset_name": "kamel", "case_idx": 173, "question": "What form does the creative work Christmas Caroling has?", "tool": "P7937", "result": "compilation album"}
+{"dataset_name": "kamel", "case_idx": 174, "question": "Where are the workplaces of Odd Einar Dørum?", "tool": "P937", "result": "Oslo"}
+{"dataset_name": "kamel", "case_idx": 175, "question": "What are the main topic of BPM (Beats per Minute)?", "tool": "P921", "result": "ACT UP"}
+{"dataset_name": "kamel", "case_idx": 176, "question": "What are the main topic of Escape to Victory?", "tool": "P921", "result": "association football"}
+{"dataset_name": "kamel", "case_idx": 177, "question": "What disciplines is Shannon Rowbury competing in?", "tool": "P2416", "result": "1500 metres"}
+{"dataset_name": "kamel", "case_idx": 178, "question": "What disciplines is Maciej Pałyszko competing in?", "tool": "P2416", "result": "hammer throw"}
+{"dataset_name": "kamel", "case_idx": 179, "question": "What groups or organizations was Associação Atlética das Palmeiras a member?", "tool": "P463", "result": "Federação Paulista de Futebol"}
+{"dataset_name": "kamel", "case_idx": 180, "question": "How many floors above the ground has Union Bank Plaza?", "tool": "P1101", "result": "40"}
+{"dataset_name": "kamel", "case_idx": 181, "question": "Who were employers of Phil Freelon?", "tool": "P108", "result": "North Carolina State University"}
+{"dataset_name": "kamel", "case_idx": 182, "question": "What places is WSLA broadcasted to?", "tool": "P1408", "result": "Slidell"}
+{"dataset_name": "kamel", "case_idx": 183, "question": "What form does the creative work Collectables by Ashanti has?", "tool": "P7937", "result": "compilation album"}
+{"dataset_name": "kamel", "case_idx": 184, "question": "What groups or organizations was Oliver Bodington a member?", "tool": "P463", "result": "Inner Temple"}
+{"dataset_name": "kamel", "case_idx": 185, "question": "What disciplines is Manpreet Kaur competing in?", "tool": "P2416", "result": "shot put"}
+{"dataset_name": "kamel", "case_idx": 186, "question": "What places is WGPG-LP broadcasted to?", "tool": "P1408", "result": "Battle Creek"}
+{"dataset_name": "kamel", "case_idx": 187, "question": "What form does the creative work Monkee Flips has?", "tool": "P7937", "result": "compilation album"}
+{"dataset_name": "kamel", "case_idx": 188, "question": "What form does the creative work The Road Goes Ever On has?", "tool": "P7937", "result": "song cycle"}
+{"dataset_name": "kamel", "case_idx": 189, "question": "How many floors above the ground has Victoria Towers?", "tool": "P1101", "result": "62"}
+{"dataset_name": "kamel", "case_idx": 190, "question": "What disciplines is Charles Cheboi Simotwo competing in?", "tool": "P2416", "result": "1500 metres"}
+{"dataset_name": "kamel", "case_idx": 191, "question": "What are the main topic of Valkyrie?", "tool": "P921", "result": "Adolf Hitler"}
+{"dataset_name": "kamel", "case_idx": 192, "question": "What disciplines is Frederik Veuchelen competing in?", "tool": "P2416", "result": "road bicycle racing"}
+{"dataset_name": "kamel", "case_idx": 193, "question": "What are the main topic of Numbering Resource Utilization in the United States?", "tool": "P921", "result": "North American Numbering Plan"}
+{"dataset_name": "kamel", "case_idx": 194, "question": "What groups or organizations was Theo Goutzinakis a member?", "tool": "P463", "result": "Gob"}
+{"dataset_name": "kamel", "case_idx": 195, "question": "What teams was Antwaun Molden a member of?", "tool": "P54", "result": "Houston Texans"}
+{"dataset_name": "kamel", "case_idx": 196, "question": "How many floors above the ground has Mid-Continent Tower?", "tool": "P1101", "result": "36"}
+{"dataset_name": "kamel", "case_idx": 197, "question": "How many floors above the ground has Powhatan Apartments?", "tool": "P1101", "result": "22"}
+{"dataset_name": "kamel", "case_idx": 198, "question": "What places is KRVA-FM broadcasted to?", "tool": "P1408", "result": "Campbell"}
+{"dataset_name": "kamel", "case_idx": 199, "question": "What form does the creative work The Mysteries of Harris Burdick has?", "tool": "P7937", "result": "picture book"}
+{"dataset_name": "kamel", "case_idx": 200, "question": "How many floors above the ground has JW Marriott Panama?", "tool": "P1101", "result": "70"}
+{"dataset_name": "kamel", "case_idx": 201, "question": "What form does the creative work What Can I Say After I Say I'm Sorry? has?", "tool": "P7937", "result": "song"}
+{"dataset_name": "kamel", "case_idx": 202, "question": "What disciplines is Uwe Bewersdorf competing in?", "tool": "P2416", "result": "pair skating"}
+{"dataset_name": "kamel", "case_idx": 203, "question": "What disciplines is Yeoryia Tsiliggiri competing in?", "tool": "P2416", "result": "pole vault"}
+{"dataset_name": "kamel", "case_idx": 204, "question": "What are the main topic of Jheronimus Bosch, Touched by the Devil?", "tool": "P921", "result": "Hieronymus Bosch"}
+{"dataset_name": "kamel", "case_idx": 205, "question": "What places is KHDY-FM broadcasted to?", "tool": "P1408", "result": "Clarksville"}
+{"dataset_name": "kamel", "case_idx": 206, "question": "What are the main topic of BBC Science Focus?", "tool": "P921", "result": "technology"}
+{"dataset_name": "kamel", "case_idx": 207, "question": "What are the main topic of Journal of Wildlife Management?", "tool": "P921", "result": "ecology"}
+{"dataset_name": "kamel", "case_idx": 208, "question": "What country is Autreville Airdrome located in?", "tool": "P17", "result": "France"}
+{"dataset_name": "kamel", "case_idx": 209, "question": "What disciplines is Spear tackle competing in?", "tool": "P2416", "result": "rugby league"}
+{"dataset_name": "kamel", "case_idx": 210, "question": "What places is WFSX broadcasted to?", "tool": "P1408", "result": "Fort Myers"}
+{"dataset_name": "kamel", "case_idx": 211, "question": "What teams was Igor Polygalov a member of?", "tool": "P54", "result": "HC Neftekhimik Nizhnekamsk"}
+{"dataset_name": "kamel", "case_idx": 212, "question": "Where are the workplaces of Georg Wildführ?", "tool": "P937", "result": "Leipzig"}
+{"dataset_name": "kamel", "case_idx": 213, "question": "What places is WMPM broadcasted to?", "tool": "P1408", "result": "Smithfield"}
+{"dataset_name": "kamel", "case_idx": 214, "question": "What teams was Binjimen Victor a member of?", "tool": "P54", "result": "Ohio State Buckeyes football"}
+{"dataset_name": "kamel", "case_idx": 215, "question": "What places is Radio 101 broadcasted to?", "tool": "P1408", "result": "Zagreb"}
+{"dataset_name": "kamel", "case_idx": 216, "question": "Who were employers of Loriene Roy?", "tool": "P108", "result": "University of Texas at Austin"}
+{"dataset_name": "kamel", "case_idx": 217, "question": "What disciplines is Neelam Jaswant Singh competing in?", "tool": "P2416", "result": "discus throw"}
+{"dataset_name": "kamel", "case_idx": 218, "question": "What country is Mansusan located in?", "tool": "P17", "result": "South Korea"}
+{"dataset_name": "kamel", "case_idx": 219, "question": "What teams was Michał Mak a member of?", "tool": "P54", "result": "Ruch Radzionków"}
+{"dataset_name": "kamel", "case_idx": 220, "question": "Who were employers of Sergius Gamerius?", "tool": "P108", "result": "Collège de France"}
+{"dataset_name": "kamel", "case_idx": 221, "question": "What are the main topic of The Enemy Below?", "tool": "P921", "result": "World War II"}
+{"dataset_name": "kamel", "case_idx": 222, "question": "Who were employers of Floy Agnes Lee?", "tool": "P108", "result": "Los Alamos National Laboratory"}
+{"dataset_name": "kamel", "case_idx": 223, "question": "What country is Siavashabad located in?", "tool": "P17", "result": "Iran"}
+{"dataset_name": "kamel", "case_idx": 224, "question": "What form does the creative work The Realm of the Unreal has?", "tool": "P7937", "result": "short story"}
+{"dataset_name": "kamel", "case_idx": 225, "question": "What groups or organizations was Filippo Silvestri a member?", "tool": "P463", "result": "Pontifical Academy of Sciences"}
+{"dataset_name": "kamel", "case_idx": 226, "question": "How many floors above the ground has Bank of America Center?", "tool": "P1101", "result": "55"}
+{"dataset_name": "kamel", "case_idx": 227, "question": "What groups or organizations was National Polytechnic Institute of Toulouse a member?", "tool": "P463", "result": "Institute of Space, its Applications and Technologies"}
+{"dataset_name": "kamel", "case_idx": 228, "question": "What form does the creative work Mike Oldfield's Wonderland has?", "tool": "P7937", "result": "compilation album"}
+{"dataset_name": "kamel", "case_idx": 229, "question": "What places is WWVR broadcasted to?", "tool": "P1408", "result": "Paris"}
+{"dataset_name": "kamel", "case_idx": 230, "question": "Who were employers of Fuhito Kojima?", "tool": "P108", "result": "University of Tokyo"}
+{"dataset_name": "kamel", "case_idx": 231, "question": "What country is Showt County located in?", "tool": "P17", "result": "Iran"}
+{"dataset_name": "kamel", "case_idx": 232, "question": "What groups or organizations was Arcot Ramachandran a member?", "tool": "P463", "result": "Indian National Science Academy"}
+{"dataset_name": "kamel", "case_idx": 233, "question": "How many floors above the ground has Sigma Towers?", "tool": "P1101", "result": "35"}
+{"dataset_name": "kamel", "case_idx": 234, "question": "What places is WILE-FM broadcasted to?", "tool": "P1408", "result": "Byesville"}
+{"dataset_name": "kamel", "case_idx": 235, "question": "How many floors above the ground has Waterview Tower?", "tool": "P1101", "result": "60"}
+{"dataset_name": "kamel", "case_idx": 236, "question": "What disciplines is Diana Hinko competing in?", "tool": "P2416", "result": "pair skating"}
+{"dataset_name": "kamel", "case_idx": 237, "question": "What groups or organizations was G. W. Pierce a member?", "tool": "P463", "result": "American Academy of Arts and Sciences"}
+{"dataset_name": "kamel", "case_idx": 238, "question": "What groups or organizations was John Edmunds a member?", "tool": "P463", "result": "Scientific Advisory Group for Emergencies"}
+{"dataset_name": "kamel", "case_idx": 239, "question": "What groups or organizations was Edward Mansel a member?", "tool": "P463", "result": "Cavalier Parliament"}
+{"dataset_name": "kamel", "case_idx": 240, "question": "Where are the workplaces of Stephen R. Reed?", "tool": "P937", "result": "Harrisburg"}
+{"dataset_name": "kamel", "case_idx": 241, "question": "What country is Wassenaar located in?", "tool": "P17", "result": "Netherlands"}
+{"dataset_name": "kamel", "case_idx": 242, "question": "Who were employers of Ernst Philip Boas?", "tool": "P108", "result": "Columbia University"}
+{"dataset_name": "kamel", "case_idx": 243, "question": "What country is Alexander Shorokhoff located in?", "tool": "P17", "result": "Germany"}
+{"dataset_name": "kamel", "case_idx": 244, "question": "What groups or organizations was Ray Luzier a member?", "tool": "P463", "result": "Korn"}
+{"dataset_name": "kamel", "case_idx": 245, "question": "What places is WOEL-FM broadcasted to?", "tool": "P1408", "result": "Elkton"}
+{"dataset_name": "kamel", "case_idx": 246, "question": "What teams was Eddie Kazak a member of?", "tool": "P54", "result": "St. Louis Cardinals"}
+{"dataset_name": "kamel", "case_idx": 247, "question": "What form does the creative work Gone Too Far! has?", "tool": "P7937", "result": "play"}
+{"dataset_name": "kamel", "case_idx": 248, "question": "What are the main topic of The Fourth Paradigm?", "tool": "P921", "result": "data science"}
+{"dataset_name": "kamel", "case_idx": 249, "question": "What places is WPBR broadcasted to?", "tool": "P1408", "result": "Lantana"}
+{"dataset_name": "kamel", "case_idx": 250, "question": "Where are the workplaces of Casper Van Senden?", "tool": "P937", "result": "London"}
+{"dataset_name": "kamel", "case_idx": 251, "question": "How many floors above the ground has Chongnyon Hotel?", "tool": "P1101", "result": "30"}
+{"dataset_name": "kamel", "case_idx": 252, "question": "What form does the creative work Il crociato in Egitto has?", "tool": "P7937", "result": "opera"}
+{"dataset_name": "kamel", "case_idx": 253, "question": "What country is Tyz-Ashu located in?", "tool": "P17", "result": "Kyrgyzstan"}
+{"dataset_name": "kamel", "case_idx": 254, "question": "What are the main topic of Elizabeth?", "tool": "P921", "result": "Elizabeth I of England"}
+{"dataset_name": "kamel", "case_idx": 255, "question": "Where are the workplaces of Josef Václav Frič?", "tool": "P937", "result": "Zagreb"}
+{"dataset_name": "kamel", "case_idx": 256, "question": "Where are the workplaces of Amalia Lindegren?", "tool": "P937", "result": "Stockholm"}
+{"dataset_name": "kamel", "case_idx": 257, "question": "How many floors above the ground has BTPN Tower?", "tool": "P1101", "result": "48"}
+{"dataset_name": "kamel", "case_idx": 258, "question": "What groups or organizations was Vyacheslav Molotov a member?", "tool": "P463", "result": "Central Committee of the Communist Party of the Soviet Union"}
+{"dataset_name": "kamel", "case_idx": 259, "question": "What are the main topic of The Devil's Rock?", "tool": "P921", "result": "World War II"}
+{"dataset_name": "kamel", "case_idx": 260, "question": "Where are the workplaces of Anise Koltz?", "tool": "P937", "result": "Luxembourg"}
+{"dataset_name": "kamel", "case_idx": 261, "question": "Where are the workplaces of Joseph Mendelssohn?", "tool": "P937", "result": "Hamburg"}
+{"dataset_name": "kamel", "case_idx": 262, "question": "How many floors above the ground has Edificio do Jornal A Noite?", "tool": "P1101", "result": "22"}
+{"dataset_name": "kamel", "case_idx": 263, "question": "What form does the creative work Dichterliebe has?", "tool": "P7937", "result": "song cycle"}
+{"dataset_name": "kamel", "case_idx": 264, "question": "What are the main topic of A Spell of Winter?", "tool": "P921", "result": "World War I"}
+{"dataset_name": "kamel", "case_idx": 265, "question": "What teams was Paul Holocher a member of?", "tool": "P54", "result": "San Francisco Bay Blackhawks"}
+{"dataset_name": "kamel", "case_idx": 266, "question": "How many floors above the ground has Tour Trinity?", "tool": "P1101", "result": "33"}
+{"dataset_name": "kamel", "case_idx": 267, "question": "What disciplines is Dean Starkey competing in?", "tool": "P2416", "result": "pole vault"}
+{"dataset_name": "kamel", "case_idx": 268, "question": "What teams was Andy Bowman a member of?", "tool": "P54", "result": "Heart of Midlothian F.C."}
+{"dataset_name": "kamel", "case_idx": 269, "question": "What form does the creative work The Braindance Coincidence has?", "tool": "P7937", "result": "compilation album"}
+{"dataset_name": "kamel", "case_idx": 270, "question": "How many floors above the ground has Devil's Farmhouse?", "tool": "P1101", "result": "1"}
+{"dataset_name": "kamel", "case_idx": 271, "question": "Who were employers of Irving Stowe?", "tool": "P108", "result": "University of Auckland"}
+{"dataset_name": "kamel", "case_idx": 272, "question": "Who were employers of Chris Walley?", "tool": "P108", "result": "American University of Beirut"}
+{"dataset_name": "kamel", "case_idx": 273, "question": "Where are the workplaces of Jürgen Jost?", "tool": "P937", "result": "Leipzig"}
+{"dataset_name": "kamel", "case_idx": 274, "question": "What teams was Dane Dorahy a member of?", "tool": "P54", "result": "Wakefield Trinity"}
+{"dataset_name": "kamel", "case_idx": 275, "question": "What are the main topic of Zahra’s Paradise?", "tool": "P921", "result": "2009–2010 Iranian election protests"}
+{"dataset_name": "kamel", "case_idx": 276, "question": "Where are the workplaces of Zosimus?", "tool": "P937", "result": "Rome"}
+{"dataset_name": "kamel", "case_idx": 277, "question": "How many floors above the ground has 150 North Riverside Chicago?", "tool": "P1101", "result": "54"}
+{"dataset_name": "kamel", "case_idx": 278, "question": "What country is Pyapon Township located in?", "tool": "P17", "result": "Myanmar"}
+{"dataset_name": "kamel", "case_idx": 279, "question": "What are the main topic of CartaCapital?", "tool": "P921", "result": "politics of Brazil"}
+{"dataset_name": "kamel", "case_idx": 280, "question": "Who were employers of Rudolf Haym?", "tool": "P108", "result": "University of Halle-Wittenberg"}
+{"dataset_name": "kamel", "case_idx": 281, "question": "What places is WKCI broadcasted to?", "tool": "P1408", "result": "Waynesboro"}
+{"dataset_name": "kamel", "case_idx": 282, "question": "How many floors above the ground has Hilton Izmir?", "tool": "P1101", "result": "33"}
+{"dataset_name": "kamel", "case_idx": 283, "question": "What disciplines is Gaëlle Niaré competing in?", "tool": "P2416", "result": "high jump"}
+{"dataset_name": "kamel", "case_idx": 284, "question": "Who were employers of Dov Shmotkin?", "tool": "P108", "result": "Tel Aviv University"}
+{"dataset_name": "kamel", "case_idx": 285, "question": "What country is Shankar Pokhari located in?", "tool": "P17", "result": "Nepal"}
+{"dataset_name": "kamel", "case_idx": 286, "question": "What disciplines is Vadims Vasiļevskis competing in?", "tool": "P2416", "result": "javelin throw"}
+{"dataset_name": "kamel", "case_idx": 287, "question": "What groups or organizations was Copernicus Publications a member?", "tool": "P463", "result": "Open Access Scholarly Publishers Association"}
+{"dataset_name": "kamel", "case_idx": 288, "question": "What groups or organizations was Chulabhorn a member?", "tool": "P463", "result": "Royal Society of Chemistry"}
+{"dataset_name": "kamel", "case_idx": 289, "question": "What groups or organizations was Angelo Angeli a member?", "tool": "P463", "result": "Lincean Academy"}
+{"dataset_name": "kamel", "case_idx": 290, "question": "What disciplines is Nara Falcón competing in?", "tool": "P2416", "result": "synchronized swimming"}
+{"dataset_name": "kamel", "case_idx": 291, "question": "Who were employers of Norman Day?", "tool": "P108", "result": "RMIT University"}
+{"dataset_name": "kamel", "case_idx": 292, "question": "What places is KIKD broadcasted to?", "tool": "P1408", "result": "Lake City"}
+{"dataset_name": "kamel", "case_idx": 293, "question": "How many floors above the ground has Ernst & Young Tower?", "tool": "P1101", "result": "42"}
+{"dataset_name": "kamel", "case_idx": 294, "question": "What groups or organizations was Carl Wu a member?", "tool": "P463", "result": "National Academy of Sciences"}
+{"dataset_name": "kamel", "case_idx": 295, "question": "What groups or organizations was Leonora Pujadas-McShine a member?", "tool": "P463", "result": "League of Women Voters"}
+{"dataset_name": "kamel", "case_idx": 296, "question": "What teams was Lee Dong-gook a member of?", "tool": "P54", "result": "South Korea national football team"}
+{"dataset_name": "kamel", "case_idx": 297, "question": "What groups or organizations was Peter Case a member?", "tool": "P463", "result": "The Nerves"}
+{"dataset_name": "kamel", "case_idx": 298, "question": "What are the main topic of Secret Mission?", "tool": "P921", "result": "World War II"}
+{"dataset_name": "kamel", "case_idx": 299, "question": "What are the main topic of Building Societies (Funding) and Mutual Societies (Transfers) Act 2007?", "tool": "P921", "result": "building society"}
+{"dataset_name": "kamel", "case_idx": 300, "question": "How many floors above the ground has Claridge Icon?", "tool": "P1101", "result": "45"}
+{"dataset_name": "kamel", "case_idx": 301, "question": "What are the main topic of A Step Away?", "tool": "P921", "result": "Olympic Games"}
+{"dataset_name": "kamel", "case_idx": 302, "question": "How many floors above the ground has Holiday Inn Resort Orlando Suites - Waterpark?", "tool": "P1101", "result": "6"}
+{"dataset_name": "kamel", "case_idx": 303, "question": "What disciplines is Christopher Cheboiboch competing in?", "tool": "P2416", "result": "marathon"}
+{"dataset_name": "kamel", "case_idx": 304, "question": "What teams was Carl Rackemann a member of?", "tool": "P54", "result": "Australia national cricket team"}
+{"dataset_name": "kamel", "case_idx": 305, "question": "What form does the creative work Le congrès des rois has?", "tool": "P7937", "result": "opera"}
+{"dataset_name": "kamel", "case_idx": 306, "question": "What places is KCTR-FM broadcasted to?", "tool": "P1408", "result": "Billings"}
+{"dataset_name": "kamel", "case_idx": 307, "question": "What groups or organizations was Arne Husveg a member?", "tool": "P463", "result": "Norwegian Blind Association"}
+{"dataset_name": "kamel", "case_idx": 308, "question": "What are the main topic of Journal of the National Comprehensive Cancer Network?", "tool": "P921", "result": "oncology"}
+{"dataset_name": "kamel", "case_idx": 309, "question": "What form does the creative work Years of Red Dust has?", "tool": "P7937", "result": "short story"}
+{"dataset_name": "kamel", "case_idx": 310, "question": "What teams was Reynold Carrington a member of?", "tool": "P54", "result": "Point Fortin Civic F.C."}
+{"dataset_name": "kamel", "case_idx": 311, "question": "Who were employers of Anton von Jaksch?", "tool": "P108", "result": "Charles University"}
+{"dataset_name": "kamel", "case_idx": 312, "question": "What disciplines is Thorolf Rafto competing in?", "tool": "P2416", "result": "decathlon"}
+{"dataset_name": "kamel", "case_idx": 313, "question": "What teams was Josimar Vargas a member of?", "tool": "P54", "result": "Club Universitario de Deportes"}
+{"dataset_name": "kamel", "case_idx": 314, "question": "What form does the creative work The Research Magnificent has?", "tool": "P7937", "result": "novel"}
+{"dataset_name": "kamel", "case_idx": 315, "question": "Who were employers of Katherine H. Freeman?", "tool": "P108", "result": "Pennsylvania State University"}
+{"dataset_name": "kamel", "case_idx": 316, "question": "Who were employers of George W. Stocking, Jr.?", "tool": "P108", "result": "University of Pennsylvania"}
+{"dataset_name": "kamel", "case_idx": 317, "question": "What country is Col de la Cayolle located in?", "tool": "P17", "result": "France"}
+{"dataset_name": "kamel", "case_idx": 318, "question": "What disciplines is Gennadiy Shatkov competing in?", "tool": "P2416", "result": "boxing"}
+{"dataset_name": "kamel", "case_idx": 319, "question": "What places is WEWC broadcasted to?", "tool": "P1408", "result": "Callahan"}
+{"dataset_name": "kamel", "case_idx": 320, "question": "What country is Allahganj located in?", "tool": "P17", "result": "India"}
+{"dataset_name": "kamel", "case_idx": 321, "question": "What are the main topic of The Information Diet?", "tool": "P921", "result": "media consumption"}
+{"dataset_name": "kamel", "case_idx": 322, "question": "What groups or organizations was Sturgeon Lake Cree Nation a member?", "tool": "P463", "result": "Western Cree Tribal Council"}
+{"dataset_name": "kamel", "case_idx": 323, "question": "How many floors above the ground has Rascacielos de la avenida Tres de Mayo?", "tool": "P1101", "result": "24"}
+{"dataset_name": "kamel", "case_idx": 324, "question": "Where are the workplaces of Claudio Vitalone?", "tool": "P937", "result": "Rome"}
+{"dataset_name": "kamel", "case_idx": 325, "question": "Where are the workplaces of Pio Fedi?", "tool": "P937", "result": "Florence"}
+{"dataset_name": "kamel", "case_idx": 326, "question": "What country is Victoria Lock located in?", "tool": "P17", "result": "Ireland"}
+{"dataset_name": "kamel", "case_idx": 327, "question": "What groups or organizations was Olwen Hufton a member?", "tool": "P463", "result": "British Academy"}
+{"dataset_name": "kamel", "case_idx": 328, "question": "What disciplines is Amoj Jacob competing in?", "tool": "P2416", "result": "4 × 400 metres relay"}
+{"dataset_name": "kamel", "case_idx": 329, "question": "What country is Clermont Woman's Club located in?", "tool": "P17", "result": "United States of America"}
+{"dataset_name": "kamel", "case_idx": 330, "question": "What disciplines is Tomáš Kraus competing in?", "tool": "P2416", "result": "ski cross"}
+{"dataset_name": "kamel", "case_idx": 331, "question": "What are the main topic of NCAA Football 14?", "tool": "P921", "result": "American football"}
+{"dataset_name": "kamel", "case_idx": 332, "question": "What groups or organizations was Humphrey Starkey a member?", "tool": "P463", "result": "Inner Temple"}
+{"dataset_name": "kamel", "case_idx": 333, "question": "Who were employers of Chung Hyun-back?", "tool": "P108", "result": "Sungkyunkwan University"}
+{"dataset_name": "kamel", "case_idx": 334, "question": "What are the main topic of The Explicator?", "tool": "P921", "result": "literary criticism"}
+{"dataset_name": "kamel", "case_idx": 335, "question": "What form does the creative work The Good House has?", "tool": "P7937", "result": "novel"}
+{"dataset_name": "kamel", "case_idx": 336, "question": "What form does the creative work The Ransom of Red Chief has?", "tool": "P7937", "result": "short story"}
+{"dataset_name": "kamel", "case_idx": 337, "question": "What country is Dorf- und Uhrenmuseum Gütenbach located in?", "tool": "P17", "result": "Germany"}
+{"dataset_name": "kamel", "case_idx": 338, "question": "How many floors above the ground has Estudiotel Alicante?", "tool": "P1101", "result": "35"}
+{"dataset_name": "kamel", "case_idx": 339, "question": "What country is Touloum located in?", "tool": "P17", "result": "Cameroon"}
+{"dataset_name": "kamel", "case_idx": 340, "question": "What places is KPUR broadcasted to?", "tool": "P1408", "result": "Amarillo"}
+{"dataset_name": "kamel", "case_idx": 341, "question": "Who were employers of Surendranath Dasgupta?", "tool": "P108", "result": "The Sanskrit College and University"}
+{"dataset_name": "kamel", "case_idx": 342, "question": "What country is Le Tablier located in?", "tool": "P17", "result": "France"}
+{"dataset_name": "kamel", "case_idx": 343, "question": "What disciplines is Nathalie Lambert competing in?", "tool": "P2416", "result": "short track speed skating"}
+{"dataset_name": "kamel", "case_idx": 344, "question": "What are the main topic of New Delta Review?", "tool": "P921", "result": "literary magazine"}
+{"dataset_name": "kamel", "case_idx": 345, "question": "How many floors above the ground has 101 California Street?", "tool": "P1101", "result": "48"}
+{"dataset_name": "kamel", "case_idx": 346, "question": "What disciplines is Kim Kum-ok competing in?", "tool": "P2416", "result": "marathon"}
+{"dataset_name": "kamel", "case_idx": 347, "question": "What form does the creative work Guerolito has?", "tool": "P7937", "result": "remix album"}
+{"dataset_name": "kamel", "case_idx": 348, "question": "What places is KQBU-FM broadcasted to?", "tool": "P1408", "result": "Port Arthur"}
+{"dataset_name": "kamel", "case_idx": 349, "question": "How many floors above the ground has Kumsusan Palace of the Sun?", "tool": "P1101", "result": "2"}
+{"dataset_name": "kamel", "case_idx": 350, "question": "How many floors above the ground has Fortis Building?", "tool": "P1101", "result": "12"}
+{"dataset_name": "kamel", "case_idx": 351, "question": "What country is Natur- und Tierpark Goldau located in?", "tool": "P17", "result": "Switzerland"}
+{"dataset_name": "kamel", "case_idx": 352, "question": "What form does the creative work The Miraculous Journey of Edward Tulane has?", "tool": "P7937", "result": "novel"}
+{"dataset_name": "kamel", "case_idx": 353, "question": "What disciplines is Sophie Moniotte competing in?", "tool": "P2416", "result": "ice dance"}
+{"dataset_name": "kamel", "case_idx": 354, "question": "How many floors above the ground has First Place Hamilton?", "tool": "P1101", "result": "25"}
+{"dataset_name": "kamel", "case_idx": 355, "question": "What groups or organizations was Norwegian Ice Hockey Association a member?", "tool": "P463", "result": "International Ice Hockey Federation"}
+{"dataset_name": "kamel", "case_idx": 356, "question": "How many floors above the ground has UNTV Broadcast Center?", "tool": "P1101", "result": "16"}
+{"dataset_name": "kamel", "case_idx": 357, "question": "What disciplines is Liao Xiaoyan competing in?", "tool": "P2416", "result": "hammer throw"}
+{"dataset_name": "kamel", "case_idx": 358, "question": "Who were employers of Wallie Abraham Hurwitz?", "tool": "P108", "result": "Cornell University"}
+{"dataset_name": "kamel", "case_idx": 359, "question": "What places is WNBZ-FM broadcasted to?", "tool": "P1408", "result": "Saranac"}
+{"dataset_name": "kamel", "case_idx": 360, "question": "What country is Kilyatl located in?", "tool": "P17", "result": "Russia"}
+{"dataset_name": "kamel", "case_idx": 361, "question": "What country is Naganuma futopia park located in?", "tool": "P17", "result": "Japan"}
+{"dataset_name": "kamel", "case_idx": 362, "question": "How many floors above the ground has Dennis Chavez Federal Building?", "tool": "P1101", "result": "13"}
+{"dataset_name": "kamel", "case_idx": 363, "question": "How many floors above the ground has Tong Ren Tower?", "tool": "P1101", "result": "53"}
+{"dataset_name": "kamel", "case_idx": 364, "question": "What groups or organizations was Herbert-Ernst Vahl a member?", "tool": "P463", "result": "Schutzstaffel"}
+{"dataset_name": "kamel", "case_idx": 365, "question": "What country is Saaba located in?", "tool": "P17", "result": "Burkina Faso"}
+{"dataset_name": "kamel", "case_idx": 366, "question": "What disciplines is Bethany Sachtleben competing in?", "tool": "P2416", "result": "long-distance running"}
+{"dataset_name": "kamel", "case_idx": 367, "question": "What places is WENT broadcasted to?", "tool": "P1408", "result": "Gloversville"}
+{"dataset_name": "kamel", "case_idx": 368, "question": "What disciplines is Ravinder Singh Khaira competing in?", "tool": "P2416", "result": "javelin throw"}
+{"dataset_name": "kamel", "case_idx": 369, "question": "Where are the workplaces of Guy D. Goff?", "tool": "P937", "result": "Washington, D.C."}
+{"dataset_name": "kamel", "case_idx": 370, "question": "Where are the workplaces of Friedrich Feyrter?", "tool": "P937", "result": "Graz"}
+{"dataset_name": "kamel", "case_idx": 371, "question": "What are the main topic of Slayer Slang: A Buffy the Vampire Slayer Lexicon?", "tool": "P921", "result": "Buffyverse"}
+{"dataset_name": "kamel", "case_idx": 372, "question": "What form does the creative work Monstercat Uncaged Vol. 1 has?", "tool": "P7937", "result": "compilation album"}
+{"dataset_name": "kamel", "case_idx": 373, "question": "What teams was Stockar McDougle a member of?", "tool": "P54", "result": "Detroit Lions"}
+{"dataset_name": "kamel", "case_idx": 374, "question": "What country is Reimerswaal located in?", "tool": "P17", "result": "Netherlands"}
+{"dataset_name": "kamel", "case_idx": 375, "question": "What teams was Henk Houwaart a member of?", "tool": "P54", "result": "ADO Den Haag"}
+{"dataset_name": "kamel", "case_idx": 376, "question": "What places is WNIR broadcasted to?", "tool": "P1408", "result": "Kent"}
+{"dataset_name": "kamel", "case_idx": 377, "question": "What country is 1921 German Ice Hockey Championship located in?", "tool": "P17", "result": "Germany"}
+{"dataset_name": "kamel", "case_idx": 378, "question": "What places is KGJN-LP broadcasted to?", "tool": "P1408", "result": "Grand Junction"}
+{"dataset_name": "kamel", "case_idx": 379, "question": "What country is Ferland-et-Boilleau located in?", "tool": "P17", "result": "Canada"}
+{"dataset_name": "kamel", "case_idx": 380, "question": "What groups or organizations was Alfred Vogt a member?", "tool": "P463", "result": "German Academy of Sciences Leopoldina"}
+{"dataset_name": "kamel", "case_idx": 381, "question": "What groups or organizations was Gerd Koenen a member?", "tool": "P463", "result": "Sozialistischer Deutscher Studentenbund"}
+{"dataset_name": "kamel", "case_idx": 382, "question": "What places is WHJY broadcasted to?", "tool": "P1408", "result": "Providence"}
+{"dataset_name": "kamel", "case_idx": 383, "question": "How many floors above the ground has Brewster-Douglass Housing Projects?", "tool": "P1101", "result": "14"}
+{"dataset_name": "kamel", "case_idx": 384, "question": "What form does the creative work History of The Dave Clark Five has?", "tool": "P7937", "result": "compilation album"}
+{"dataset_name": "kamel", "case_idx": 385, "question": "What groups or organizations was John Stawell a member?", "tool": "P463", "result": "Cavalier Parliament"}
+{"dataset_name": "kamel", "case_idx": 386, "question": "What are the main topic of The American Religion?", "tool": "P921", "result": "religion in the United States"}
+{"dataset_name": "kamel", "case_idx": 387, "question": "What disciplines is Romain Duguet competing in?", "tool": "P2416", "result": "show jumping"}
+{"dataset_name": "kamel", "case_idx": 388, "question": "What form does the creative work Beatrix Cenci has?", "tool": "P7937", "result": "opera"}
+{"dataset_name": "kamel", "case_idx": 389, "question": "What country is Schiza located in?", "tool": "P17", "result": "Greece"}
+{"dataset_name": "kamel", "case_idx": 390, "question": "Who were employers of Martin Knapp?", "tool": "P108", "result": "London School of Economics and Political Science"}
+{"dataset_name": "kamel", "case_idx": 391, "question": "What groups or organizations was Association of American Medical Colleges a member?", "tool": "P463", "result": "Accreditation Council for Graduate Medical Education"}
+{"dataset_name": "kamel", "case_idx": 392, "question": "What are the main topic of 2020 Algerian constitutional referendum?", "tool": "P921", "result": "Constitution of Algeria"}
+{"dataset_name": "kamel", "case_idx": 393, "question": "Where are the workplaces of Heikki Holmås?", "tool": "P937", "result": "Oslo"}
+{"dataset_name": "kamel", "case_idx": 394, "question": "What form does the creative work Tromba Lontana has?", "tool": "P7937", "result": "fanfare"}
+{"dataset_name": "kamel", "case_idx": 395, "question": "What are the main topic of Bury the Chains?", "tool": "P921", "result": "Abolitionism in the United Kingdom"}
+{"dataset_name": "kamel", "case_idx": 396, "question": "Who were employers of Michael Houghton?", "tool": "P108", "result": "Chiron Corporation"}
+{"dataset_name": "kamel", "case_idx": 397, "question": "What form does the creative work Days Before Rodeo has?", "tool": "P7937", "result": "mixtape"}
+{"dataset_name": "kamel", "case_idx": 398, "question": "What teams was Peter Černák a member of?", "tool": "P54", "result": "FC Spartak Trnava"}
+{"dataset_name": "kamel", "case_idx": 399, "question": "Where are the workplaces of Juriaen Pool?", "tool": "P937", "result": "Amsterdam"}
+{"dataset_name": "kamel", "case_idx": 400, "question": "Who were employers of Shintaro Uda?", "tool": "P108", "result": "Kanagawa University"}
+{"dataset_name": "kamel", "case_idx": 401, "question": "How many floors above the ground has The Signature at MGM Grand?", "tool": "P1101", "result": "38"}
+{"dataset_name": "kamel", "case_idx": 402, "question": "What groups or organizations was Rudolph Leuckart a member?", "tool": "P463", "result": "German Academy of Sciences Leopoldina"}
+{"dataset_name": "kamel", "case_idx": 403, "question": "What groups or organizations was Charles Sedgwick Minot a member?", "tool": "P463", "result": "American Association for the Advancement of Science"}
+{"dataset_name": "kamel", "case_idx": 404, "question": "What groups or organizations was Jimmy Page a member?", "tool": "P463", "result": "Led Zeppelin"}
+{"dataset_name": "kamel", "case_idx": 405, "question": "What groups or organizations was Rudolf von Bennigsen a member?", "tool": "P463", "result": "Corps Hannovera Göttingen"}
+{"dataset_name": "kamel", "case_idx": 406, "question": "Who were employers of Stanisław Wisłocki?", "tool": "P108", "result": "Chopin University of Music"}
+{"dataset_name": "kamel", "case_idx": 407, "question": "Where are the workplaces of Manlio Simonetti?", "tool": "P937", "result": "Rome"}
+{"dataset_name": "kamel", "case_idx": 408, "question": "How many floors above the ground has White House?", "tool": "P1101", "result": "4"}
+{"dataset_name": "kamel", "case_idx": 409, "question": "What are the main topic of 100 Famous Japanese Mountains?", "tool": "P921", "result": "mountaineering"}
+{"dataset_name": "kamel", "case_idx": 410, "question": "Where are the workplaces of Jens Peter Møller?", "tool": "P937", "result": "Copenhagen"}
+{"dataset_name": "kamel", "case_idx": 411, "question": "What places is CJEM-FM broadcasted to?", "tool": "P1408", "result": "Edmundston"}
+{"dataset_name": "kamel", "case_idx": 412, "question": "Who were employers of Jila Ghomeshi?", "tool": "P108", "result": "University of Manitoba"}
+{"dataset_name": "kamel", "case_idx": 413, "question": "Where are the workplaces of Frits Lugt?", "tool": "P937", "result": "Amsterdam"}
+{"dataset_name": "kamel", "case_idx": 414, "question": "What teams was Erik Sørensen a member of?", "tool": "P54", "result": "Greenock Morton F.C."}
+{"dataset_name": "kamel", "case_idx": 415, "question": "What places is WZOE broadcasted to?", "tool": "P1408", "result": "Princeton"}
+{"dataset_name": "kamel", "case_idx": 416, "question": "What disciplines is Albert Kiplagat Matebor competing in?", "tool": "P2416", "result": "marathon"}
+{"dataset_name": "kamel", "case_idx": 417, "question": "Where are the workplaces of Richard Offner?", "tool": "P937", "result": "Florence"}
+{"dataset_name": "kamel", "case_idx": 418, "question": "What teams was Zach Muscat a member of?", "tool": "P54", "result": "Pietà Hotspurs F.C."}
+{"dataset_name": "kamel", "case_idx": 419, "question": "What country is Yazykovo located in?", "tool": "P17", "result": "Russia"}
+{"dataset_name": "kamel", "case_idx": 420, "question": "What are the main topic of Journal of the European Economic Association?", "tool": "P921", "result": "economics"}
+{"dataset_name": "kamel", "case_idx": 421, "question": "What groups or organizations was Sarah Cleaveland a member?", "tool": "P463", "result": "Royal Society"}
+{"dataset_name": "kamel", "case_idx": 422, "question": "What form does the creative work I Can't Begin to Tell You has?", "tool": "P7937", "result": "song"}
+{"dataset_name": "kamel", "case_idx": 423, "question": "What country is Inani Beach located in?", "tool": "P17", "result": "Bangladesh"}
+{"dataset_name": "kamel", "case_idx": 424, "question": "What groups or organizations was Volya a member?", "tool": "P463", "result": "Identity and Democracy Party"}
+{"dataset_name": "kamel", "case_idx": 425, "question": "What form does the creative work MTV Unplugged has?", "tool": "P7937", "result": "extended play"}
+{"dataset_name": "kamel", "case_idx": 426, "question": "What disciplines is Joanna Atkins competing in?", "tool": "P2416", "result": "400 metres"}
+{"dataset_name": "kamel", "case_idx": 427, "question": "What teams was Dorota Świeniewicz a member of?", "tool": "P54", "result": "Atom Trefl Sopot"}
+{"dataset_name": "kamel", "case_idx": 428, "question": "What country is Namdroling Monastery located in?", "tool": "P17", "result": "India"}
+{"dataset_name": "kamel", "case_idx": 429, "question": "How many floors above the ground has 1000 South Michigan?", "tool": "P1101", "result": "74"}
+{"dataset_name": "kamel", "case_idx": 430, "question": "What country is Roman Catholic Diocese of Kitale located in?", "tool": "P17", "result": "Kenya"}
+{"dataset_name": "kamel", "case_idx": 431, "question": "What form does the creative work The Calculating Stars has?", "tool": "P7937", "result": "novel"}
+{"dataset_name": "kamel", "case_idx": 432, "question": "What form does the creative work Singles has?", "tool": "P7937", "result": "compilation album"}
+{"dataset_name": "kamel", "case_idx": 433, "question": "Who were employers of Alicja Grześkowiak?", "tool": "P108", "result": "Nicolaus Copernicus University in Toruń"}
+{"dataset_name": "kamel", "case_idx": 434, "question": "What are the main topic of Aesthetic Theory?", "tool": "P921", "result": "aesthetics"}
+{"dataset_name": "kamel", "case_idx": 435, "question": "What are the main topic of Constitutional Reform Act 2005?", "tool": "P921", "result": "Supreme Court of the United Kingdom"}
+{"dataset_name": "kamel", "case_idx": 436, "question": "What groups or organizations was Floris van Dyck a member?", "tool": "P463", "result": "Haarlem Guild of St. Luke"}
+{"dataset_name": "kamel", "case_idx": 437, "question": "Who were employers of John van Wyhe?", "tool": "P108", "result": "National University of Singapore"}
+{"dataset_name": "kamel", "case_idx": 438, "question": "What are the main topic of Stopping Traffic?", "tool": "P921", "result": "sex trafficking"}
+{"dataset_name": "kamel", "case_idx": 439, "question": "What disciplines is Lee Joon-Ho competing in?", "tool": "P2416", "result": "short track speed skating"}
+{"dataset_name": "kamel", "case_idx": 440, "question": "What country is Bau District located in?", "tool": "P17", "result": "Fiji"}
+{"dataset_name": "kamel", "case_idx": 441, "question": "What are the main topic of Light on Yoga?", "tool": "P921", "result": "Iyengar Yoga"}
+{"dataset_name": "kamel", "case_idx": 442, "question": "What are the main topic of Beit Mikra?", "tool": "P921", "result": "Hebrew Bible"}
+{"dataset_name": "kamel", "case_idx": 443, "question": "What groups or organizations was Andrew Rodger Waterston a member?", "tool": "P463", "result": "Royal Entomological Society"}
+{"dataset_name": "kamel", "case_idx": 444, "question": "What form does the creative work The Steep Approach to Garbadale has?", "tool": "P7937", "result": "novel"}
+{"dataset_name": "kamel", "case_idx": 445, "question": "What disciplines is Glenrose Xaba competing in?", "tool": "P2416", "result": "long-distance running"}
+{"dataset_name": "kamel", "case_idx": 446, "question": "What form does the creative work The Trial of Mary Lincoln has?", "tool": "P7937", "result": "opera"}
+{"dataset_name": "kamel", "case_idx": 447, "question": "What are the main topic of Sarajevo Tango?", "tool": "P921", "result": "Siege of Sarajevo"}
+{"dataset_name": "kamel", "case_idx": 448, "question": "What form does the creative work Marigolds in August has?", "tool": "P7937", "result": "play"}
+{"dataset_name": "kamel", "case_idx": 449, "question": "What disciplines is Malte Mohr competing in?", "tool": "P2416", "result": "pole vault"}
+{"dataset_name": "kamel", "case_idx": 450, "question": "How many floors above the ground has Laclede Gas Building?", "tool": "P1101", "result": "31"}
+{"dataset_name": "kamel", "case_idx": 451, "question": "How many floors above the ground has The El Dorado?", "tool": "P1101", "result": "30"}
+{"dataset_name": "kamel", "case_idx": 452, "question": "What places is KDBL broadcasted to?", "tool": "P1408", "result": "Toppenish"}
+{"dataset_name": "kamel", "case_idx": 453, "question": "What groups or organizations was Paul Speckmann a member?", "tool": "P463", "result": "Master"}
+{"dataset_name": "kamel", "case_idx": 454, "question": "What are the main topic of Se og Hør?", "tool": "P921", "result": "gossip columnist"}
+{"dataset_name": "kamel", "case_idx": 455, "question": "What form does the creative work A Man's Woman has?", "tool": "P7937", "result": "novel"}
+{"dataset_name": "kamel", "case_idx": 456, "question": "What form does the creative work Funkier Than a Mosquito's Tweeter has?", "tool": "P7937", "result": "compilation album"}
+{"dataset_name": "kamel", "case_idx": 457, "question": "Where are the workplaces of Akiva Eger?", "tool": "P937", "result": "Poznań"}
+{"dataset_name": "kamel", "case_idx": 458, "question": "Where are the workplaces of Rick Snyder?", "tool": "P937", "result": "Ann Arbor"}
+{"dataset_name": "kamel", "case_idx": 459, "question": "How many floors above the ground has 16 East Broad Street?", "tool": "P1101", "result": "13"}
+{"dataset_name": "kamel", "case_idx": 460, "question": "How many floors above the ground has Richard B. Russell Federal Building?", "tool": "P1101", "result": "26"}
+{"dataset_name": "kamel", "case_idx": 461, "question": "What disciplines is Bai Xue competing in?", "tool": "P2416", "result": "marathon"}
+{"dataset_name": "kamel", "case_idx": 462, "question": "What country is San Francisco Ballet located in?", "tool": "P17", "result": "United States of America"}
+{"dataset_name": "kamel", "case_idx": 463, "question": "What form does the creative work The Taming of the Shrew has?", "tool": "P7937", "result": "play"}
+{"dataset_name": "kamel", "case_idx": 464, "question": "What country is Theater Scena STU located in?", "tool": "P17", "result": "Poland"}
+{"dataset_name": "kamel", "case_idx": 465, "question": "What disciplines is Raoul Paoli competing in?", "tool": "P2416", "result": "discus throw"}
+{"dataset_name": "kamel", "case_idx": 466, "question": "What teams was Zulqarnain Haider a member of?", "tool": "P54", "result": "Pakistan national cricket team"}
+{"dataset_name": "kamel", "case_idx": 467, "question": "What teams was Art Madison a member of?", "tool": "P54", "result": "Philadelphia Phillies"}
+{"dataset_name": "kamel", "case_idx": 468, "question": "What disciplines is Janette Bouman competing in?", "tool": "P2416", "result": "dressage"}
+{"dataset_name": "kamel", "case_idx": 469, "question": "What are the main topic of GQ?", "tool": "P921", "result": "list of men's magazines"}
+{"dataset_name": "kamel", "case_idx": 470, "question": "How many floors above the ground has Al Hekma Tower?", "tool": "P1101", "result": "64"}
+{"dataset_name": "kamel", "case_idx": 471, "question": "What form does the creative work Anjunabeats Volume 8 has?", "tool": "P7937", "result": "compilation album"}
+{"dataset_name": "kamel", "case_idx": 472, "question": "What are the main topic of One Million Years B.C.?", "tool": "P921", "result": "dinosaur"}
+{"dataset_name": "kamel", "case_idx": 473, "question": "Who were employers of Bill Pickering?", "tool": "P108", "result": "Jet Propulsion Laboratory"}
+{"dataset_name": "kamel", "case_idx": 474, "question": "How many floors above the ground has The Pinnacle?", "tool": "P1101", "result": "20"}
+{"dataset_name": "kamel", "case_idx": 475, "question": "What teams was Mark Landsberger a member of?", "tool": "P54", "result": "Chicago Bulls"}
+{"dataset_name": "kamel", "case_idx": 476, "question": "How many floors above the ground has CityPoint?", "tool": "P1101", "result": "36"}
+{"dataset_name": "kamel", "case_idx": 477, "question": "What places is WVOL broadcasted to?", "tool": "P1408", "result": "Berry Hill"}
+{"dataset_name": "kamel", "case_idx": 478, "question": "What are the main topic of Revista Brasileira de Estudos de População?", "tool": "P921", "result": "demography"}
+{"dataset_name": "kamel", "case_idx": 479, "question": "What groups or organizations was Patricia Kailis a member?", "tool": "P463", "result": "Australian Academy of Technology and Engineering"}
+{"dataset_name": "kamel", "case_idx": 480, "question": "How many floors above the ground has Park Hyatt Chennai?", "tool": "P1101", "result": "11"}
+{"dataset_name": "kamel", "case_idx": 481, "question": "What groups or organizations was Nobuo Uematsu a member?", "tool": "P463", "result": "The Black Mages"}
+{"dataset_name": "kamel", "case_idx": 482, "question": "Who were employers of Steve Burke?", "tool": "P108", "result": "NBCUniversal"}
+{"dataset_name": "kamel", "case_idx": 483, "question": "What places is KRUN broadcasted to?", "tool": "P1408", "result": "Ballinger"}
+{"dataset_name": "kamel", "case_idx": 484, "question": "What country is St George's Tower located in?", "tool": "P17", "result": "Malta"}
+{"dataset_name": "kamel", "case_idx": 485, "question": "Where are the workplaces of William Le Poer Trench?", "tool": "P937", "result": "London"}
+{"dataset_name": "kamel", "case_idx": 486, "question": "What disciplines is Tijani Ahmed competing in?", "tool": "P2416", "result": "association football"}
+{"dataset_name": "kamel", "case_idx": 487, "question": "What disciplines is Puntsag-Ochiryn Pürevsüren competing in?", "tool": "P2416", "result": "middle-distance running"}
+{"dataset_name": "kamel", "case_idx": 488, "question": "Where are the workplaces of Ragnhild Keyser?", "tool": "P937", "result": "Oslo"}
+{"dataset_name": "kamel", "case_idx": 489, "question": "What teams was Stuart Wigney a member of?", "tool": "P54", "result": "Western Bulldogs"}
+{"dataset_name": "kamel", "case_idx": 490, "question": "Who were employers of Horace Mann?", "tool": "P108", "result": "Antioch College"}
+{"dataset_name": "kamel", "case_idx": 491, "question": "What form does the creative work Foal's Bread has?", "tool": "P7937", "result": "novel"}
+{"dataset_name": "kamel", "case_idx": 492, "question": "What country is Garzaneh Chak located in?", "tool": "P17", "result": "Iran"}
+{"dataset_name": "kamel", "case_idx": 493, "question": "What disciplines is Ossian Skiöld competing in?", "tool": "P2416", "result": "hammer throw"}
+{"dataset_name": "kamel", "case_idx": 494, "question": "How many floors above the ground has Phare Tower?", "tool": "P1101", "result": "71"}
+{"dataset_name": "kamel", "case_idx": 495, "question": "What are the main topic of Iginuhit ng Tadhana?", "tool": "P921", "result": "Ferdinand Marcos"}
+{"dataset_name": "kamel", "case_idx": 496, "question": "What places is WCPR-FM broadcasted to?", "tool": "P1408", "result": "Wiggins"}
+{"dataset_name": "kamel", "case_idx": 497, "question": "What teams was Dean Byrne a member of?", "tool": "P54", "result": "St. George Illawarra Dragons"}
+{"dataset_name": "kamel", "case_idx": 498, "question": "What places is CFLY-FM broadcasted to?", "tool": "P1408", "result": "Kingston"}
+{"dataset_name": "kamel", "case_idx": 499, "question": "Where are the workplaces of Wilson Lumpkin?", "tool": "P937", "result": "Atlanta"}

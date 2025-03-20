@@ -1,0 +1,2588 @@
+{
+    "tool_dict": {
+        "<P1408>": 0,
+        "<P921>": 1,
+        "<P2416>": 2,
+        "<P54>": 3,
+        "<P17>": 4,
+        "<P7937>": 5,
+        "<P463>": 6,
+        "<P108>": 7,
+        "<P1101>": 8,
+        "<P937>": 9,
+        "<P580>": 10,
+        "<P413>": 11,
+        "<P1132>": 12,
+        "<P105>": 13,
+        "<P1971>": 14,
+        "<P47>": 15,
+        "<P123>": 16,
+        "<P241>": 17,
+        "<P1001>": 18,
+        "<P575>": 19,
+        "<P1532>": 20,
+        "<P641>": 21,
+        "<P69>": 22,
+        "<P452>": 23,
+        "<P159>": 24,
+        "<P59>": 25,
+        "<P1303>": 26,
+        "<P449>": 27,
+        "<P619>": 28,
+        "<P1350>": 29,
+        "<P27>": 30,
+        "<P569>": 31,
+        "<P1103>": 32,
+        "<P571>": 33,
+        "<P750>": 34,
+        "<P577>": 35,
+        "<P118>": 36,
+        "<P3999>": 37,
+        "<P509>": 38,
+        "<P127>": 39,
+        "<P606>": 40,
+        "<P570>": 41,
+        "<P101>": 42,
+        "<P39>": 43,
+        "<P102>": 44,
+        "<P2437>": 45,
+        "<P582>": 46,
+        "<P2031>": 47,
+        "<P495>": 48,
+        "<P190>": 49,
+        "<P20>": 50,
+        "<P306>": 51,
+        "<P576>": 52,
+        "<P1056>": 53,
+        "<P31>": 54,
+        "<P1113>": 55,
+        "<P400>": 56,
+        "<P407>": 57,
+        "<P740>": 58,
+        "<P551>": 59,
+        "<P7959>": 60,
+        "<P361>": 61,
+        "<P2044>": 62,
+        "<P840>": 63,
+        "<P264>": 64,
+        "<P136>": 65,
+        "<P175>": 66,
+        "<P106>": 67,
+        "<P279>": 68,
+        "<P276>": 69,
+        "<P156>": 70,
+        "<P1082>": 71,
+        "<P155>": 72,
+        "<P140>": 73,
+        "<P585>": 74,
+        "<P410>": 75,
+        "<P131>": 76,
+        "<P710>": 77,
+        "<P19>": 78,
+        "<P729>": 79,
+        "<P2032>": 80,
+        "<P183>": 81,
+        "<P137>": 82,
+        "<P1619>": 83,
+        "<P527>": 84,
+        "<P119>": 85,
+        "<P57>": 86,
+        "<P461>": 87,
+        "<P287>": 88,
+        "<P1923>": 89,
+        "<P676>": 90,
+        "<P800>": 91,
+        "<P945>": 92,
+        "<P149>": 93,
+        "<P344>": 94,
+        "<P177>": 95,
+        "<P84>": 96,
+        "<P186>": 97,
+        "<P915>": 98,
+        "<P1191>": 99,
+        "<P170>": 100,
+        "<P141>": 101,
+        "<P112>": 102,
+        "<P4908>": 103,
+        "<P22>": 104,
+        "<P272>": 105,
+        "<P180>": 106,
+        "<P171>": 107,
+        "<P103>": 108,
+        "<P355>": 109,
+        "<P1441>": 110,
+        "<P2868>": 111,
+        "<P65>": 112,
+        "<P81>": 113,
+        "<P647>": 114,
+        "<P36>": 115,
+        "<P161>": 116,
+        "<P427>": 117,
+        "<P1598>": 118,
+        "<P2348>": 119,
+        "<P286>": 120,
+        "<P1142>": 121,
+        "<P115>": 122,
+        "<P6379>": 123,
+        "<P5353>": 124,
+        "<P135>": 125,
+        "<P674>": 126,
+        "<P611>": 127,
+        "<P3018>": 128,
+        "<P1411>": 129,
+        "<P4552>": 130,
+        "<P1444>": 131,
+        "<P1249>": 132,
+        "<P40>": 133,
+        "<P1416>": 134,
+        "<P412>": 135,
+        "<P86>": 136,
+        "<P559>": 137,
+        "<P749>": 138,
+        "<P607>": 139,
+        "<P2936>": 140,
+        "<P162>": 141,
+        "<P451>": 142,
+        "<P2094>": 143,
+        "<P184>": 144,
+        "<P466>": 145,
+        "<P2632>": 146,
+        "<P61>": 147,
+        "<P1346>": 148,
+        "<P58>": 149,
+        "<P1376>": 150,
+        "<P737>": 151,
+        "<P415>": 152,
+        "<P7153>": 153,
+        "<P53>": 154,
+        "<P991>": 155,
+        "<P974>": 156,
+        "<P1427>": 157,
+        "<P366>": 158,
+        "<P1435>": 159,
+        "<P26>": 160,
+        "<P1366>": 161,
+        "<P706>": 162,
+        "<P541>": 163,
+        "<P802>": 164,
+        "<P50>": 165,
+        "<P144>": 166,
+        "<P3450>": 167,
+        "<P197>": 168,
+        "<P931>": 169,
+        "<P291>": 170,
+        "<P664>": 171,
+        "<P3602>": 172,
+        "<P2789>": 173,
+        "<P1038>": 174,
+        "<P176>": 175,
+        "<P1344>": 176,
+        "<P488>": 177,
+        "<P166>": 178,
+        "<P371>": 179,
+        "<P1830>": 180,
+        "<P138>": 181,
+        "<P172>": 182,
+        "<P178>": 183,
+        "<P1327>": 184,
+        "<P179>": 185,
+        "<P3373>": 186,
+        "<P1066>": 187,
+        "<P1027>": 188,
+        "<P403>": 189,
+        "<P1365>": 190,
+        "<P98>": 191,
+        "<P25>": 192,
+        "<P708>": 193,
+        "<P150>": 194,
+        "<P185>": 195,
+        "<P195>": 196,
+        "<P206>": 197,
+        "<P1192>": 198,
+        "<P196>": 199,
+        "<P2597>": 200,
+        "<P30>": 201,
+        "<P4884>": 202,
+        "<P4743>": 203,
+        "<P97>": 204,
+        "<P201>": 205,
+        "<P3764>": 206,
+        "<P6886>": 207,
+        "<P1433>": 208,
+        "<P88>": 209,
+        "<P414>": 210,
+        "<P703>": 211,
+        "<P1050>": 212,
+        "<P610>": 213,
+        "<P113>": 214,
+        "<P1877>": 215,
+        "<P1308>": 216,
+        "<P6>": 217,
+        "<P4647>": 218,
+        "<P669>": 219,
+        "<P765>": 220,
+        "<P467>": 221,
+        "<P200>": 222,
+        "<P277>": 223,
+        "<P6087>": 224,
+        "<P37>": 225,
+        "<P2522>": 226,
+        "<P2341>": 227,
+        "<P8875>": 228,
+        "<P126>": 229,
+        "<P2975>": 230,
+        "<P87>": 231,
+        "<P364>": 232,
+        "<P1412>": 233
+    },
+    "tool_information": {
+        "<P1408>": {
+            "tool_name": "<P1408>",
+            "tool_description": "broadcasted_places(station): gets the places where a radio station is broadcasted to"
+        },
+        "<P921>": {
+            "tool_name": "<P921>",
+            "tool_description": "main_topics(title): gets the main topics of a book or magazine"
+        },
+        "<P2416>": {
+            "tool_name": "<P2416>",
+            "tool_description": "competition_disciplines(name): gets the disciplines a person is competing in."
+        },
+        "<P54>": {
+            "tool_name": "<P54>",
+            "tool_description": "team_membership(name): gets the list of teams a person was a member of."
+        },
+        "<P17>": {
+            "tool_name": "<P17>",
+            "tool_description": "location(name): gets the country where a location is located."
+        },
+        "<P7937>": {
+            "tool_name": "<P7937>",
+            "tool_description": "creative_work_type(title): gets the type or format of a creative work"
+        },
+        "<P463>": {
+            "tool_name": "<P463>",
+            "tool_description": "membership(name): gets the groups or organizations a person was a member of."
+        },
+        "<P108>": {
+            "tool_name": "<P108>",
+            "tool_description": "employer(name): gets the employers of a person"
+        },
+        "<P1101>": {
+            "tool_name": "<P1101>",
+            "tool_description": "floors_above_ground(name): gets the number of floors above the ground of a building or property."
+        },
+        "<P937>": {
+            "tool_name": "<P937>",
+            "tool_description": "workplaces(name): gets the workplaces of a person"
+        },
+        "<P580>": {
+            "tool_name": "<P580>",
+            "tool_description": "start_year(title): gets the year when a TV show or a movie started airing"
+        },
+        "<P413>": {
+            "tool_name": "<P413>",
+            "tool_description": "positions_played(name): gets the positions played by a sports player."
+        },
+        "<P1132>": {
+            "tool_name": "<P1132>",
+            "tool_description": "number_of_participants(event_name): gets the number of participants in a sporting event"
+        },
+        "<P105>": {
+            "tool_name": "<P105>",
+            "tool_description": "taxon_rank(species_name): gets the taxonomic rank of a given species name."
+        },
+        "<P1971>": {
+            "tool_name": "<P1971>",
+            "tool_description": "number_of_children(name): gets the number of children a person has"
+        },
+        "<P47>": {
+            "tool_name": "<P47>",
+            "tool_description": "bordering_cities(name): gets the names of the cities that share borders with a given city or urban agglomeration."
+        },
+        "<P123>": {
+            "tool_name": "<P123>",
+            "tool_description": "publisher(title): gets the publisher of a work."
+        },
+        "<P241>": {
+            "tool_name": "<P241>",
+            "tool_description": "military_branch(name): gets the military branch that a person is a member of."
+        },
+        "<P1001>": {
+            "tool_name": "<P1001>",
+            "tool_description": "jurisdictions(name): gets the jurisdictions that an organization belongs to."
+        },
+        "<P575>": {
+            "tool_name": "<P575>",
+            "tool_description": "year_invented(title): gets the year an object was invented or discovered."
+        },
+        "<P1532>": {
+            "tool_name": "<P1532>",
+            "tool_description": "countries_played(name): gets the list of countries a player has played for."
+        },
+        "<P641>": {
+            "tool_name": "<P641>",
+            "tool_description": "sports_played(name): gets the list of sports played by a person"
+        },
+        "<P69>": {
+            "tool_name": "<P69>",
+            "tool_description": "education(name): gets the educational institution where a person was educated at"
+        },
+        "<P452>": {
+            "tool_name": "<P452>",
+            "tool_description": "active_industries(name): gets the industries a company or organization is active in."
+        },
+        "<P159>": {
+            "tool_name": "<P159>",
+            "tool_description": "headquarter_location(company_name): gets the location of the headquarters of a company."
+        },
+        "<P59>": {
+            "tool_name": "<P59>",
+            "tool_description": "constellation(name): gets the constellation that an astronomical object is a part of."
+        },
+        "<P1303>": {
+            "tool_name": "<P1303>",
+            "tool_description": "instruments_played(name): gets the instruments played by a musician."
+        },
+        "<P449>": {
+            "tool_name": "<P449>",
+            "tool_description": "original_broadcaster(title): gets the original broadcaster of a TV show or movie."
+        },
+        "<P619>": {
+            "tool_name": "<P619>",
+            "tool_description": "launch_year(name): gets the launch year of a space mission or satellite"
+        },
+        "<P1350>": {
+            "tool_name": "<P1350>",
+            "tool_description": "matches_played(title/name): gets the number of matches played by a person or event."
+        },
+        "<P27>": {
+            "tool_name": "<P27>",
+            "tool_description": "country_of_citizenship(name): gets the country of citizenship of a person."
+        },
+        "<P569>": {
+            "tool_name": "<P569>",
+            "tool_description": "year_of_birth(name): gets the year of birth of a person"
+        },
+        "<P1103>": {
+            "tool_name": "<P1103>",
+            "tool_description": "number_of_platforms(station): gets the number of platforms of a train station"
+        },
+        "<P571>": {
+            "tool_name": "<P571>",
+            "tool_description": "creation_year(title): gets the year of creation of an art work or organization/position"
+        },
+        "<P750>": {
+            "tool_name": "<P750>",
+            "tool_description": "distributors(title): gets the distributors of an art work"
+        },
+        "<P577>": {
+            "tool_name": "<P577>",
+            "tool_description": "publication_year(title): gets the publication year of a book or other written work"
+        },
+        "<P118>": {
+            "tool_name": "<P118>",
+            "tool_description": "playing_leagues(team): gets the leagues a team has played in."
+        },
+        "<P3999>": {
+            "tool_name": "<P3999>",
+            "tool_description": "closing_year(name): gets the closing year of a hospital or institution."
+        },
+        "<P509>": {
+            "tool_name": "<P509>",
+            "tool_description": "causes_of_death(name): gets the causes of death of a person."
+        },
+        "<P127>": {
+            "tool_name": "<P127>",
+            "tool_description": "owner_entity(title): gets the owner entity of a company or organization."
+        },
+        "<P606>": {
+            "tool_name": "<P606>",
+            "tool_description": "first_flight_year(model): gets the year of first flight of an aircraft model"
+        },
+        "<P570>": {
+            "tool_name": "<P570>",
+            "tool_description": "year_of_death(name): gets the year of death of a person."
+        },
+        "<P101>": {
+            "tool_name": "<P101>",
+            "tool_description": "fields_of_work(name): gets the fields of work of a person or organization."
+        },
+        "<P39>": {
+            "tool_name": "<P39>",
+            "tool_description": "positions_held(name): gets the positions held by a person"
+        },
+        "<P102>": {
+            "tool_name": "<P102>",
+            "tool_description": "political_party(name): gets the political party affiliation of a person"
+        },
+        "<P2437>": {
+            "tool_name": "<P2437>",
+            "tool_description": "num_seasons(title): gets the number of seasons for a TV series"
+        },
+        "<P582>": {
+            "tool_name": "<P582>",
+            "tool_description": "end_year(title): gets the year in which an art work ended."
+        },
+        "<P2031>": {
+            "tool_name": "<P2031>",
+            "tool_description": "start_year(name): gets the year of start for a musical artist or band."
+        },
+        "<P495>": {
+            "tool_name": "<P495>",
+            "tool_description": "country_of_origin(title): gets the country of origin of a work of art or a cultural product/genre."
+        },
+        "<P190>": {
+            "tool_name": "<P190>",
+            "tool_description": "twin_municipalities(name): gets the twin municipalities of a city or town."
+        },
+        "<P20>": {
+            "tool_name": "<P20>",
+            "tool_description": "place_of_death(name): gets the place of death of a person"
+        },
+        "<P306>": {
+            "tool_name": "<P306>",
+            "tool_description": "operating_systems(product_name): gets the operating systems of a given product."
+        },
+        "<P576>": {
+            "tool_name": "<P576>",
+            "tool_description": "abolished_year(name): gets the year an organization or company was abolished or dissolved."
+        },
+        "<P1056>": {
+            "tool_name": "<P1056>",
+            "tool_description": "product_type(company_name): gets the type of product produced by a company."
+        },
+        "<P31>": {
+            "tool_name": "<P31>",
+            "tool_description": "place_type(name): gets the type of a place or landmark"
+        },
+        "<P1113>": {
+            "tool_name": "<P1113>",
+            "tool_description": "number_of_episodes(title): gets the number of episodes of a TV show or series."
+        },
+        "<P400>": {
+            "tool_name": "<P400>",
+            "tool_description": "development_platform(title): gets the platform on which a video game was developed for."
+        },
+        "<P407>": {
+            "tool_name": "<P407>",
+            "tool_description": "language(title): gets the language of a book, movie or song."
+        },
+        "<P740>": {
+            "tool_name": "<P740>",
+            "tool_description": "formation_location(name): gets the location where an organization or group was formed."
+        },
+        "<P551>": {
+            "tool_name": "<P551>",
+            "tool_description": "location_info(name): gets the current or past location of a person or fictional character, depending on availability in the source material."
+        },
+        "<P7959>": {
+            "tool_name": "<P7959>",
+            "tool_description": "historic_county(location): gets the historic county of a location."
+        },
+        "<P361>": {
+            "tool_name": "<P361>",
+            "tool_description": "belonging_to(name): gets the organization or group that a given entity belongs to."
+        },
+        "<P2044>": {
+            "tool_name": "<P2044>",
+            "tool_description": "height_above_sea_level(location): gets the height above sea level of a location."
+        },
+        "<P840>": {
+            "tool_name": "<P840>",
+            "tool_description": "setting_location(title): gets the location where a work is set."
+        },
+        "<P264>": {
+            "tool_name": "<P264>",
+            "tool_description": "record_label(title): gets the record label of a music album or single."
+        },
+        "<P136>": {
+            "tool_name": "<P136>",
+            "tool_description": "get_genre(title): gets the genre of an art work"
+        },
+        "<P175>": {
+            "tool_name": "<P175>",
+            "tool_description": "artist_of_song(title): gets the artist/band who played a particular song"
+        },
+        "<P106>": {
+            "tool_name": "<P106>",
+            "tool_description": "occupation(name): gets the occupation of a person"
+        },
+        "<P279>": {
+            "tool_name": "<P279>",
+            "tool_description": "superclass(term): gets the superclass of a given term"
+        },
+        "<P276>": {
+            "tool_name": "<P276>",
+            "tool_description": "location(name): gets the location of a place or event"
+        },
+        "<P156>": {
+            "tool_name": "<P156>",
+            "tool_description": "next_item(item): gets the following item in a sequence or list"
+        },
+        "<P1082>": {
+            "tool_name": "<P1082>",
+            "tool_description": "get_population(city_name): retrieves the population of a city"
+        },
+        "<P155>": {
+            "tool_name": "<P155>",
+            "tool_description": "next_album(title): gets the next album in a series or sequence of albums."
+        },
+        "<P140>": {
+            "tool_name": "<P140>",
+            "tool_description": "religion(name): gets the religion of a person"
+        },
+        "<P585>": {
+            "tool_name": "<P585>",
+            "tool_description": "event_year(title): gets the year in which an event took place."
+        },
+        "<P410>": {
+            "tool_name": "<P410>",
+            "tool_description": "military_rank(name): gets the military rank of a person"
+        },
+        "<P131>": {
+            "tool_name": "<P131>",
+            "tool_description": "administrative_district(location): gets the administrative district of a location"
+        },
+        "<P710>": {
+            "tool_name": "<P710>",
+            "tool_description": "participants(event): gets the participants of a specific event or activity"
+        },
+        "<P19>": {
+            "tool_name": "<P19>",
+            "tool_description": "birth_place(name): gets the birthplace of a person"
+        },
+        "<P729>": {
+            "tool_name": "<P729>",
+            "tool_description": "launch_year(title): gets the year of launch of an object or project."
+        },
+        "<P2032>": {
+            "tool_name": "<P2032>",
+            "tool_description": "work_end_year(name): gets the year in which a person's work ended."
+        },
+        "<P183>": {
+            "tool_name": "<P183>",
+            "tool_description": "endemic_location(species): gets the location where a species is endemic."
+        },
+        "<P137>": {
+            "tool_name": "<P137>",
+            "tool_description": "operator(name): gets the operator of a facility or equipment."
+        },
+        "<P1619>": {
+            "tool_name": "<P1619>",
+            "tool_description": "opening_year(name): gets the year when a place or facility officially opened"
+        },
+        "<P527>": {
+            "tool_name": "<P527>",
+            "tool_description": "parts(title): gets the parts/components of a topic or subject"
+        },
+        "<P119>": {
+            "tool_name": "<P119>",
+            "tool_description": "burial_place(name): gets the burial place of a person"
+        },
+        "<P57>": {
+            "tool_name": "<P57>",
+            "tool_description": "director(title): gets the director of a movie or film"
+        },
+        "<P461>": {
+            "tool_name": "<P461>",
+            "tool_description": "opposite_term(term): provides the opposite term for a given term"
+        },
+        "<P287>": {
+            "tool_name": "<P287>",
+            "tool_description": "designer(title): gets the designer of an item"
+        },
+        "<P1923>": {
+            "tool_name": "<P1923>",
+            "tool_description": "participated_teams(year, competition): gets the teams that participated in a certain competition in a certain year."
+        },
+        "<P676>": {
+            "tool_name": "<P676>",
+            "tool_description": "lyricist(title): gets the lyricist of a song"
+        },
+        "<P800>": {
+            "tool_name": "<P800>",
+            "tool_description": "notable_works(author): gets the notable works of an author"
+        },
+        "<P945>": {
+            "tool_name": "<P945>",
+            "tool_description": "serving_country(name): gets the country an individual is serving or served."
+        },
+        "<P149>": {
+            "tool_name": "<P149>",
+            "tool_description": "architectural_style(name): gets the architectural style of a building or structure."
+        },
+        "<P344>": {
+            "tool_name": "<P344>",
+            "tool_description": "director_of_photography(title): gets the director of photography of a movie"
+        },
+        "<P177>": {
+            "tool_name": "<P177>",
+            "tool_description": "crosses(name): gets the feature crossed by a bridge, tunnel or other infrastructure element."
+        },
+        "<P84>": {
+            "tool_name": "<P84>",
+            "tool_description": "architect_of(name): gets the architect of a building or structure."
+        },
+        "<P186>": {
+            "tool_name": "<P186>",
+            "tool_description": "materials_used(title): gets the materials used in an artwork or design piece."
+        },
+        "<P915>": {
+            "tool_name": "<P915>",
+            "tool_description": "film_locations(title): gets the filming locations of a movie or TV show."
+        },
+        "<P1191>": {
+            "tool_name": "<P1191>",
+            "tool_description": "performance_year(title): gets the year in which an art work was first performed."
+        },
+        "<P170>": {
+            "tool_name": "<P170>",
+            "tool_description": "creator(title): gets the artist/creator of an art work."
+        },
+        "<P141>": {
+            "tool_name": "<P141>",
+            "tool_description": "iucn_conservation_status(species_name): gets the conservation status of a species according to the IUCN Red List"
+        },
+        "<P112>": {
+            "tool_name": "<P112>",
+            "tool_description": "founder(name): gets the founder of an organization or institution."
+        },
+        "<P4908>": {
+            "tool_name": "<P4908>",
+            "tool_description": "series_and_season(title): gets the series and season of a TV show episode."
+        },
+        "<P22>": {
+            "tool_name": "<P22>",
+            "tool_description": "father(name): gets the name of a person's father"
+        },
+        "<P272>": {
+            "tool_name": "<P272>",
+            "tool_description": "production_company(title): gets the production company of a film or TV show."
+        },
+        "<P180>": {
+            "tool_name": "<P180>",
+            "tool_description": "depicted_in(title): gets the object or subject depicted in a piece of art or media."
+        },
+        "<P171>": {
+            "tool_name": "<P171>",
+            "tool_description": "parent_taxon(name): gets the parent taxon of a given species name."
+        },
+        "<P103>": {
+            "tool_name": "<P103>",
+            "tool_description": "native_language(name): gets the native language of a person"
+        },
+        "<P355>": {
+            "tool_name": "<P355>",
+            "tool_description": "subsidiaries(parent_company): gets the subsidiaries of a parent company"
+        },
+        "<P1441>": {
+            "tool_name": "<P1441>",
+            "tool_description": "work_of_appearance(name): gets the work that a character or location appears in."
+        },
+        "<P2868>": {
+            "tool_name": "<P2868>",
+            "tool_description": "role(name/title): gets the role or function of a person or a substance."
+        },
+        "<P65>": {
+            "tool_name": "<P65>",
+            "tool_description": "discovery_location(name): gets the location where an astronomical object was discovered."
+        },
+        "<P81>": {
+            "tool_name": "<P81>",
+            "tool_description": "connected_line(station): gets the subway or railway line that connects a given station."
+        },
+        "<P647>": {
+            "tool_name": "<P647>",
+            "tool_description": "drafted_team(name): gets the name of the NHL team that a hockey player was drafted by."
+        },
+        "<P36>": {
+            "tool_name": "<P36>",
+            "tool_description": "original_language(place): gets the original language of a place name"
+        },
+        "<P161>": {
+            "tool_name": "<P161>",
+            "tool_description": "starred_in(title): gets the actors who starred in a movie or TV show"
+        },
+        "<P427>": {
+            "tool_name": "<P427>",
+            "tool_description": "taxonomic_type(name): gets the taxonomic type of a species or organism."
+        },
+        "<P1598>": {
+            "tool_name": "<P1598>",
+            "tool_description": "consecrator(name): gets the name of the person who consecrated someone"
+        },
+        "<P2348>": {
+            "tool_name": "<P2348>",
+            "tool_description": "time_period(event_title): gets the time period in which an event occurred."
+        },
+        "<P286>": {
+            "tool_name": "<P286>",
+            "tool_description": "head_coach(name): gets the head coach of a sports team or player."
+        },
+        "<P1142>": {
+            "tool_name": "<P1142>",
+            "tool_description": "political_ideology(name): gets the political ideology of a political party or organization"
+        },
+        "<P115>": {
+            "tool_name": "<P115>",
+            "tool_description": "home_venue(year, team_name): gets the home venue of a sports team in a given year"
+        },
+        "<P6379>": {
+            "tool_name": "<P6379>",
+            "tool_description": "art_work_collections(artist_name): gets the collections that have artworks of a specific artist."
+        },
+        "<P5353>": {
+            "tool_name": "<P5353>",
+            "tool_description": "school_district(school_name): gets the school district of a school."
+        },
+        "<P135>": {
+            "tool_name": "<P135>",
+            "tool_description": "art_movement(name): gets the art movement associated with a person"
+        },
+        "<P674>": {
+            "tool_name": "<P674>",
+            "tool_description": "characters_appear(title): gets the list of characters that appear in a TV show or movie."
+        },
+        "<P611>": {
+            "tool_name": "<P611>",
+            "tool_description": "belonging_order(name): gets the religious order that a person belongs to."
+        },
+        "<P3018>": {
+            "tool_name": "<P3018>",
+            "tool_description": "protected_area(name): gets the protected area where a location or site is located."
+        },
+        "<P1411>": {
+            "tool_name": "<P1411>",
+            "tool_description": "awards_nominated(title): gets the awards for which a work has been nominated."
+        },
+        "<P4552>": {
+            "tool_name": "<P4552>",
+            "tool_description": "mountain_range(name): gets the mountain range to which a mountain belongs."
+        },
+        "<P1444>": {
+            "tool_name": "<P1444>",
+            "tool_description": "destination_point(event_name): gets the destination point of a particular event or flight."
+        },
+        "<P1249>": {
+            "tool_name": "<P1249>",
+            "tool_description": "first_mentioned_year(place_name): gets the year a place was first mentioned in historical records."
+        },
+        "<P40>": {
+            "tool_name": "<P40>",
+            "tool_description": "children(parent_name): gets the children of a person with their names."
+        },
+        "<P1416>": {
+            "tool_name": "<P1416>",
+            "tool_description": "affiliation(name): gets the affiliation of a person or organization"
+        },
+        "<P412>": {
+            "tool_name": "<P412>",
+            "tool_description": "voice_type(name): gets the voice type of a person."
+        },
+        "<P86>": {
+            "tool_name": "<P86>",
+            "tool_description": "composer(title): gets the name of the composer for a given art work."
+        },
+        "<P559>": {
+            "tool_name": "<P559>",
+            "tool_description": "train_station(end_point): gets the train station name at the end point of a particular route."
+        },
+        "<P749>": {
+            "tool_name": "<P749>",
+            "tool_description": "parent_org(name): gets the parent organization(s) of a company or hospital."
+        },
+        "<P607>": {
+            "tool_name": "<P607>",
+            "tool_description": "participated_conflicts(name): gets the list of conflicts that a person participated in."
+        },
+        "<P2936>": {
+            "tool_name": "<P2936>",
+            "tool_description": "languages_used(title): gets the languages used in a work or production."
+        },
+        "<P162>": {
+            "tool_name": "<P162>",
+            "tool_description": "producers(title): gets the producers of a film or TV show"
+        },
+        "<P451>": {
+            "tool_name": "<P451>",
+            "tool_description": "unmarried_partners(name): gets the unmarried partners of a person"
+        },
+        "<P2094>": {
+            "tool_name": "<P2094>",
+            "tool_description": "competition_class(name): gets the competition class of a person"
+        },
+        "<P184>": {
+            "tool_name": "<P184>",
+            "tool_description": "doctoral_advisor(name): gets the doctoral advisor of a person."
+        },
+        "<P466>": {
+            "tool_name": "<P466>",
+            "tool_description": "occupant(venue): gets the current occupant of a sports venue"
+        },
+        "<P2632>": {
+            "tool_name": "<P2632>",
+            "tool_description": "detainment_location(name): gets the location where a person was detained during the Holocaust"
+        },
+        "<P61>": {
+            "tool_name": "<P61>",
+            "tool_description": "discoverer(name): gets the discoverer of a celestial object"
+        },
+        "<P1346>": {
+            "tool_name": "<P1346>",
+            "tool_description": "event_winner(event_name, event_year): gets the winner of a specific event and year."
+        },
+        "<P58>": {
+            "tool_name": "<P58>",
+            "tool_description": "screenwriters(title): gets the screenwriters of a movie."
+        },
+        "<P1376>": {
+            "tool_name": "<P1376>",
+            "tool_description": "capital_state(city): gets the state that a given city is the capital of."
+        },
+        "<P737>": {
+            "tool_name": "<P737>",
+            "tool_description": "influences(name): gets the list of people who influenced a person."
+        },
+        "<P415>": {
+            "tool_name": "<P415>",
+            "tool_description": "radio_format(station): gets the radio format of a radio station."
+        },
+        "<P7153>": {
+            "tool_name": "<P7153>",
+            "tool_description": "associated_place(name): gets the significant place associated with a national park or wilderness area."
+        },
+        "<P53>": {
+            "tool_name": "<P53>",
+            "tool_description": "family(name): gets the family name or house of a person"
+        },
+        "<P991>": {
+            "tool_name": "<P991>",
+            "tool_description": "successful_candidate(election_title, state): gets the candidate who was successfully elected in a specific election in a given state."
+        },
+        "<P974>": {
+            "tool_name": "<P974>",
+            "tool_description": "tributaries(name): gets the tributaries of a river"
+        },
+        "<P1427>": {
+            "tool_name": "<P1427>",
+            "tool_description": "starting_location(event_name): gets the starting location of a specific event."
+        },
+        "<P366>": {
+            "tool_name": "<P366>",
+            "tool_description": "main_usage(term): gets the main usage of a term or concept."
+        },
+        "<P1435>": {
+            "tool_name": "<P1435>",
+            "tool_description": "heritage_designation(name): gets the heritage designation of a landmark or site"
+        },
+        "<P26>": {
+            "tool_name": "<P26>",
+            "tool_description": "spouses(name): gets the spouses of a historical figure or celebrity. Note: this API may return multiple spouses if the person was married multiple times."
+        },
+        "<P1366>": {
+            "tool_name": "<P1366>",
+            "tool_description": "replacement(entity): gets the entity that replaced another entity."
+        },
+        "<P706>": {
+            "tool_name": "<P706>",
+            "tool_description": "location(name): gets the location of an object or place."
+        },
+        "<P541>": {
+            "tool_name": "<P541>",
+            "tool_description": "contest_position(name, location, year): gets the position that a person contested in a specific location and year."
+        },
+        "<P802>": {
+            "tool_name": "<P802>",
+            "tool_description": "notable_students(name): gets the notable students of a master/teacher/artist."
+        },
+        "<P50>": {
+            "tool_name": "<P50>",
+            "tool_description": "authors(title): gets the authors of a book or other written work"
+        },
+        "<P144>": {
+            "tool_name": "<P144>",
+            "tool_description": "script_origin(script_name): gets the alphabet/script that a given script is based on or derived from."
+        },
+        "<P3450>": {
+            "tool_name": "<P3450>",
+            "tool_description": "competition_belongs_to_season(season): gets the competition that a season belongs to."
+        },
+        "<P197>": {
+            "tool_name": "<P197>",
+            "tool_description": "adjacent_stations(station_name): gets the adjacent stations of a given station name for various transportation systems."
+        },
+        "<P931>": {
+            "tool_name": "<P931>",
+            "tool_description": "served_place(airport_name): gets the place served by an airport."
+        },
+        "<P291>": {
+            "tool_name": "<P291>",
+            "tool_description": "publication_location(title): gets the location where a publication was originally published"
+        },
+        "<P664>": {
+            "tool_name": "<P664>",
+            "tool_description": "event_organizers(event_name): gets the organizers of a specific event"
+        },
+        "<P3602>": {
+            "tool_name": "<P3602>",
+            "tool_description": "election_candidacy(name): gets the election in which a person was a candidate."
+        },
+        "<P2789>": {
+            "tool_name": "<P2789>",
+            "tool_description": "connected_to(subject): gets the object that is directly connected to the given subject."
+        },
+        "<P1038>": {
+            "tool_name": "<P1038>",
+            "tool_description": "related_person(name): gets the person related to another person or historical figure"
+        },
+        "<P176>": {
+            "tool_name": "<P176>",
+            "tool_description": "manufacturer(name): gets the manufacturer of a vehicle or vessel"
+        },
+        "<P1344>": {
+            "tool_name": "<P1344>",
+            "tool_description": "participation_events(name): gets the events in which a person participated."
+        },
+        "<P488>": {
+            "tool_name": "<P488>",
+            "tool_description": "chairperson(team_name): gets the name of the chairperson of a sports team or a political organization."
+        },
+        "<P166>": {
+            "tool_name": "<P166>",
+            "tool_description": "awards_received(name): gets the awards received by a person or work."
+        },
+        "<P371>": {
+            "tool_name": "<P371>",
+            "tool_description": "presenter_of(show_title): gets the presenter of a TV show or event."
+        },
+        "<P1830>": {
+            "tool_name": "<P1830>",
+            "tool_description": "ownership(company_name): gets the list of companies/assets owned by a given corporation/company."
+        },
+        "<P138>": {
+            "tool_name": "<P138>",
+            "tool_description": "name_origin(name): gets the origin or the person or thing that a name is derived from."
+        },
+        "<P172>": {
+            "tool_name": "<P172>",
+            "tool_description": "ethnic_group(name): gets the ethnic group that a person belongs to."
+        },
+        "<P178>": {
+            "tool_name": "<P178>",
+            "tool_description": "developer(title): gets the developer of a video game or software"
+        },
+        "<P1327>": {
+            "tool_name": "<P1327>",
+            "tool_description": "professional_collaborators(name): gets the professional collaborators of a person."
+        },
+        "<P179>": {
+            "tool_name": "<P179>",
+            "tool_description": "book_series(title): gets the series that a book belongs to."
+        },
+        "<P3373>": {
+            "tool_name": "<P3373>",
+            "tool_description": "siblings(name): gets the siblings of a person"
+        },
+        "<P1066>": {
+            "tool_name": "<P1066>",
+            "tool_description": "students(name): gets the students of an art teacher"
+        },
+        "<P1027>": {
+            "tool_name": "<P1027>",
+            "tool_description": "prize_conferred_by(name): gets the awarding organization of a prize or award"
+        },
+        "<P403>": {
+            "tool_name": "<P403>",
+            "tool_description": "river_flow(name): gets the destination river that a given river flows into."
+        },
+        "<P1365>": {
+            "tool_name": "<P1365>",
+            "tool_description": "replaced_by(name): gets the entity or thing that was replaced by the given name or title."
+        },
+        "<P98>": {
+            "tool_name": "<P98>",
+            "tool_description": "editors(title): gets the editors of a publication"
+        },
+        "<P25>": {
+            "tool_name": "<P25>",
+            "tool_description": "mother(name): gets the name of the mother of a person"
+        },
+        "<P708>": {
+            "tool_name": "<P708>",
+            "tool_description": "belonged_to_diocese(name): gets the diocese that a church or person has belonged to"
+        },
+        "<P150>": {
+            "tool_name": "<P150>",
+            "tool_description": "administrative_entities(location): gets the administrative entities located in a specific location."
+        },
+        "<P185>": {
+            "tool_name": "<P185>",
+            "tool_description": "doctoral_students(advisor_name): gets the list of doctoral students of a given advisor's name."
+        },
+        "<P195>": {
+            "tool_name": "<P195>",
+            "tool_description": "artwork_collection(title): gets the collection that an artwork belongs to"
+        },
+        "<P206>": {
+            "tool_name": "<P206>",
+            "tool_description": "location_water(name): gets the body of water an area or location is located next to."
+        },
+        "<P1192>": {
+            "tool_name": "<P1192>",
+            "tool_description": "trains_stopping_at(station): gets the trains that stop at a specific station name."
+        },
+        "<P196>": {
+            "tool_name": "<P196>",
+            "tool_description": "minor_planet_group(pname): gets the minor planet group of a given minor planet name/number."
+        },
+        "<P2597>": {
+            "tool_name": "<P2597>",
+            "tool_description": "gram_stain(name): gets the gram stain of a bacteria species."
+        },
+        "<P30>": {
+            "tool_name": "<P30>",
+            "tool_description": "continent(location_name): gets the continent a location is a part of."
+        },
+        "<P4884>": {
+            "tool_name": "<P4884>",
+            "tool_description": "court_decided_in(case_name): gets the court where a legal case was decided."
+        },
+        "<P4743>": {
+            "tool_name": "<P4743>",
+            "tool_description": "animal_breed(name): gets the breed of an animal."
+        },
+        "<P97>": {
+            "tool_name": "<P97>",
+            "tool_description": "noble_title(name): gets the noble title held by a person."
+        },
+        "<P201>": {
+            "tool_name": "<P201>",
+            "tool_description": "outflows(name): gets the outflows of a body of water."
+        },
+        "<P3764>": {
+            "tool_name": "<P3764>",
+            "tool_description": "pole_position_race(race_name): gets the name of the driver who had the pole position in a given racing event."
+        },
+        "<P6886>": {
+            "tool_name": "<P6886>",
+            "tool_description": "written_languages(name): gets the languages in which a person has written."
+        },
+        "<P1433>": {
+            "tool_name": "<P1433>",
+            "tool_description": "publication_location(title): gets the publication location of a book or article."
+        },
+        "<P88>": {
+            "tool_name": "<P88>",
+            "tool_description": "commissioner(title): gets the commissioner of an art work or project."
+        },
+        "<P414>": {
+            "tool_name": "<P414>",
+            "tool_description": "stock_exchange(name): gets the stock exchange on which a company is traded."
+        },
+        "<P703>": {
+            "tool_name": "<P703>",
+            "tool_description": "taxon(name): gets the taxonomic classification of a compound or organism"
+        },
+        "<P1050>": {
+            "tool_name": "<P1050>",
+            "tool_description": "medical_conditions(name): gets the medical conditions of a person"
+        },
+        "<P610>": {
+            "tool_name": "<P610>",
+            "tool_description": "highest_point(mountain_range): gets the highest point of a given mountain range"
+        },
+        "<P113>": {
+            "tool_name": "<P113>",
+            "tool_description": "airline_hub(airline): gets the airline hub of a specific airline."
+        },
+        "<P1877>": {
+            "tool_name": "<P1877>",
+            "tool_description": "inspired_works(title): gets the works that have strongly inspired a given work."
+        },
+        "<P1308>": {
+            "tool_name": "<P1308>",
+            "tool_description": "officeholder_title(location): gets the current officeholder title of a location"
+        },
+        "<P6>": {
+            "tool_name": "<P6>",
+            "tool_description": "head_of_government(location): gets the current head of government of a certain location, such as a prefecture, country, or government ministry."
+        },
+        "<P4647>": {
+            "tool_name": "<P4647>",
+            "tool_description": "premiere_location(title): gets the location of the premiere performance of a work."
+        },
+        "<P669>": {
+            "tool_name": "<P669>",
+            "tool_description": "hotel_location(name): gets the street name and location of a hotel or establishment."
+        },
+        "<P765>": {
+            "tool_name": "<P765>",
+            "tool_description": "surface_type(tournament): gets the surface type of a tennis tournament."
+        },
+        "<P467>": {
+            "tool_name": "<P467>",
+            "tool_description": "legislation_authority(title): gets the legislative authority responsible for passing a specific legislation"
+        },
+        "<P200>": {
+            "tool_name": "<P200>",
+            "tool_description": "flows_into(river_name): gets the lake or body of water that a river flows into."
+        },
+        "<P277>": {
+            "tool_name": "<P277>",
+            "tool_description": "programming_language(title): gets the programming language in which a software was developed."
+        },
+        "<P6087>": {
+            "tool_name": "<P6087>",
+            "tool_description": "coached_sports_teams(name): gets the sports teams that a coach has coached."
+        },
+        "<P37>": {
+            "tool_name": "<P37>",
+            "tool_description": "official_language(place): gets the official language of a place/country."
+        },
+        "<P2522>": {
+            "tool_name": "<P2522>",
+            "tool_description": "competitions_won(name): gets the competitions won by a person"
+        },
+        "<P2341>": {
+            "tool_name": "<P2341>",
+            "tool_description": "indigenous_location(language): gets the location(s) where a language is considered indigenous"
+        },
+        "<P8875>": {
+            "tool_name": "<P8875>",
+            "tool_description": "indexed_by(title): gets the bibliographic database(s) that indexes a given journal or publication."
+        },
+        "<P126>": {
+            "tool_name": "<P126>",
+            "tool_description": "maintainer(name): gets the organization or entity that maintains a tourist spot or landmark."
+        },
+        "<P2975>": {
+            "tool_name": "<P2975>",
+            "tool_description": "host_organism(species_name): gets the host organism of a given species."
+        },
+        "<P87>": {
+            "tool_name": "<P87>",
+            "tool_description": "librettist(title): gets the name of the librettist of an opera or musical"
+        },
+        "<P364>": {
+            "tool_name": "<P364>",
+            "tool_description": "original_language(title): gets the original language of an art work"
+        },
+        "<P1412>": {
+            "tool_name": "<P1412>",
+            "tool_description": "spoken_languages(name): gets the spoken languages of a person"
+        }
+    },
+    "tool_template_id": {
+        "<P1408>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P921>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P2416>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P54>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P17>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P7937>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P463>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P108>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1101>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P937>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P580>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P413>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1132>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P105>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1971>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P47>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P123>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P241>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1001>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P575>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1532>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P641>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P69>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P452>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P159>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P59>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1303>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P449>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P619>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1350>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P27>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P569>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1103>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P571>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P750>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P577>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P118>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P3999>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P509>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P127>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P606>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P570>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P101>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P39>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P102>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P2437>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P582>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P2031>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P495>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P190>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P20>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P306>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P576>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1056>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P31>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1113>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P400>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P407>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P740>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P551>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P7959>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P361>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P2044>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P840>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P264>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P136>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P175>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P106>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P279>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P276>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P156>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1082>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P155>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P140>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P585>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P410>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P131>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P710>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P19>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P729>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P2032>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P183>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P137>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1619>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P527>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P119>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P57>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P461>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P287>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1923>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P676>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P800>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P945>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P149>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P344>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P177>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P84>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P186>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P915>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1191>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P170>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P141>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P112>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P4908>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P22>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P272>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P180>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P171>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P103>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P355>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1441>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P2868>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P65>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P81>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P647>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P36>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P161>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P427>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1598>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P2348>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P286>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1142>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P115>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P6379>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P5353>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P135>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P674>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P611>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P3018>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1411>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P4552>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1444>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1249>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P40>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1416>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P412>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P86>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P559>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P749>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P607>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P2936>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P162>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P451>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P2094>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P184>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P466>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P2632>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P61>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1346>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P58>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1376>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P737>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P415>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P7153>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P53>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P991>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P974>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1427>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P366>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1435>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P26>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1366>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P706>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P541>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P802>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P50>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P144>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P3450>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P197>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P931>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P291>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P664>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P3602>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P2789>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1038>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P176>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1344>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P488>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P166>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P371>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1830>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P138>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P172>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P178>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1327>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P179>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P3373>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1066>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1027>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P403>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1365>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P98>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P25>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P708>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P150>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P185>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P195>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P206>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1192>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P196>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P2597>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P30>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P4884>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P4743>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P97>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P201>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P3764>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P6886>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1433>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P88>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P414>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P703>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1050>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P610>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P113>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1877>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1308>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P6>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P4647>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P669>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P765>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P467>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P200>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P277>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P6087>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P37>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P2522>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P2341>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P8875>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P126>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P2975>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P87>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P364>": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "<P1412>": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "template_list": [
+        "You task is to call an API to answer a question.\nAPI list:\n<P1408> broadcasted_places(station): gets the places where a radio station is broadcasted to\n<P921> main_topics(title): gets the main topics of a book or magazine\n<P2416> competition_disciplines(name): gets the disciplines a person is competing in.\n<P54> team_membership(name): gets the list of teams a person was a member of.\n<P17> location(name): gets the country where a location is located.\n<P7937> creative_work_type(title): gets the type or format of a creative work\n<P463> membership(name): gets the groups or organizations a person was a member of.\n<P108> employer(name): gets the employers of a person\n<P1101> floors_above_ground(name): gets the number of floors above the ground of a building or property.\n<P937> workplaces(name): gets the workplaces of a person\n<P580> start_year(title): gets the year when a TV show or a movie started airing\n<P413> positions_played(name): gets the positions played by a sports player.\n<P1132> number_of_participants(event_name): gets the number of participants in a sporting event\n<P105> taxon_rank(species_name): gets the taxonomic rank of a given species name.\n<P1971> number_of_children(name): gets the number of children a person has\n<P47> bordering_cities(name): gets the names of the cities that share borders with a given city or urban agglomeration.\n<P123> publisher(title): gets the publisher of a work.\n<P241> military_branch(name): gets the military branch that a person is a member of.\n<P1001> jurisdictions(name): gets the jurisdictions that an organization belongs to.\n<P575> year_invented(title): gets the year an object was invented or discovered.\n<P1532> countries_played(name): gets the list of countries a player has played for.\n<P641> sports_played(name): gets the list of sports played by a person\n<P69> education(name): gets the educational institution where a person was educated at\n<P452> active_industries(name): gets the industries a company or organization is active in.\n<P159> headquarter_location(company_name): gets the location of the headquarters of a company.\n<P59> constellation(name): gets the constellation that an astronomical object is a part of.\n<P1303> instruments_played(name): gets the instruments played by a musician.\n<P449> original_broadcaster(title): gets the original broadcaster of a TV show or movie.\n<P619> launch_year(name): gets the launch year of a space mission or satellite\n<P1350> matches_played(title/name): gets the number of matches played by a person or event.Quesiton answering examples:\nQuestion: What places is WLOE broadcasted to?\nAnswer: The answer is <P1408>(WLOE)=Eden\nQuestion: What are the main topic of The Journal of Educational Research?\nAnswer: The answer is <P921>(The Journal of Educational Research)=education\nQuestion: What disciplines is Jorge Ureña competing in?\nAnswer: The answer is <P2416>(Jorge Ureña)=decathlon\nQuestion: What teams was Yeison Tolosa a member of?\nAnswer: The answer is <P54>(Yeison Tolosa)=Deportivo Cali\nQuestion: What country is Apostolic Vicariate of Savannakhet located in?\nAnswer: The answer is <P17>(Apostolic Vicariate of Savannakhet)=Laos\nQuestion: What form does the creative work Back to Basics has?\nAnswer: The answer is <P7937>(Back to Basics)=compilation album\nQuestion: What groups or organizations was Marmaduke Gwynne a member?\nAnswer: The answer is <P463>(Marmaduke Gwynne)=Gray's Inn\nQuestion: Who were employers of Janet Lewis?\nAnswer: The answer is <P108>(Janet Lewis)=Stanford University\nQuestion: How many floors above the ground has 10 Hudson Yards?\nAnswer: The answer is <P1101>(10 Hudson Yards)=52\nQuestion: Where are the workplaces of Karl von Prantl?\nAnswer: The answer is <P937>(Karl von Prantl)=Munich\nQuestion: What year did 1993–94 Fußball-Bundesliga start?\nAnswer: The answer is <P580>(1993–94 Fußball-Bundesliga)=1993\nQuestion: What positions has Guillermo Eizaguirre played on?\nAnswer: The answer is <P413>(Guillermo Eizaguirre)=goalkeeper\nQuestion: How many participants had 1976 Segunda División de Chile?\nAnswer: The answer is <P1132>(1976 Segunda División de Chile)=16\nQuestion: What taxon rank has Russian tortoise?\nAnswer: The answer is <P105>(Russian tortoise)=species\nQuestion: How many children has Lady Wang?\nAnswer: The answer is <P1971>(Lady Wang)=3\nQuestion: What countries is Quero Vas sharing borders with?\nAnswer: The answer is <P47>(Quero Vas)=Alano di Piave\nQuestion: What is the publisher of My Friend Pedro?\nAnswer: The answer is <P123>(My Friend Pedro)=Devolver Digital\nQuestion: What military branch is Michael Parker a member of?\nAnswer: The answer is <P241>(Michael Parker)=British Army\nQuestion: What jurisdictions does shugo belong to?\nAnswer: The answer is <P1001>(shugo)=province of Japan\nQuestion: What year was 686 Gersuind invented in?\nAnswer: The answer is <P575>(686 Gersuind)=1909\nQuestion: What countries has Pavlo Matsuyev played for?\nAnswer: The answer is <P1532>(Pavlo Matsuyev)=Ukraine\nQuestion: What sports was Bernd Thijs playing?\nAnswer: The answer is <P641>(Bernd Thijs)=association football\nQuestion: Where was Pradeep Dubey educated at?\nAnswer: The answer is <P69>(Pradeep Dubey)=Cornell University\nQuestion: What industries is Realty Income Corporation active in?\nAnswer: The answer is <P452>(Realty Income Corporation)=real estate investment trust\nQuestion: Where is the headquarter of Royal Imtech N.V. located?\nAnswer: The answer is <P159>(Royal Imtech N.V.)=Gouda\nQuestion: What constellation is 62 Andromedae a part of?\nAnswer: The answer is <P59>(62 Andromedae)=Andromeda\nQuestion: What instruments was Juan Martín playing?\nAnswer: The answer is <P1303>(Juan Martín)=guitar\nQuestion: Who was the original broadcaster of American Odyssey?\nAnswer: The answer is <P449>(American Odyssey)=NBC\nQuestion: What year was OSCAR 1 launched in?\nAnswer: The answer is <P619>(OSCAR 1)=1961\nQuestion: How many matches has Goran Lozanovski played?\nAnswer: The answer is <P1350>(Goran Lozanovski)=2\nQuestion: [QUESTION]\nAnswer: The answer is",
+        "You task is to call an API to answer a question.\nAPI list:\n<P1408> broadcasted_places(station): gets the places where a radio station is broadcasted to\n<P921> main_topics(title): gets the main topics of a book or magazine\n<P2416> competition_disciplines(name): gets the disciplines a person is competing in.\n<P54> team_membership(name): gets the list of teams a person was a member of.\n<P17> location(name): gets the country where a location is located.\n<P7937> creative_work_type(title): gets the type or format of a creative work\n<P463> membership(name): gets the groups or organizations a person was a member of.\n<P108> employer(name): gets the employers of a person\n<P1101> floors_above_ground(name): gets the number of floors above the ground of a building or property.\n<P937> workplaces(name): gets the workplaces of a person\n<P580> start_year(title): gets the year when a TV show or a movie started airing\n<P413> positions_played(name): gets the positions played by a sports player.\n<P1132> number_of_participants(event_name): gets the number of participants in a sporting event\n<P105> taxon_rank(species_name): gets the taxonomic rank of a given species name.\n<P1971> number_of_children(name): gets the number of children a person has\n<P47> bordering_cities(name): gets the names of the cities that share borders with a given city or urban agglomeration.\n<P123> publisher(title): gets the publisher of a work.\n<P241> military_branch(name): gets the military branch that a person is a member of.\n<P1001> jurisdictions(name): gets the jurisdictions that an organization belongs to.\n<P575> year_invented(title): gets the year an object was invented or discovered.\n<P1532> countries_played(name): gets the list of countries a player has played for.\n<P641> sports_played(name): gets the list of sports played by a person\n<P69> education(name): gets the educational institution where a person was educated at\n<P452> active_industries(name): gets the industries a company or organization is active in.\n<P159> headquarter_location(company_name): gets the location of the headquarters of a company.\n<P59> constellation(name): gets the constellation that an astronomical object is a part of.\n<P1303> instruments_played(name): gets the instruments played by a musician.\n<P449> original_broadcaster(title): gets the original broadcaster of a TV show or movie.\n<P619> launch_year(name): gets the launch year of a space mission or satellite\n<P1350> matches_played(title/name): gets the number of matches played by a person or event.\nQuesiton answering examples:\nQuestion: What competitions has Donna Axum won?\nAnswer: The answer is <P2522>(Donna Axum)=Miss America\nQuestion: What location is Khün indigenous to?\nAnswer: The answer is <P2341>(Khün)=Shan State\nQuestion: What bibliographic database indexes International Journal of Transgenderism?\nAnswer: The answer is <P8875>(International Journal of Transgenderism)=Scopus\nQuestion: Who maintains the Interstate 20 in Texas?\nAnswer: The answer is <P126>(Interstate 20 in Texas)=Texas Department of Transportation\nQuestion: What is the host organism for Stigmella glutinosae?\nAnswer: The answer is <P2975>(Stigmella glutinosae)=Alnus glutinosa\nQuestion: Who is the librettist of I masnadieri?\nAnswer: The answer is <P87>(I masnadieri)=Andrea Maffei\nQuestion: What is the original language of Yol?\nAnswer: The answer is <P364>(Yol)=Kurdish\nQuestion: What languages does Kasym Tynystanov speak?\nAnswer: The answer is <P1412>(Kasym Tynystanov)=Russian\nQuestion: [QUESTION]\nAnswer: The answer is",
+        "You task is to call an API to answer a question.\nAPI list:\n<P1408> broadcasted_places(station): gets the places where a radio station is broadcasted to\n<P921> main_topics(title): gets the main topics of a book or magazine\n<P2416> competition_disciplines(name): gets the disciplines a person is competing in.\n<P54> team_membership(name): gets the list of teams a person was a member of.\n<P17> location(name): gets the country where a location is located.\n<P7937> creative_work_type(title): gets the type or format of a creative work\n<P463> membership(name): gets the groups or organizations a person was a member of.\n<P108> employer(name): gets the employers of a person\n<P1101> floors_above_ground(name): gets the number of floors above the ground of a building or property.\n<P937> workplaces(name): gets the workplaces of a person\n<P580> start_year(title): gets the year when a TV show or a movie started airing\n<P413> positions_played(name): gets the positions played by a sports player.\n<P1132> number_of_participants(event_name): gets the number of participants in a sporting event\n<P105> taxon_rank(species_name): gets the taxonomic rank of a given species name.\n<P1971> number_of_children(name): gets the number of children a person has\n<P47> bordering_cities(name): gets the names of the cities that share borders with a given city or urban agglomeration.\n<P123> publisher(title): gets the publisher of a work.\n<P241> military_branch(name): gets the military branch that a person is a member of.\n<P1001> jurisdictions(name): gets the jurisdictions that an organization belongs to.\n<P575> year_invented(title): gets the year an object was invented or discovered.\n<P1532> countries_played(name): gets the list of countries a player has played for.\n<P641> sports_played(name): gets the list of sports played by a person\n<P69> education(name): gets the educational institution where a person was educated at\n<P452> active_industries(name): gets the industries a company or organization is active in.\n<P159> headquarter_location(company_name): gets the location of the headquarters of a company.\n<P59> constellation(name): gets the constellation that an astronomical object is a part of.\n<P1303> instruments_played(name): gets the instruments played by a musician.\n<P449> original_broadcaster(title): gets the original broadcaster of a TV show or movie.\n<P619> launch_year(name): gets the launch year of a space mission or satellite\n<P1350> matches_played(title/name): gets the number of matches played by a person or event.\n<P27> country_of_citizenship(name): gets the country of citizenship of a person.\n<P569> year_of_birth(name): gets the year of birth of a person\n<P1103> number_of_platforms(station): gets the number of platforms of a train station\n<P571> creation_year(title): gets the year of creation of an art work or organization/position\n<P750> distributors(title): gets the distributors of an art work\n<P577> publication_year(title): gets the publication year of a book or other written work\n<P118> playing_leagues(team): gets the leagues a team has played in.\n<P3999> closing_year(name): gets the closing year of a hospital or institution.\n<P509> causes_of_death(name): gets the causes of death of a person.\n<P127> owner_entity(title): gets the owner entity of a company or organization.\n<P606> first_flight_year(model): gets the year of first flight of an aircraft model\n<P570> year_of_death(name): gets the year of death of a person.\n<P101> fields_of_work(name): gets the fields of work of a person or organization.\n<P39> positions_held(name): gets the positions held by a person\n<P102> political_party(name): gets the political party affiliation of a person\n<P2437> num_seasons(title): gets the number of seasons for a TV series\n<P582> end_year(title): gets the year in which an art work ended.\n<P2031> start_year(name): gets the year of start for a musical artist or band.\n<P495> country_of_origin(title): gets the country of origin of a work of art or a cultural product/genre.\n<P190> twin_municipalities(name): gets the twin municipalities of a city or town.\n<P20> place_of_death(name): gets the place of death of a person\n<P306> operating_systems(product_name): gets the operating systems of a given product.\n<P576> abolished_year(name): gets the year an organization or company was abolished or dissolved.\n<P1056> product_type(company_name): gets the type of product produced by a company.\n<P31> place_type(name): gets the type of a place or landmark\n<P1113> number_of_episodes(title): gets the number of episodes of a TV show or series.\n<P400> development_platform(title): gets the platform on which a video game was developed for.\n<P407> language(title): gets the language of a book, movie or song.\n<P740> formation_location(name): gets the location where an organization or group was formed.\n<P551> location_info(name): gets the current or past location of a person or fictional character, depending on availability in the source material.\nQuesiton answering examples:\nQuestion: What competitions has María José Alvarado won?\nAnswer: The answer is <P2522>(María José Alvarado)=Miss Honduras\nQuestion: What location is Kirundi indigenous to?\nAnswer: The answer is <P2341>(Kirundi)=Burundi\nQuestion: What bibliographic database indexes Canadian Journal of School Psychology?\nAnswer: The answer is <P8875>(Canadian Journal of School Psychology)=Scopus\nQuestion: Who maintains the Pontypool Park?\nAnswer: The answer is <P126>(Pontypool Park)=Pontypool RFC\nQuestion: What is the host organism for Autographa pulchrina?\nAnswer: The answer is <P2975>(Autographa pulchrina)=Urtica\nQuestion: Who is the librettist of La Esmeralda?\nAnswer: The answer is <P87>(La Esmeralda)=Jules Perrot\nQuestion: What is the original language of Crash?\nAnswer: The answer is <P364>(Crash)=Danish\nQuestion: What languages does Bhanupriya speak?\nAnswer: The answer is <P1412>(Bhanupriya)=Telugu\nQuestion: [QUESTION]\nAnswer: The answer is",
+        "Question: [QUESTION]\nAnswer: The answer is"
+    ]
+}

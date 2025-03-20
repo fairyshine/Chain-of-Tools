@@ -1,0 +1,46 @@
+{
+    "tool_dict": {
+        "<add>": 0,
+        "<subtract>": 1,
+        "<multiply>": 2,
+        "<divide>": 3
+    },
+    "tool_information": {
+        "<add>": {
+            "tool_name": "<add>",
+            "tool_description": "+: This tool adds(+) numbers together and returns the sum."
+        },
+        "<subtract>": {
+            "tool_name": "<subtract>",
+            "tool_description": "-: This tool subtracts(-) numbers from the first number provided, returning the difference."
+        },
+        "<multiply>": {
+            "tool_name": "<multiply>",
+            "tool_description": "*: This tool multiplies(*) numbers together, returning the product."
+        },
+        "<divide>": {
+            "tool_name": "<divide>",
+            "tool_description": "/: This tool divides(/) the first number by the second number, returning the quotient. Take note of dividing by zero."
+        }
+    },
+    "tool_template_id": {
+        "<add>": [
+            0
+        ],
+        "<divide>": [
+            1
+        ],
+        "<subtract>": [
+            2
+        ],
+        "<multiply>": [
+            3
+        ]
+    },
+    "template_list": [
+        "Answer the following questions with operator <add>\n\nQuestion: For breakfast, Anna bought a bagel for $0.95 and a glass of orange juice for $0.85. At lunch, Anna spent $4.65 on a sandwich and $1.15 on a carton of milk. How much more money did Anna spend on lunch than on breakfast?\nAnswer: The total cost of breakfast is $0.95 + $0.85 = $<add>(0.95, 0.85)=1.80. The total cost of lunch is $4.65 + $1.15 = $<add>(4.65, 1.15)=5.80. Anna spent $5.80 − $1.80 = $4 more on lunch than breakfast. #### 4\n\nQuestion: Voldemort had his dinner and ate a piece of cake that has 110 calories. He also ate 1 pack of chips that contained 310 calories and drank a 500 ml bottle of coke that has 215 calories. His caloric intake for breakfast and lunch is 560 and 780 calories, respectively. If he has a 2500 calorie intake limit per day, how many calories can he still take?\nAnswer: For the night he was able to intake 110 + 310 + 215 = <add>(110, 310, 215)=635 calories For breakfast and lunch, he was able to intake 560 + 780 = <add>(560, 780)=1340 calories So, for the entire day Voldemort was able to intake 1340 + 635 = <add>(1340, 635)=1975 calories Therefore, he can still intake 2500 - 1975 = 525=525<eoe>525 calories. #### 525\n\nQuestion: Lena played video games for 3.5 hours last weekend. Her brother played 17 minutes more than she did. How many minutes together did Lena and her brother play video games last weekend?\nAnswer: Lena = 3.5 hours = 210 minutes Brother = 210 + 17 = <add>(210, 17)=227 minutes 210 + 227 = <add>(210, 227)=437 minutes Together, Lena and her brother played 437 minutes of video games. #### 437\n\nQuestion: Alex has 4 new shirts. Joe has 3 more new shirts than Alex. If Ben has eight more new shirts than Joe, how many new shirts does Ben have?\nAnswer: Joe has 4+3=<add>(4, 3)=7 new shirts. Ben has 8+7=<add>(8, 7)=15 new shirts. #### 15\n\nQuestion: [QUESTION]\nAnswer:",
+        "Answer the following questions with operator <divide>\n\nQuestion: Harry uses a whole bag of chocolate chips when he makes dough for chocolate chip cookies. The dough makes three batches of cookies, and each cookie has nine chocolate chips in it. A bag of chocolate chips has 81 chips in it. How many cookies are in a batch?\nAnswer: There are 81 / 3= <divide>(81, 3)=27 chips in a batch. Thus, there are 27 / 9 = <divide>(27, 9)=3 cookies in a batch. #### 3\n\nQuestion: John decides to buy utensils.  They come in 30 packs with an equal number of knives, forks, and spoons.  How many packs does he need to buy if he wants 50 spoons?\nAnswer: Each pack contains 30/3=<divide>(30, 3)=10 spoons So he needs to buy 50/10=<divide>(50, 10)=5 packs #### 5\n\nQuestion: Darlene's car gets 20 miles/gallon. Martha's car gets half as many miles per gallon as Darlene’s car. How many gallons does Martha’s car require to make a 300-mile trip?\nAnswer: Martha’s car gets 20/2 = <divide>(20, 2)=10 miles per gallon. Total gallons Martha’s car requires is 300/10 = <divide>(300, 10)=30 gallons. #### 30\n\nQuestion: Grace can read a 200-page book in 20 hours. How long would it take her to finish reading a 250-page book at this constant rate?\nAnswer: Grace can read 200/20 = <divide>(200, 20)=10 pages in 1 hour. So she can finish a 250-page book in 250/10 = <divide>(250, 10)=25 hours. #### 25\n\nQuestion: [QUESTION]\nAnswer:",
+        "Answer the following questions with operator <subtract>\n\nQuestion: Teresa is 59 and her husband Morio is 71 years old. Their daughter, Michiko was born when Morio was 38.  How old was Teresa when she gave birth to Michiko?\nAnswer: The difference in age between Teresa and Morio is 71 - 59 = <subtract>(71, 59)=12 years. When their daughter is born, Teresa is 38 - 12 = <subtract>(38, 12)=26 years old. #### 26\n\nQuestion: If a solver flips a coin 211 times and gets a head on 65 of the flips, how many more tails than heads did he get?\nAnswer: If the solver got a head in 65 of the 211 flips, he got 211-65 =<subtract>(211, 65)=146 tails The number of tails than he got more than head is 146-65=<subtract>(146, 65)=81 #### 81\n\nQuestion: A cleaning company produces two sanitizer sprays. One spray kills 50% of germs, and another spray kills 25% of germs. However, 5% of the germs they kill are the same ones. What percentage of germs would be left after using both sanitizer sprays together?\nAnswer: After the first spray kills 50% of germs, there will be 100 - 50 = <subtract>(100, 50)=50% left. The second spray kills 25%, but 5% have already been killed by the 50% spray, so it kills 25 - 5 = <subtract>(25, 5)=20%. After the second spray kills 20% of the remaining germs, there will be 50 - 20 = <subtract>(50, 20)=30% left. #### 30\n\nQuestion: Cara is at her family reunion, where she discovers that she is 20 years younger than her mom.  Her mom is 15 years younger than Cara's Grandmother. If Cara's grandmother is 75, how old is Cara?\nAnswer: Cara's mom: 75-15=<subtract>(75, 15)=60 years old Cara: 60-20=<subtract>(60, 20)=40 years old #### 40\n\nQuestion: [QUESTION]\nAnswer:",
+        "Answer the following questions with operator <multiply>\n\nQuestion: Rohan owns a 20-square meter coconut farm. Each square meter has 2 coconut trees and each tree has 6 coconuts. If the coconuts can be harvested every 3 months and each coconut costs $0.50, how much will he earn after 6 months?\nAnswer: Rohan has a total of 20 x 2 = <multiply>(20, 2)=40 coconut trees. And he has a total of 40 x 6 = <multiply>(40, 6)=240 coconuts. So, the total coconut he will have after 6 months is 240 x 2= <multiply>(240, 2)=480. Therefore, the total amount he will earn is 480 x $0.50 = $<multiply>(480, 0.5)=240. #### 240\n\nQuestion: A jug is filled with 5 liters of water and a bucket is filled with 4 jugs. How many liters of water are contained in 2 buckets?\nAnswer: 4 jugs contain 4*5 = <multiply>(4, 5)=20 liters of water. 2 bucket contains 20*2 = <multiply>(20, 2)=40 liters of water. #### 40\n\nQuestion: Every morning, Jason eats an omelet made using three eggs.  How many eggs will Jason consume in two weeks?\nAnswer: Two weeks is 7*2=<multiply>(7, 2)=14 days. If Jason eats three eggs per day for two weeks, then he consumes 3*14=<multiply>(3, 14)=42 eggs. #### 42\n\nQuestion: If there were 200 students who passed an English course three years ago, and each subsequent year until the current one that number increased by 50% of the previous year's number, how many students will pass the course this year?\nAnswer: We begin 3 years ago with 200 students, and moving forward to two years ago we find there were 200*1.5= <multiply>(200, 1.5)=300 students who passed. At the end of the subsequent year 50% more students pass than last year's 300, so that means 300*1.5=<multiply>(300, 1.5)=450 students pass. At the end of the current year there's another 50% increase over the previous year, meaning we have 450*1.5= <multiply>(450, 1.5)=675 students pass. #### 675\n\nQuestion: [QUESTION]\nAnswer:"
+    ]
+}

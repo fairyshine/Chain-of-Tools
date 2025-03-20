@@ -1,0 +1,500 @@
+{"dataset_name": "kamel", "case_idx": 0, "question": "What year was the first flight of RAE Zephyr in?", "tool": "P606", "result": "1923"}
+{"dataset_name": "kamel", "case_idx": 1, "question": "What places is KXRV broadcasted to?", "tool": "P1408", "result": "Cannon Ball"}
+{"dataset_name": "kamel", "case_idx": 2, "question": "Where was Casterman formed?", "tool": "P740", "result": "Belgium"}
+{"dataset_name": "kamel", "case_idx": 3, "question": "What positions was Li Jingxi holding?", "tool": "P39", "result": "President of the Executive Yuan"}
+{"dataset_name": "kamel", "case_idx": 4, "question": "What year did Heinz-Otto Schultze start in?", "tool": "P2031", "result": "1934"}
+{"dataset_name": "kamel", "case_idx": 5, "question": "What positions has Terry Falcon played on?", "tool": "P413", "result": "guard"}
+{"dataset_name": "kamel", "case_idx": 6, "question": "How many seasons had Samantha oups!?", "tool": "P2437", "result": "4"}
+{"dataset_name": "kamel", "case_idx": 7, "question": "Who are the distributors of Moon Pilot?", "tool": "P750", "result": "Walt Disney Studios Motion Pictures"}
+{"dataset_name": "kamel", "case_idx": 8, "question": "What is the publisher of Heroes of Annihilated Empires?", "tool": "P123", "result": "GSC Game World"}
+{"dataset_name": "kamel", "case_idx": 9, "question": "What year was Fort Patience created in?", "tool": "P571", "result": "1697"}
+{"dataset_name": "kamel", "case_idx": 10, "question": "What groups or organizations was Paul Speckmann a member?", "tool": "P463", "result": "Master"}
+{"dataset_name": "kamel", "case_idx": 11, "question": "What industries is Wolfsburg AG active in?", "tool": "P452", "result": "economic development"}
+{"dataset_name": "kamel", "case_idx": 12, "question": "What disciplines is Yeoryia Tsiliggiri competing in?", "tool": "P2416", "result": "pole vault"}
+{"dataset_name": "kamel", "case_idx": 13, "question": "What year was That Girl in Yellow Boots published in?", "tool": "P577", "result": "2010"}
+{"dataset_name": "kamel", "case_idx": 14, "question": "How many episodes does The Sandbaggers have?", "tool": "P1113", "result": "20"}
+{"dataset_name": "kamel", "case_idx": 15, "question": "What constellation is Lambda Andromedae a part of?", "tool": "P59", "result": "Andromeda"}
+{"dataset_name": "kamel", "case_idx": 16, "question": "What are the main topic of BPM (Beats per Minute)?", "tool": "P921", "result": "ACT UP"}
+{"dataset_name": "kamel", "case_idx": 17, "question": "How many children has Stefano Satta Flores?", "tool": "P1971", "result": "2"}
+{"dataset_name": "kamel", "case_idx": 18, "question": "What industries is LandlordInvest active in?", "tool": "P452", "result": "peer-to-peer lending"}
+{"dataset_name": "kamel", "case_idx": 19, "question": "What is the closing year of St. Conal's Psychiatric Hospital?", "tool": "P3999", "result": "2010"}
+{"dataset_name": "kamel", "case_idx": 20, "question": "What are the main topic of Physical Review Letters?", "tool": "P921", "result": "physics"}
+{"dataset_name": "kamel", "case_idx": 21, "question": "Where was Fabryka Samochodów Małolitrażowych formed?", "tool": "P740", "result": "Bielsko-Biała"}
+{"dataset_name": "kamel", "case_idx": 22, "question": "Where is the headquarter of KBNS-CD located?", "tool": "P159", "result": "Branson"}
+{"dataset_name": "kamel", "case_idx": 23, "question": "What military branch is 26th Virginia Infantry Battalion a member of?", "tool": "P241", "result": "Confederate States Army"}
+{"dataset_name": "kamel", "case_idx": 24, "question": "What does ActiveState produce?", "tool": "P1056", "result": "ActivePerl"}
+{"dataset_name": "kamel", "case_idx": 25, "question": "What countries has Mamadi Sangare played for?", "tool": "P1532", "result": "Ukraine"}
+{"dataset_name": "kamel", "case_idx": 26, "question": "What year did Asphalt Man end in?", "tool": "P582", "result": "1995"}
+{"dataset_name": "kamel", "case_idx": 27, "question": "How many floors above the ground has 1000 Lake Shore Plaza?", "tool": "P1101", "result": "55"}
+{"dataset_name": "kamel", "case_idx": 28, "question": "What country is Destiny University located in?", "tool": "P17", "result": "Saint Lucia"}
+{"dataset_name": "kamel", "case_idx": 29, "question": "What party was Jaime Barrón Fonseca a member of?", "tool": "P102", "result": "Institutional Revolutionary Party"}
+{"dataset_name": "kamel", "case_idx": 30, "question": "What year was LISA Pathfinder launched in?", "tool": "P619", "result": "2015"}
+{"dataset_name": "kamel", "case_idx": 31, "question": "What is the country of origin of Lohe hambad?", "tool": "P495", "result": "Sweden"}
+{"dataset_name": "kamel", "case_idx": 32, "question": "What year was Poseidon of Melos invented in?", "tool": "P575", "result": "1877"}
+{"dataset_name": "kamel", "case_idx": 33, "question": "What countries has Josep Oms i Pallisé played for?", "tool": "P1532", "result": "Andorra"}
+{"dataset_name": "kamel", "case_idx": 34, "question": "Who were employers of Visakan Kadirkamanathan?", "tool": "P108", "result": "University of Sheffield"}
+{"dataset_name": "kamel", "case_idx": 35, "question": "What constellation is SN 386 a part of?", "tool": "P59", "result": "Sagittarius"}
+{"dataset_name": "kamel", "case_idx": 36, "question": "What party was Didier Poidyaliwane a member of?", "tool": "P102", "result": "Kanak and Socialist National Liberation Front"}
+{"dataset_name": "kamel", "case_idx": 37, "question": "What countries is Vennes sharing borders with?", "tool": "P47", "result": "Orchamps-Vennes"}
+{"dataset_name": "kamel", "case_idx": 38, "question": "What are the operating systems of OlivePad?", "tool": "P306", "result": "Android"}
+{"dataset_name": "kamel", "case_idx": 39, "question": "Where was Hole formed?", "tool": "P740", "result": "Los Angeles"}
+{"dataset_name": "kamel", "case_idx": 40, "question": "What disciplines is Celina Leffler competing in?", "tool": "P2416", "result": "heptathlon"}
+{"dataset_name": "kamel", "case_idx": 41, "question": "What countries has Milton do Ó played for?", "tool": "P1532", "result": "Brazil"}
+{"dataset_name": "kamel", "case_idx": 42, "question": "Who was the original broadcaster of Rodzina zastępcza?", "tool": "P449", "result": "Polsat"}
+{"dataset_name": "kamel", "case_idx": 43, "question": "What instruments was Michael Copley playing?", "tool": "P1303", "result": "recorder"}
+{"dataset_name": "kamel", "case_idx": 44, "question": "How many matches has 2019–20 Gibraltar National League played?", "tool": "P1350", "result": "16"}
+{"dataset_name": "kamel", "case_idx": 45, "question": "What is the type of Saint-Michel-sur-Rhône?", "tool": "P31", "result": "commune of France"}
+{"dataset_name": "kamel", "case_idx": 46, "question": "What teams was Kateřina Došková a member of?", "tool": "P54", "result": "AC Sparta Praha"}
+{"dataset_name": "kamel", "case_idx": 47, "question": "How many platforms has Hereford railway station?", "tool": "P1103", "result": "4"}
+{"dataset_name": "kamel", "case_idx": 48, "question": "What is the country of citizenship of Juhan Kalm?", "tool": "P27", "result": "Estonia"}
+{"dataset_name": "kamel", "case_idx": 49, "question": "What is the type of 9298 Geake?", "tool": "P31", "result": "asteroid"}
+{"dataset_name": "kamel", "case_idx": 50, "question": "What jurisdictions does Taiwan Provincial Government belong to?", "tool": "P1001", "result": "Taiwan Province"}
+{"dataset_name": "kamel", "case_idx": 51, "question": "Where are the workplaces of Ioan Borcea?", "tool": "P937", "result": "Constanța"}
+{"dataset_name": "kamel", "case_idx": 52, "question": "What is the country of origin of Sin palabras?", "tool": "P495", "result": "Mexico"}
+{"dataset_name": "kamel", "case_idx": 53, "question": "Where was Mary Anne Edmunds living?", "tool": "P551", "result": "Ruthin"}
+{"dataset_name": "kamel", "case_idx": 54, "question": "What party was Patrick Harvey Ashby a member of?", "tool": "P102", "result": "Social Credit Party of Canada"}
+{"dataset_name": "kamel", "case_idx": 55, "question": "What year did Hollywood Divas start?", "tool": "P580", "result": "2014"}
+{"dataset_name": "kamel", "case_idx": 56, "question": "What year has Landell de Moura died in?", "tool": "P570", "result": "1928"}
+{"dataset_name": "kamel", "case_idx": 57, "question": "How many children has Charles Allsopp, 6th Baron Hindlip?", "tool": "P1971", "result": "4"}
+{"dataset_name": "kamel", "case_idx": 58, "question": "What year was Terror Syndrome created in?", "tool": "P571", "result": "2006"}
+{"dataset_name": "kamel", "case_idx": 59, "question": "What year did Stephanie Seymour start in?", "tool": "P2031", "result": "1983"}
+{"dataset_name": "kamel", "case_idx": 60, "question": "What are the operating systems of Tecno Camon 18?", "tool": "P306", "result": "Android"}
+{"dataset_name": "kamel", "case_idx": 61, "question": "How many floors above the ground has Century Plaza Towers?", "tool": "P1101", "result": "44"}
+{"dataset_name": "kamel", "case_idx": 62, "question": "What is the country of origin of Our Top Ten Treasures?", "tool": "P495", "result": "United Kingdom"}
+{"dataset_name": "kamel", "case_idx": 63, "question": "What instruments was Holger Czukay playing?", "tool": "P1303", "result": "bass guitar"}
+{"dataset_name": "kamel", "case_idx": 64, "question": "What is the country of citizenship of Omri Altman?", "tool": "P27", "result": "Israel"}
+{"dataset_name": "kamel", "case_idx": 65, "question": "How many participants had 2018 Asian Men's Club Volleyball Championship?", "tool": "P1132", "result": "13"}
+{"dataset_name": "kamel", "case_idx": 66, "question": "What year was EchoStar III launched in?", "tool": "P619", "result": "1997"}
+{"dataset_name": "kamel", "case_idx": 67, "question": "What is the closing year of Carver-Price High School?", "tool": "P3999", "result": "1970"}
+{"dataset_name": "kamel", "case_idx": 68, "question": "What is the year of birth of Sofie Hendrickx?", "tool": "P569", "result": "1986"}
+{"dataset_name": "kamel", "case_idx": 69, "question": "What constellation is 1RXS J133640.8+515455 a part of?", "tool": "P59", "result": "Ursa Major"}
+{"dataset_name": "kamel", "case_idx": 70, "question": "What form does the creative work Nulla in mundo pax sincera has?", "tool": "P7937", "result": "motet"}
+{"dataset_name": "kamel", "case_idx": 71, "question": "What is the publisher of Die Sprache?", "tool": "P123", "result": "Harrassowitz Verlag"}
+{"dataset_name": "kamel", "case_idx": 72, "question": "What are the main topic of Word and Work?", "tool": "P921", "result": "Churches of Christ"}
+{"dataset_name": "kamel", "case_idx": 73, "question": "What party was Milton Duncan McVicar a member of?", "tool": "P102", "result": "Ontario Liberal Party"}
+{"dataset_name": "kamel", "case_idx": 74, "question": "How many seasons had Dundee and the Culhane?", "tool": "P2437", "result": "1"}
+{"dataset_name": "kamel", "case_idx": 75, "question": "What year was Cosmic Egg published in?", "tool": "P577", "result": "2009"}
+{"dataset_name": "kamel", "case_idx": 76, "question": "What are the twin municipalities of Xanthi?", "tool": "P190", "result": "Gifhorn"}
+{"dataset_name": "kamel", "case_idx": 77, "question": "How many children has Andy Gibb?", "tool": "P1971", "result": "1"}
+{"dataset_name": "kamel", "case_idx": 78, "question": "What form does the creative work Let It Ride has?", "tool": "P7937", "result": "musical"}
+{"dataset_name": "kamel", "case_idx": 79, "question": "What places is WXNX broadcasted to?", "tool": "P1408", "result": "Sanibel"}
+{"dataset_name": "kamel", "case_idx": 80, "question": "What year was 766 Moguntia invented in?", "tool": "P575", "result": "1913"}
+{"dataset_name": "kamel", "case_idx": 81, "question": "What year was the first flight of CQM-121 Pave Tiger in?", "tool": "P606", "result": "1983"}
+{"dataset_name": "kamel", "case_idx": 82, "question": "What countries is Chusclan sharing borders with?", "tool": "P47", "result": "Codolet"}
+{"dataset_name": "kamel", "case_idx": 83, "question": "What positions was Pope John XIX of Alexandria holding?", "tool": "P39", "result": "Pope of the Coptic Orthodox Church"}
+{"dataset_name": "kamel", "case_idx": 84, "question": "Where was Tony Hsieh living?", "tool": "P551", "result": "Las Vegas"}
+{"dataset_name": "kamel", "case_idx": 85, "question": "What is the year of birth of Leo Peyton?", "tool": "P569", "result": "1899"}
+{"dataset_name": "kamel", "case_idx": 86, "question": "How many seasons had Ancient Inventions?", "tool": "P2437", "result": "1"}
+{"dataset_name": "kamel", "case_idx": 87, "question": "What year was Miss World Puerto Rico created in?", "tool": "P571", "result": "1959"}
+{"dataset_name": "kamel", "case_idx": 88, "question": "What sports was Stanislav Namașco playing?", "tool": "P641", "result": "association football"}
+{"dataset_name": "kamel", "case_idx": 89, "question": "What is the language of Chad Gadya?", "tool": "P407", "result": "Aramaic"}
+{"dataset_name": "kamel", "case_idx": 90, "question": "What sports was Kim Jung-nam playing?", "tool": "P641", "result": "association football"}
+{"dataset_name": "kamel", "case_idx": 91, "question": "What year has Edward Mayfield Boyle died in?", "tool": "P570", "result": "1936"}
+{"dataset_name": "kamel", "case_idx": 92, "question": "How many episodes does The Mr. Potato Head Show have?", "tool": "P1113", "result": "13"}
+{"dataset_name": "kamel", "case_idx": 93, "question": "How many children has Florence Griffith Joyner?", "tool": "P1971", "result": "1"}
+{"dataset_name": "kamel", "case_idx": 94, "question": "How many matches has 2016 Red Bull MotoGP Rookies Cup played?", "tool": "P1350", "result": "13"}
+{"dataset_name": "kamel", "case_idx": 95, "question": "What are the twin municipalities of Rolling Meadows?", "tool": "P190", "result": "Hénin-Beaumont"}
+{"dataset_name": "kamel", "case_idx": 96, "question": "How many children has Dirk Mudge?", "tool": "P1971", "result": "5"}
+{"dataset_name": "kamel", "case_idx": 97, "question": "What does Foursquare Labs, Inc. produce?", "tool": "P1056", "result": "Foursquare City Guide"}
+{"dataset_name": "kamel", "case_idx": 98, "question": "What positions was James Simpson holding?", "tool": "P39", "result": "Moderator of the General Assembly of the Church of Scotland"}
+{"dataset_name": "kamel", "case_idx": 99, "question": "What teams was Đorđe Pantić a member of?", "tool": "P54", "result": "FK Partizan"}
+{"dataset_name": "kamel", "case_idx": 100, "question": "What instruments was Bi Ribeiro playing?", "tool": "P1303", "result": "bass"}
+{"dataset_name": "kamel", "case_idx": 101, "question": "Where is the headquarter of Swerea located?", "tool": "P159", "result": "Stockholm"}
+{"dataset_name": "kamel", "case_idx": 102, "question": "What are the fields of work of Nikolai Maximovich Günther?", "tool": "P101", "result": "mathematical physics"}
+{"dataset_name": "kamel", "case_idx": 103, "question": "What year was TIROS-8 launched in?", "tool": "P619", "result": "1963"}
+{"dataset_name": "kamel", "case_idx": 104, "question": "How many platforms has Cadishead railway station?", "tool": "P1103", "result": "2"}
+{"dataset_name": "kamel", "case_idx": 105, "question": "Where are the workplaces of Juriaen Pool?", "tool": "P937", "result": "Amsterdam"}
+{"dataset_name": "kamel", "case_idx": 106, "question": "How many episodes does The Salisbury Poisonings have?", "tool": "P1113", "result": "3"}
+{"dataset_name": "kamel", "case_idx": 107, "question": "What year did Le Bébête Show end in?", "tool": "P582", "result": "1995"}
+{"dataset_name": "kamel", "case_idx": 108, "question": "What are the causes of death of Lindy McDaniel?", "tool": "P509", "result": "COVID-19"}
+{"dataset_name": "kamel", "case_idx": 109, "question": "What military branch is Heinz-Hermann Koelle a member of?", "tool": "P241", "result": "Luftwaffe"}
+{"dataset_name": "kamel", "case_idx": 110, "question": "What military branch is Robert Montresor Rogers a member of?", "tool": "P241", "result": "British Army"}
+{"dataset_name": "kamel", "case_idx": 111, "question": "What are the fields of work of Bertrand Badie?", "tool": "P101", "result": "international relations"}
+{"dataset_name": "kamel", "case_idx": 112, "question": "What are the fields of work of Birgitta Trotzig?", "tool": "P101", "result": "essay"}
+{"dataset_name": "kamel", "case_idx": 113, "question": "Where did Margaretha Wulfraet die?", "tool": "P20", "result": "Arnhem"}
+{"dataset_name": "kamel", "case_idx": 114, "question": "How many platforms has Broadway railway station?", "tool": "P1103", "result": "2"}
+{"dataset_name": "kamel", "case_idx": 115, "question": "Where was Helen E. McMillan educated at?", "tool": "P69", "result": "University of Minnesota"}
+{"dataset_name": "kamel", "case_idx": 116, "question": "Where was Mostly Other People Do the Killing formed?", "tool": "P740", "result": "New York City"}
+{"dataset_name": "kamel", "case_idx": 117, "question": "What are the twin municipalities of Lienz?", "tool": "P190", "result": "Selçuk"}
+{"dataset_name": "kamel", "case_idx": 118, "question": "What sports was FC Astrakhan playing?", "tool": "P641", "result": "association football"}
+{"dataset_name": "kamel", "case_idx": 119, "question": "Who was the original broadcaster of Jerks of All Trades?", "tool": "P449", "result": "American Broadcasting Company"}
+{"dataset_name": "kamel", "case_idx": 120, "question": "Where did Fanny Rabel die?", "tool": "P20", "result": "Mexico City"}
+{"dataset_name": "kamel", "case_idx": 121, "question": "What is the publisher of Kirel?", "tool": "P123", "result": "Addictive Games"}
+{"dataset_name": "kamel", "case_idx": 122, "question": "What year was 27A published in?", "tool": "P577", "result": "1974"}
+{"dataset_name": "kamel", "case_idx": 123, "question": "What groups or organizations was Joaquín Soriano a member?", "tool": "P463", "result": "Real Academia de Bellas Artes de San Fernando"}
+{"dataset_name": "kamel", "case_idx": 124, "question": "What party was Rodolphe Laflamme a member of?", "tool": "P102", "result": "Liberal Party of Canada"}
+{"dataset_name": "kamel", "case_idx": 125, "question": "What leagues was FC Delta Tulcea playing in?", "tool": "P118", "result": "Liga III"}
+{"dataset_name": "kamel", "case_idx": 126, "question": "What platform was Landing High Japan developed for?", "tool": "P400", "result": "arcade game machine"}
+{"dataset_name": "kamel", "case_idx": 127, "question": "How many seasons had Krem Nasjonal?", "tool": "P2437", "result": "3"}
+{"dataset_name": "kamel", "case_idx": 128, "question": "What year was Psyche launched in?", "tool": "P619", "result": "2022"}
+{"dataset_name": "kamel", "case_idx": 129, "question": "Who was the original broadcaster of School of Comedy?", "tool": "P449", "result": "E4"}
+{"dataset_name": "kamel", "case_idx": 130, "question": "What groups or organizations was Leonora Pujadas-McShine a member?", "tool": "P463", "result": "League of Women Voters"}
+{"dataset_name": "kamel", "case_idx": 131, "question": "What countries has Freddy dos Santos played for?", "tool": "P1532", "result": "Cape Verde"}
+{"dataset_name": "kamel", "case_idx": 132, "question": "How many episodes does Mixology have?", "tool": "P1113", "result": "13"}
+{"dataset_name": "kamel", "case_idx": 133, "question": "What is the country of citizenship of Joseph Liu Yuanren?", "tool": "P27", "result": "People's Republic of China"}
+{"dataset_name": "kamel", "case_idx": 134, "question": "What are the twin municipalities of Zoppola?", "tool": "P190", "result": "Tonneins"}
+{"dataset_name": "kamel", "case_idx": 135, "question": "Who were employers of Wallace L. Daniel?", "tool": "P108", "result": "Mercer University"}
+{"dataset_name": "kamel", "case_idx": 136, "question": "What industries is LukArco active in?", "tool": "P452", "result": "petroleum industry"}
+{"dataset_name": "kamel", "case_idx": 137, "question": "What year did Sulayhid dynasty end in?", "tool": "P582", "result": "1138"}
+{"dataset_name": "kamel", "case_idx": 138, "question": "What taxon rank has Suturoglypta?", "tool": "P105", "result": "genus"}
+{"dataset_name": "kamel", "case_idx": 139, "question": "What are the fields of work of Michel Thomas?", "tool": "P101", "result": "linguistics"}
+{"dataset_name": "kamel", "case_idx": 140, "question": "What does Peninsular and Oriental Steam Navigation Company produce?", "tool": "P1056", "result": "ocean liner"}
+{"dataset_name": "kamel", "case_idx": 141, "question": "What does Spam Cube produce?", "tool": "P1056", "result": "software as a service"}
+{"dataset_name": "kamel", "case_idx": 142, "question": "What positions was James D. Phelan holding?", "tool": "P39", "result": "Mayor of San Francisco"}
+{"dataset_name": "kamel", "case_idx": 143, "question": "What year did Black Majesty start in?", "tool": "P2031", "result": "2001"}
+{"dataset_name": "kamel", "case_idx": 144, "question": "What sports was Mustafa Abdul-Hamid playing?", "tool": "P641", "result": "basketball"}
+{"dataset_name": "kamel", "case_idx": 145, "question": "How many seasons had Slattery's People?", "tool": "P2437", "result": "2"}
+{"dataset_name": "kamel", "case_idx": 146, "question": "Who were employers of David Brewster?", "tool": "P108", "result": "University of St Andrews"}
+{"dataset_name": "kamel", "case_idx": 147, "question": "What taxon rank has Electresia?", "tool": "P105", "result": "genus"}
+{"dataset_name": "kamel", "case_idx": 148, "question": "What countries is Walker County sharing borders with?", "tool": "P47", "result": "Dade County"}
+{"dataset_name": "kamel", "case_idx": 149, "question": "Where was Rudy Jahchan educated at?", "tool": "P69", "result": "McGill University"}
+{"dataset_name": "kamel", "case_idx": 150, "question": "Who was the owner of XHYK-FM?", "tool": "P127", "result": "Grupo Radio Centro"}
+{"dataset_name": "kamel", "case_idx": 151, "question": "What year was the first flight of Akaflieg Darmstadt D-9 Konsul in?", "tool": "P606", "result": "1923"}
+{"dataset_name": "kamel", "case_idx": 152, "question": "What sports was Alessandro Bastrini playing?", "tool": "P641", "result": "association football"}
+{"dataset_name": "kamel", "case_idx": 153, "question": "What are the twin municipalities of Lüchow-Dannenberg District?", "tool": "P190", "result": "Steglitz-Zehlendorf"}
+{"dataset_name": "kamel", "case_idx": 154, "question": "What year was NGC 6316 invented in?", "tool": "P575", "result": "1784"}
+{"dataset_name": "kamel", "case_idx": 155, "question": "What disciplines is Gennadiy Shatkov competing in?", "tool": "P2416", "result": "boxing"}
+{"dataset_name": "kamel", "case_idx": 156, "question": "Who are the distributors of The World of Wodehouse?", "tool": "P750", "result": "BBC Television"}
+{"dataset_name": "kamel", "case_idx": 157, "question": "What teams was Giorgi Mamardashvili a member of?", "tool": "P54", "result": "Valencia CF"}
+{"dataset_name": "kamel", "case_idx": 158, "question": "Where was PETO formed?", "tool": "P740", "result": "Monheim am Rhein"}
+{"dataset_name": "kamel", "case_idx": 159, "question": "Where was Wilkinson Sword formed?", "tool": "P740", "result": "London"}
+{"dataset_name": "kamel", "case_idx": 160, "question": "What platform was Dance Central 2 developed for?", "tool": "P400", "result": "Xbox 360"}
+{"dataset_name": "kamel", "case_idx": 161, "question": "What is the language of Radio Le Phare?", "tool": "P407", "result": "Haitian Creole"}
+{"dataset_name": "kamel", "case_idx": 162, "question": "How many platforms has Skagen station?", "tool": "P1103", "result": "3"}
+{"dataset_name": "kamel", "case_idx": 163, "question": "What constellation is NGC 3545B a part of?", "tool": "P59", "result": "Ursa Major"}
+{"dataset_name": "kamel", "case_idx": 164, "question": "What countries has Jaroslav Šajtar played for?", "tool": "P1532", "result": "Czechoslovakia"}
+{"dataset_name": "kamel", "case_idx": 165, "question": "How many matches has Heiko Herrlich played?", "tool": "P1350", "result": "1"}
+{"dataset_name": "kamel", "case_idx": 166, "question": "Where was Anderson Henderson White formed?", "tool": "P740", "result": "New York City"}
+{"dataset_name": "kamel", "case_idx": 167, "question": "What instruments was Surinder Sandhu playing?", "tool": "P1303", "result": "sarangi"}
+{"dataset_name": "kamel", "case_idx": 168, "question": "What positions was Jenison William Gordon holding?", "tool": "P39", "result": "High Sheriff of Lincolnshire"}
+{"dataset_name": "kamel", "case_idx": 169, "question": "How many platforms has Jinyintan station?", "tool": "P1103", "result": "2"}
+{"dataset_name": "kamel", "case_idx": 170, "question": "What form does the creative work Remixes – Japan Tour Mini Album has?", "tool": "P7937", "result": "remix album"}
+{"dataset_name": "kamel", "case_idx": 171, "question": "What are the main topic of The Code Breaker?", "tool": "P921", "result": "Jennifer Doudna"}
+{"dataset_name": "kamel", "case_idx": 172, "question": "How many platforms has Wendover railway station?", "tool": "P1103", "result": "2"}
+{"dataset_name": "kamel", "case_idx": 173, "question": "Where did Don Azpiazú die?", "tool": "P20", "result": "Havana"}
+{"dataset_name": "kamel", "case_idx": 174, "question": "What country is Lasów located in?", "tool": "P17", "result": "Poland"}
+{"dataset_name": "kamel", "case_idx": 175, "question": "Who were employers of Józef Kowalewski?", "tool": "P108", "result": "University of Warsaw"}
+{"dataset_name": "kamel", "case_idx": 176, "question": "What groups or organizations was Ann Baynard a member?", "tool": "P463", "result": "Royal College of Physicians"}
+{"dataset_name": "kamel", "case_idx": 177, "question": "What leagues was York Region Shooters playing in?", "tool": "P118", "result": "Canadian Soccer League"}
+{"dataset_name": "kamel", "case_idx": 178, "question": "What sports was Armin Scheurer playing?", "tool": "P641", "result": "association football"}
+{"dataset_name": "kamel", "case_idx": 179, "question": "How many matches has Adick Koot played?", "tool": "P1350", "result": "1"}
+{"dataset_name": "kamel", "case_idx": 180, "question": "What year did Waruntorn Paonil start in?", "tool": "P2031", "result": "2006"}
+{"dataset_name": "kamel", "case_idx": 181, "question": "What industries is Oaklandish active in?", "tool": "P452", "result": "retail"}
+{"dataset_name": "kamel", "case_idx": 182, "question": "What taxon rank has Neocalanus?", "tool": "P105", "result": "genus"}
+{"dataset_name": "kamel", "case_idx": 183, "question": "How many episodes does Jazz have?", "tool": "P1113", "result": "10"}
+{"dataset_name": "kamel", "case_idx": 184, "question": "What are the main topic of Gibbs algorithm?", "tool": "P921", "result": "statistical mechanics"}
+{"dataset_name": "kamel", "case_idx": 185, "question": "What countries has Taylor Chorney played for?", "tool": "P1532", "result": "United States of America"}
+{"dataset_name": "kamel", "case_idx": 186, "question": "What groups or organizations was Julie Power a member?", "tool": "P463", "result": "Power Pack"}
+{"dataset_name": "kamel", "case_idx": 187, "question": "How many floors above the ground has Southwestern Life Insurance Building?", "tool": "P1101", "result": "16"}
+{"dataset_name": "kamel", "case_idx": 188, "question": "Who was the original broadcaster of Mansfield Park?", "tool": "P449", "result": "ITV"}
+{"dataset_name": "kamel", "case_idx": 189, "question": "Where did Sevastos Leontiadis die?", "tool": "P20", "result": "Kastoria"}
+{"dataset_name": "kamel", "case_idx": 190, "question": "What countries has Agnesa Wlachovská played for?", "tool": "P1532", "result": "Czechoslovakia"}
+{"dataset_name": "kamel", "case_idx": 191, "question": "What teams was Aldo Firicano a member of?", "tool": "P54", "result": "Cagliari Calcio"}
+{"dataset_name": "kamel", "case_idx": 192, "question": "What year did Ajay Wadhavkar start in?", "tool": "P2031", "result": "1986"}
+{"dataset_name": "kamel", "case_idx": 193, "question": "What year was the first flight of UB-14 in?", "tool": "P606", "result": "1934"}
+{"dataset_name": "kamel", "case_idx": 194, "question": "What instruments was Eric Melvin playing?", "tool": "P1303", "result": "guitar"}
+{"dataset_name": "kamel", "case_idx": 195, "question": "What year was Live and Sleazy published in?", "tool": "P577", "result": "1979"}
+{"dataset_name": "kamel", "case_idx": 196, "question": "What countries has Renco Posinković played for?", "tool": "P1532", "result": "Socialist Federal Republic of Yugoslavia"}
+{"dataset_name": "kamel", "case_idx": 197, "question": "What leagues was Defensor La Bocana playing in?", "tool": "P118", "result": "Peruvian Segunda División, liga 2 peru"}
+{"dataset_name": "kamel", "case_idx": 198, "question": "Where was Matthew Wong living?", "tool": "P551", "result": "Hong Kong"}
+{"dataset_name": "kamel", "case_idx": 199, "question": "What year did Operation Sirat-e-Mustaqeem end in?", "tool": "P582", "result": "2008"}
+{"dataset_name": "kamel", "case_idx": 200, "question": "What countries is North Vietnam sharing borders with?", "tool": "P47", "result": "South Vietnam"}
+{"dataset_name": "kamel", "case_idx": 201, "question": "What instruments was Mose Rager playing?", "tool": "P1303", "result": "guitar"}
+{"dataset_name": "kamel", "case_idx": 202, "question": "Where is the headquarter of United Nations Economic and Social Commission for Western Asia located?", "tool": "P159", "result": "Beirut"}
+{"dataset_name": "kamel", "case_idx": 203, "question": "What sports was Boris Batinić playing?", "tool": "P641", "result": "handball"}
+{"dataset_name": "kamel", "case_idx": 204, "question": "How many episodes does Seth MacFarlane's Cavalcade of Cartoon Comedy have?", "tool": "P1113", "result": "50"}
+{"dataset_name": "kamel", "case_idx": 205, "question": "What platform was Crash 'N' Burn developed for?", "tool": "P400", "result": "PlayStation 2"}
+{"dataset_name": "kamel", "case_idx": 206, "question": "What positions was Matthew Cao Xiangde holding?", "tool": "P39", "result": "Catholic bishop"}
+{"dataset_name": "kamel", "case_idx": 207, "question": "What are the twin municipalities of Pegli?", "tool": "P190", "result": "Carloforte"}
+{"dataset_name": "kamel", "case_idx": 208, "question": "How many platforms has Meguro Station?", "tool": "P1103", "result": "4"}
+{"dataset_name": "kamel", "case_idx": 209, "question": "What year did Silent Sejm start?", "tool": "P580", "result": "1717"}
+{"dataset_name": "kamel", "case_idx": 210, "question": "Who are the distributors of The Magic Christian?", "tool": "P750", "result": "Commonwealth United Entertainment"}
+{"dataset_name": "kamel", "case_idx": 211, "question": "What places is KBIY broadcasted to?", "tool": "P1408", "result": "Van Buren"}
+{"dataset_name": "kamel", "case_idx": 212, "question": "What is the country of origin of Keche?", "tool": "P495", "result": "Ghana"}
+{"dataset_name": "kamel", "case_idx": 213, "question": "What is the country of citizenship of Vittorio Algeri?", "tool": "P27", "result": "Italy"}
+{"dataset_name": "kamel", "case_idx": 214, "question": "How many seasons had Radio Free Roscoe?", "tool": "P2437", "result": "4"}
+{"dataset_name": "kamel", "case_idx": 215, "question": "What leagues was FC Torpedo Kutaisi playing in?", "tool": "P118", "result": "Erovnuli Liga"}
+{"dataset_name": "kamel", "case_idx": 216, "question": "What countries is Garston sharing borders with?", "tool": "P47", "result": "Aldenham"}
+{"dataset_name": "kamel", "case_idx": 217, "question": "What year was Sixteen Stone published in?", "tool": "P577", "result": "1994"}
+{"dataset_name": "kamel", "case_idx": 218, "question": "What are the fields of work of Matti Häyry?", "tool": "P101", "result": "philosophy"}
+{"dataset_name": "kamel", "case_idx": 219, "question": "Where did Otto Wallach die?", "tool": "P20", "result": "Göttingen"}
+{"dataset_name": "kamel", "case_idx": 220, "question": "What year was SBS 4 launched in?", "tool": "P619", "result": "1984"}
+{"dataset_name": "kamel", "case_idx": 221, "question": "What are the main topic of Philobiblon?", "tool": "P921", "result": "humanities"}
+{"dataset_name": "kamel", "case_idx": 222, "question": "What taxon rank has Gelonieae?", "tool": "P105", "result": "tribe"}
+{"dataset_name": "kamel", "case_idx": 223, "question": "What industries is Charrington Brewery active in?", "tool": "P452", "result": "brewing"}
+{"dataset_name": "kamel", "case_idx": 224, "question": "What countries is Villarrubia de Santiago sharing borders with?", "tool": "P47", "result": "Noblejas"}
+{"dataset_name": "kamel", "case_idx": 225, "question": "What year was the first flight of Warwick M-1 Tiny Champ in?", "tool": "P606", "result": "1960"}
+{"dataset_name": "kamel", "case_idx": 226, "question": "What are the causes of death of Vivian MacKerrell?", "tool": "P509", "result": "esophageal cancer"}
+{"dataset_name": "kamel", "case_idx": 227, "question": "Where was Laércio Gomes Costa living?", "tool": "P551", "result": "Caiabu"}
+{"dataset_name": "kamel", "case_idx": 228, "question": "What are the fields of work of David Scheiner?", "tool": "P101", "result": "internal medicine"}
+{"dataset_name": "kamel", "case_idx": 229, "question": "Who were employers of Eric Welsh?", "tool": "P108", "result": "Secret Intelligence Service"}
+{"dataset_name": "kamel", "case_idx": 230, "question": "How many matches has Peter Arundell played?", "tool": "P1350", "result": "11"}
+{"dataset_name": "kamel", "case_idx": 231, "question": "How many episodes does Forever have?", "tool": "P1113", "result": "22"}
+{"dataset_name": "kamel", "case_idx": 232, "question": "Where did Ernest Spencer die?", "tool": "P20", "result": "Oxshott"}
+{"dataset_name": "kamel", "case_idx": 233, "question": "Where was Gran Tierra Energy formed?", "tool": "P740", "result": "Calgary"}
+{"dataset_name": "kamel", "case_idx": 234, "question": "What are the main topic of Helter Skelter?", "tool": "P921", "result": "Charles Manson"}
+{"dataset_name": "kamel", "case_idx": 235, "question": "Who are the distributors of Cappy Ricks?", "tool": "P750", "result": "Paramount Pictures"}
+{"dataset_name": "kamel", "case_idx": 236, "question": "What year did Vai Anitta start?", "tool": "P580", "result": "2018"}
+{"dataset_name": "kamel", "case_idx": 237, "question": "What year was Leyden jar invented in?", "tool": "P575", "result": "1745"}
+{"dataset_name": "kamel", "case_idx": 238, "question": "What year was Gambia Constabulary abolished in?", "tool": "P576", "result": "1965"}
+{"dataset_name": "kamel", "case_idx": 239, "question": "What form does the creative work The Turbulence Expert has?", "tool": "P7937", "result": "short story"}
+{"dataset_name": "kamel", "case_idx": 240, "question": "Where was The Overseer formed?", "tool": "P740", "result": "Bentonville"}
+{"dataset_name": "kamel", "case_idx": 241, "question": "What country is Kačina located in?", "tool": "P17", "result": "Czech Republic"}
+{"dataset_name": "kamel", "case_idx": 242, "question": "What places is Radio 101 broadcasted to?", "tool": "P1408", "result": "Zagreb"}
+{"dataset_name": "kamel", "case_idx": 243, "question": "What positions was Edward Llewellyn holding?", "tool": "P39", "result": "Downing Street Chief of Staff"}
+{"dataset_name": "kamel", "case_idx": 244, "question": "What is the type of Mar Assia al-Hakim Church?", "tool": "P31", "result": "church building"}
+{"dataset_name": "kamel", "case_idx": 245, "question": "What form does the creative work Comus has?", "tool": "P7937", "result": "opera"}
+{"dataset_name": "kamel", "case_idx": 246, "question": "What are the fields of work of Alexander Olshansky?", "tool": "P101", "result": "geometric group theory"}
+{"dataset_name": "kamel", "case_idx": 247, "question": "What groups or organizations was Jean d'Estrées a member?", "tool": "P463", "result": "Académie Française"}
+{"dataset_name": "kamel", "case_idx": 248, "question": "What is the country of citizenship of John Frank Abu?", "tool": "P27", "result": "Ghana"}
+{"dataset_name": "kamel", "case_idx": 249, "question": "What year has Dunn Mabika Hove died in?", "tool": "P570", "result": "2007"}
+{"dataset_name": "kamel", "case_idx": 250, "question": "What party was François Gérin a member of?", "tool": "P102", "result": "Progressive Conservative Party of Canada"}
+{"dataset_name": "kamel", "case_idx": 251, "question": "What is the year of birth of Jack Joseph Kempf?", "tool": "P569", "result": "1935"}
+{"dataset_name": "kamel", "case_idx": 252, "question": "Where was Joe Egender living?", "tool": "P551", "result": "Los Angeles"}
+{"dataset_name": "kamel", "case_idx": 253, "question": "What party was Marjorie Maxse a member of?", "tool": "P102", "result": "Conservative Party"}
+{"dataset_name": "kamel", "case_idx": 254, "question": "What year has Angelo Zankl died in?", "tool": "P570", "result": "2007"}
+{"dataset_name": "kamel", "case_idx": 255, "question": "Where was Rousseau Institute formed?", "tool": "P740", "result": "Geneva"}
+{"dataset_name": "kamel", "case_idx": 256, "question": "What instruments was Kurt Dahle playing?", "tool": "P1303", "result": "drum kit"}
+{"dataset_name": "kamel", "case_idx": 257, "question": "What form does the creative work Pagan Babies has?", "tool": "P7937", "result": "novel"}
+{"dataset_name": "kamel", "case_idx": 258, "question": "What sports was 1909–10 Western Football League playing?", "tool": "P641", "result": "association football"}
+{"dataset_name": "kamel", "case_idx": 259, "question": "What does Ovosonico produce?", "tool": "P1056", "result": "Murasaki Baby"}
+{"dataset_name": "kamel", "case_idx": 260, "question": "What leagues was Bernd Helmschrot playing in?", "tool": "P118", "result": "Bundesliga"}
+{"dataset_name": "kamel", "case_idx": 261, "question": "What is the closing year of Waccamaw Coast Line Railroad?", "tool": "P3999", "result": "2015"}
+{"dataset_name": "kamel", "case_idx": 262, "question": "What leagues was Wisconsin Badgers football playing in?", "tool": "P118", "result": "Big Ten Conference"}
+{"dataset_name": "kamel", "case_idx": 263, "question": "What military branch is Alfredo Astiz a member of?", "tool": "P241", "result": "Argentine Navy"}
+{"dataset_name": "kamel", "case_idx": 264, "question": "Who was the original broadcaster of Woo-Hoo Dunnit??", "tool": "P449", "result": "Fox Broadcasting Company"}
+{"dataset_name": "kamel", "case_idx": 265, "question": "What year did Battle of Chancellorsville end in?", "tool": "P582", "result": "1863"}
+{"dataset_name": "kamel", "case_idx": 266, "question": "What is the language of Vijay Stars Kondattam?", "tool": "P407", "result": "Tamil"}
+{"dataset_name": "kamel", "case_idx": 267, "question": "What is the country of origin of Escándalo de medianoche?", "tool": "P495", "result": "Argentina"}
+{"dataset_name": "kamel", "case_idx": 268, "question": "What are the twin municipalities of Velbert?", "tool": "P190", "result": "Châtellerault"}
+{"dataset_name": "kamel", "case_idx": 269, "question": "Who was the owner of Elswick Hopper?", "tool": "P127", "result": "Tandem Group"}
+{"dataset_name": "kamel", "case_idx": 270, "question": "What year has George IV of the United Kingdom died in?", "tool": "P570", "result": "1830"}
+{"dataset_name": "kamel", "case_idx": 271, "question": "What disciplines is Ruben Blommaert competing in?", "tool": "P2416", "result": "pair skating"}
+{"dataset_name": "kamel", "case_idx": 272, "question": "Where are the workplaces of Sydney John Bunney?", "tool": "P937", "result": "Coventry"}
+{"dataset_name": "kamel", "case_idx": 273, "question": "What positions has Shaneil Jenkins played on?", "tool": "P413", "result": "defensive end"}
+{"dataset_name": "kamel", "case_idx": 274, "question": "Where is the headquarter of Capella Education Company located?", "tool": "P159", "result": "Capella Tower"}
+{"dataset_name": "kamel", "case_idx": 275, "question": "Who were employers of Harold Corsini?", "tool": "P108", "result": "Carnegie Mellon University"}
+{"dataset_name": "kamel", "case_idx": 276, "question": "What sports was 2018 4 Hours of Monza playing?", "tool": "P641", "result": "endurance racing"}
+{"dataset_name": "kamel", "case_idx": 277, "question": "How many seasons had Finding Carter?", "tool": "P2437", "result": "2"}
+{"dataset_name": "kamel", "case_idx": 278, "question": "How many platforms has Bilson Halt railway station?", "tool": "P1103", "result": "1"}
+{"dataset_name": "kamel", "case_idx": 279, "question": "What year was the first flight of Tellier T.2 in?", "tool": "P606", "result": "1916"}
+{"dataset_name": "kamel", "case_idx": 280, "question": "What year was His Butler's Sister published in?", "tool": "P577", "result": "1943"}
+{"dataset_name": "kamel", "case_idx": 281, "question": "What sports was Jordan Northcott playing?", "tool": "P641", "result": "association football"}
+{"dataset_name": "kamel", "case_idx": 282, "question": "What positions was Sherif Ismail holding?", "tool": "P39", "result": "Prime Minister of Egypt"}
+{"dataset_name": "kamel", "case_idx": 283, "question": "What year has Radama II died in?", "tool": "P570", "result": "1863"}
+{"dataset_name": "kamel", "case_idx": 284, "question": "What year was the first flight of American Helicopter XH-26 Jet Jeep in?", "tool": "P606", "result": "1952"}
+{"dataset_name": "kamel", "case_idx": 285, "question": "What is the country of citizenship of Curt Menefee?", "tool": "P27", "result": "United States of America"}
+{"dataset_name": "kamel", "case_idx": 286, "question": "What year was Lehi abolished in?", "tool": "P576", "result": "1948"}
+{"dataset_name": "kamel", "case_idx": 287, "question": "What year did The News Hole end in?", "tool": "P582", "result": "1994"}
+{"dataset_name": "kamel", "case_idx": 288, "question": "What is the publisher of Tamburlaine Must Die?", "tool": "P123", "result": "Canongate Books"}
+{"dataset_name": "kamel", "case_idx": 289, "question": "What instruments was Neill Sanders playing?", "tool": "P1303", "result": "horn"}
+{"dataset_name": "kamel", "case_idx": 290, "question": "What leagues was San Diego Buds playing in?", "tool": "P118", "result": "World TeamTennis"}
+{"dataset_name": "kamel", "case_idx": 291, "question": "What countries is Verreries-de-Moussans sharing borders with?", "tool": "P47", "result": "Rieussec"}
+{"dataset_name": "kamel", "case_idx": 292, "question": "What leagues was Universitario de Trujillo playing in?", "tool": "P118", "result": "Copa chile"}
+{"dataset_name": "kamel", "case_idx": 293, "question": "What military branch is George Miller Bligh a member of?", "tool": "P241", "result": "Royal Navy"}
+{"dataset_name": "kamel", "case_idx": 294, "question": "How many platforms has Woodlesford railway station?", "tool": "P1103", "result": "2"}
+{"dataset_name": "kamel", "case_idx": 295, "question": "How many children has Achmad Dimyati Natakusumah?", "tool": "P1971", "result": "3"}
+{"dataset_name": "kamel", "case_idx": 296, "question": "How many platforms has Metro Indios Verdes?", "tool": "P1103", "result": "3"}
+{"dataset_name": "kamel", "case_idx": 297, "question": "What disciplines is Maria Sergejeva competing in?", "tool": "P2416", "result": "pair skating"}
+{"dataset_name": "kamel", "case_idx": 298, "question": "Where did Lottie Louise Riekehof die?", "tool": "P20", "result": "Arlington County"}
+{"dataset_name": "kamel", "case_idx": 299, "question": "What industries is AGC active in?", "tool": "P452", "result": "glass"}
+{"dataset_name": "kamel", "case_idx": 300, "question": "What year did Mary L. Gray start in?", "tool": "P2031", "result": "1992"}
+{"dataset_name": "kamel", "case_idx": 301, "question": "Who were employers of André Maman?", "tool": "P108", "result": "Princeton University"}
+{"dataset_name": "kamel", "case_idx": 302, "question": "How many matches has Marco Simone played?", "tool": "P1350", "result": "2"}
+{"dataset_name": "kamel", "case_idx": 303, "question": "How many episodes does Rafferty's Rules have?", "tool": "P1113", "result": "86"}
+{"dataset_name": "kamel", "case_idx": 304, "question": "What year was Atlantic City Weekly created in?", "tool": "P571", "result": "1974"}
+{"dataset_name": "kamel", "case_idx": 305, "question": "How many floors above the ground has 535 Mission Street?", "tool": "P1101", "result": "27"}
+{"dataset_name": "kamel", "case_idx": 306, "question": "How many participants had 1980 Uganda National League?", "tool": "P1132", "result": "16"}
+{"dataset_name": "kamel", "case_idx": 307, "question": "Who was the owner of Layer Road?", "tool": "P127", "result": "Colchester United F.C."}
+{"dataset_name": "kamel", "case_idx": 308, "question": "How many matches has 2010 Turkish Super Cup played?", "tool": "P1350", "result": "1"}
+{"dataset_name": "kamel", "case_idx": 309, "question": "What instruments was Don Bagley playing?", "tool": "P1303", "result": "double bass"}
+{"dataset_name": "kamel", "case_idx": 310, "question": "What country is Le Tablier located in?", "tool": "P17", "result": "France"}
+{"dataset_name": "kamel", "case_idx": 311, "question": "What are the main topic of The Flying Classroom?", "tool": "P921", "result": "boarding school"}
+{"dataset_name": "kamel", "case_idx": 312, "question": "What year was the first flight of Loncin UAV in?", "tool": "P606", "result": "2014"}
+{"dataset_name": "kamel", "case_idx": 313, "question": "How many matches has Maksim Buznikin played?", "tool": "P1350", "result": "1"}
+{"dataset_name": "kamel", "case_idx": 314, "question": "Where is the headquarter of Suomen Sotilas located?", "tool": "P159", "result": "Helsinki"}
+{"dataset_name": "kamel", "case_idx": 315, "question": "What are the causes of death of Pedro Bloch?", "tool": "P509", "result": "respiratory failure"}
+{"dataset_name": "kamel", "case_idx": 316, "question": "What year was SpaceX CRS-18 launched in?", "tool": "P619", "result": "2019"}
+{"dataset_name": "kamel", "case_idx": 317, "question": "What year did Chandra Panta start in?", "tool": "P2031", "result": "2008"}
+{"dataset_name": "kamel", "case_idx": 318, "question": "Who was the owner of Port Alberni Mill?", "tool": "P127", "result": "Catalyst Paper"}
+{"dataset_name": "kamel", "case_idx": 319, "question": "What is the closing year of Tivoli Variety Theatre?", "tool": "P3999", "result": "1928"}
+{"dataset_name": "kamel", "case_idx": 320, "question": "Who was the owner of Thailand Post?", "tool": "P127", "result": "Ministry of Digital Economy and Society"}
+{"dataset_name": "kamel", "case_idx": 321, "question": "What places is KMXW broadcasted to?", "tool": "P1408", "result": "Bar Nunn"}
+{"dataset_name": "kamel", "case_idx": 322, "question": "What teams was Dorota Świeniewicz a member of?", "tool": "P54", "result": "Atom Trefl Sopot"}
+{"dataset_name": "kamel", "case_idx": 323, "question": "How many episodes does David Walliams and Friends have?", "tool": "P1113", "result": "1"}
+{"dataset_name": "kamel", "case_idx": 324, "question": "What year did Pandiraj start in?", "tool": "P2031", "result": "2009"}
+{"dataset_name": "kamel", "case_idx": 325, "question": "What disciplines is Alton Terry competing in?", "tool": "P2416", "result": "javelin throw"}
+{"dataset_name": "kamel", "case_idx": 326, "question": "What is the type of Hong Kong Shue Yan University?", "tool": "P31", "result": "private university"}
+{"dataset_name": "kamel", "case_idx": 327, "question": "What teams was James Omondi a member of?", "tool": "P54", "result": "Mathare United F.C."}
+{"dataset_name": "kamel", "case_idx": 328, "question": "How many participants had DFL-Supercup?", "tool": "P1132", "result": "2"}
+{"dataset_name": "kamel", "case_idx": 329, "question": "What sports was 2003 Prix de l'Arc de Triomphe playing?", "tool": "P641", "result": "horse racing"}
+{"dataset_name": "kamel", "case_idx": 330, "question": "How many platforms has Magenta railway station?", "tool": "P1103", "result": "4"}
+{"dataset_name": "kamel", "case_idx": 331, "question": "What platform was Wipeout Omega Collection developed for?", "tool": "P400", "result": "PlayStation 4"}
+{"dataset_name": "kamel", "case_idx": 332, "question": "What is the year of birth of James Hillier?", "tool": "P569", "result": "1915"}
+{"dataset_name": "kamel", "case_idx": 333, "question": "What year was Ford Aerospace abolished in?", "tool": "P576", "result": "1990"}
+{"dataset_name": "kamel", "case_idx": 334, "question": "What is the country of origin of Sylosis?", "tool": "P495", "result": "United Kingdom"}
+{"dataset_name": "kamel", "case_idx": 335, "question": "What positions was Ali-Shir Nava'i holding?", "tool": "P39", "result": "vizier"}
+{"dataset_name": "kamel", "case_idx": 336, "question": "Where was Itom motorcycles formed?", "tool": "P740", "result": "Turin"}
+{"dataset_name": "kamel", "case_idx": 337, "question": "Where did Yukiko Miyake die?", "tool": "P20", "result": "Tokyo Port"}
+{"dataset_name": "kamel", "case_idx": 338, "question": "What are the fields of work of Martin Aigner?", "tool": "P101", "result": "combinatorics"}
+{"dataset_name": "kamel", "case_idx": 339, "question": "How many matches has Gabriel Menino played?", "tool": "P1350", "result": "2"}
+{"dataset_name": "kamel", "case_idx": 340, "question": "How many matches has Pierluigi Casiraghi played?", "tool": "P1350", "result": "1"}
+{"dataset_name": "kamel", "case_idx": 341, "question": "Who was the original broadcaster of The Father, the Son, and the Holy Guest Star?", "tool": "P449", "result": "Fox Broadcasting Company"}
+{"dataset_name": "kamel", "case_idx": 342, "question": "What sports was James Douglas Howden Hume playing?", "tool": "P641", "result": "sailing"}
+{"dataset_name": "kamel", "case_idx": 343, "question": "What year was NGC 219 invented in?", "tool": "P575", "result": "1863"}
+{"dataset_name": "kamel", "case_idx": 344, "question": "What leagues was Club Melilla Baloncesto playing in?", "tool": "P118", "result": "Liga Española de Baloncesto"}
+{"dataset_name": "kamel", "case_idx": 345, "question": "What year did Nighat Dad start in?", "tool": "P2031", "result": "2012"}
+{"dataset_name": "kamel", "case_idx": 346, "question": "Where was Maybelle Maud Park educated at?", "tool": "P69", "result": "University of Wisconsin–Madison"}
+{"dataset_name": "kamel", "case_idx": 347, "question": "What year was Vinasat-2 launched in?", "tool": "P619", "result": "2012"}
+{"dataset_name": "kamel", "case_idx": 348, "question": "What is the type of Fantastic Magic Camp?", "tool": "P31", "result": "summer camp"}
+{"dataset_name": "kamel", "case_idx": 349, "question": "What constellation is NGC 2546 a part of?", "tool": "P59", "result": "Puppis"}
+{"dataset_name": "kamel", "case_idx": 350, "question": "Where is the headquarter of Modine located?", "tool": "P159", "result": "Racine"}
+{"dataset_name": "kamel", "case_idx": 351, "question": "What year was Batzra created in?", "tool": "P571", "result": "1946"}
+{"dataset_name": "kamel", "case_idx": 352, "question": "What platform was Sakura Strasse developed for?", "tool": "P400", "result": "Microsoft Windows"}
+{"dataset_name": "kamel", "case_idx": 353, "question": "What does The San Jose Group produce?", "tool": "P1056", "result": "advertising"}
+{"dataset_name": "kamel", "case_idx": 354, "question": "What year was Don't Cry Wolf published in?", "tool": "P577", "result": "2003"}
+{"dataset_name": "kamel", "case_idx": 355, "question": "What military branch is Godfrey Meynell a member of?", "tool": "P241", "result": "British Indian Army"}
+{"dataset_name": "kamel", "case_idx": 356, "question": "What are the causes of death of Marilyn Lovell Matz?", "tool": "P509", "result": "multiple sclerosis"}
+{"dataset_name": "kamel", "case_idx": 357, "question": "What countries has Germain Hughes played for?", "tool": "P1532", "result": "Anguilla"}
+{"dataset_name": "kamel", "case_idx": 358, "question": "What groups or organizations was Wallace Van Jackson a member?", "tool": "P463", "result": "American Library Association"}
+{"dataset_name": "kamel", "case_idx": 359, "question": "How many seasons had The X Creatures?", "tool": "P2437", "result": "1"}
+{"dataset_name": "kamel", "case_idx": 360, "question": "How many matches has Beach Soccer World Cup 1995 played?", "tool": "P1350", "result": "16"}
+{"dataset_name": "kamel", "case_idx": 361, "question": "What positions was Salvador Machado holding?", "tool": "P39", "result": "President of Nicaragua"}
+{"dataset_name": "kamel", "case_idx": 362, "question": "Where is the headquarter of AIDA Cruises located?", "tool": "P159", "result": "Rostock"}
+{"dataset_name": "kamel", "case_idx": 363, "question": "What places is WLKI broadcasted to?", "tool": "P1408", "result": "Angola"}
+{"dataset_name": "kamel", "case_idx": 364, "question": "What platform was Viking Child developed for?", "tool": "P400", "result": "DOS"}
+{"dataset_name": "kamel", "case_idx": 365, "question": "What positions was George F. Curtis holding?", "tool": "P39", "result": "Peter A. Allard School of Law"}
+{"dataset_name": "kamel", "case_idx": 366, "question": "What year was Amuktamalyada published in?", "tool": "P577", "result": "1509"}
+{"dataset_name": "kamel", "case_idx": 367, "question": "What is the year of birth of Edmund Bartłomiejczyk?", "tool": "P569", "result": "1885"}
+{"dataset_name": "kamel", "case_idx": 368, "question": "How many floors above the ground has UNTV Broadcast Center?", "tool": "P1101", "result": "16"}
+{"dataset_name": "kamel", "case_idx": 369, "question": "What is the closing year of Watts Naval School?", "tool": "P3999", "result": "1953"}
+{"dataset_name": "kamel", "case_idx": 370, "question": "Where was Marta Ingarden educated at?", "tool": "P69", "result": "Tadeusz Kościuszko University of Technology"}
+{"dataset_name": "kamel", "case_idx": 371, "question": "What year did 1979-80 Cypriot Cup end in?", "tool": "P582", "result": "1980"}
+{"dataset_name": "kamel", "case_idx": 372, "question": "What year was Harz Nature Park created in?", "tool": "P571", "result": "1960"}
+{"dataset_name": "kamel", "case_idx": 373, "question": "What year was the first flight of Avro 508 in?", "tool": "P606", "result": "1915"}
+{"dataset_name": "kamel", "case_idx": 374, "question": "Where was The Dead C formed?", "tool": "P740", "result": "Dunedin"}
+{"dataset_name": "kamel", "case_idx": 375, "question": "What year was Kosmos 49 launched in?", "tool": "P619", "result": "1964"}
+{"dataset_name": "kamel", "case_idx": 376, "question": "What is the country of origin of Heaven's Postman?", "tool": "P495", "result": "South Korea"}
+{"dataset_name": "kamel", "case_idx": 377, "question": "What are the causes of death of Basil the Physician?", "tool": "P509", "result": "death by burning"}
+{"dataset_name": "kamel", "case_idx": 378, "question": "How many episodes does Spun Out have?", "tool": "P1113", "result": "26"}
+{"dataset_name": "kamel", "case_idx": 379, "question": "What is the language of De Monarchia?", "tool": "P407", "result": "Latin"}
+{"dataset_name": "kamel", "case_idx": 380, "question": "Where did Tomás Guido die?", "tool": "P20", "result": "Buenos Aires"}
+{"dataset_name": "kamel", "case_idx": 381, "question": "What are the twin municipalities of Złocieniec?", "tool": "P190", "result": "Drawsko Pomorskie"}
+{"dataset_name": "kamel", "case_idx": 382, "question": "What year did Copa América Centenario end in?", "tool": "P582", "result": "2016"}
+{"dataset_name": "kamel", "case_idx": 383, "question": "What year was Wheeling Symphony Orchestra created in?", "tool": "P571", "result": "1929"}
+{"dataset_name": "kamel", "case_idx": 384, "question": "What taxon rank has Acidobacteriaceae?", "tool": "P105", "result": "family"}
+{"dataset_name": "kamel", "case_idx": 385, "question": "What places is CHLB-FM broadcasted to?", "tool": "P1408", "result": "Lethbridge"}
+{"dataset_name": "kamel", "case_idx": 386, "question": "What year was the first flight of Abbott Farnham sailplane in?", "tool": "P606", "result": "1930"}
+{"dataset_name": "kamel", "case_idx": 387, "question": "How many matches has 1970 American League Championship Series played?", "tool": "P1350", "result": "3"}
+{"dataset_name": "kamel", "case_idx": 388, "question": "What is the country of citizenship of Zdravko Rađenović?", "tool": "P27", "result": "Serbia"}
+{"dataset_name": "kamel", "case_idx": 389, "question": "What form does the creative work Hecyra has?", "tool": "P7937", "result": "play"}
+{"dataset_name": "kamel", "case_idx": 390, "question": "What year did Kenny Boynton start in?", "tool": "P2031", "result": "2013"}
+{"dataset_name": "kamel", "case_idx": 391, "question": "What are the fields of work of Edgar von Harold?", "tool": "P101", "result": "entomology"}
+{"dataset_name": "kamel", "case_idx": 392, "question": "Where did George Ballingall die?", "tool": "P20", "result": "Blairgowrie and Rattray"}
+{"dataset_name": "kamel", "case_idx": 393, "question": "How many participants had 1960 Roller Hockey World Cup?", "tool": "P1132", "result": "10"}
+{"dataset_name": "kamel", "case_idx": 394, "question": "Who were employers of A. N. Narasimhia?", "tool": "P108", "result": "University of Mysore"}
+{"dataset_name": "kamel", "case_idx": 395, "question": "How many episodes does The Scooby-Doo/Dynomutt Hour have?", "tool": "P1113", "result": "16"}
+{"dataset_name": "kamel", "case_idx": 396, "question": "What jurisdictions does 2015 Italian presidential election belong to?", "tool": "P1001", "result": "Italy"}
+{"dataset_name": "kamel", "case_idx": 397, "question": "What is the country of origin of The Broadsword and the Beast?", "tool": "P495", "result": "United Kingdom"}
+{"dataset_name": "kamel", "case_idx": 398, "question": "Where did Hōjō Takatoki die?", "tool": "P20", "result": "Kamakura"}
+{"dataset_name": "kamel", "case_idx": 399, "question": "How many participants had Libyan Premier League?", "tool": "P1132", "result": "16"}
+{"dataset_name": "kamel", "case_idx": 400, "question": "What is the closing year of Brideun School for Exceptional Children?", "tool": "P3999", "result": "2006"}
+{"dataset_name": "kamel", "case_idx": 401, "question": "What are the twin municipalities of Otjiwarongo?", "tool": "P190", "result": "Windhoek"}
+{"dataset_name": "kamel", "case_idx": 402, "question": "What are the operating systems of NotGTAV?", "tool": "P306", "result": "iOS"}
+{"dataset_name": "kamel", "case_idx": 403, "question": "Who are the distributors of Crazyhead?", "tool": "P750", "result": "Netflix"}
+{"dataset_name": "kamel", "case_idx": 404, "question": "What year did Beyond Invention start?", "tool": "P580", "result": "2004"}
+{"dataset_name": "kamel", "case_idx": 405, "question": "What year did 2011–12 Biathlon World Cup start?", "tool": "P580", "result": "2011"}
+{"dataset_name": "kamel", "case_idx": 406, "question": "Who was the owner of Medison Hall?", "tool": "P127", "result": "Zrenjanin"}
+{"dataset_name": "kamel", "case_idx": 407, "question": "What year did Ampera Cabinet start?", "tool": "P580", "result": "1966"}
+{"dataset_name": "kamel", "case_idx": 408, "question": "What is the publisher of Journal of Developmental Entrepreneurship?", "tool": "P123", "result": "World Scientific"}
+{"dataset_name": "kamel", "case_idx": 409, "question": "What are the causes of death of Miguel García García?", "tool": "P509", "result": "tuberculosis"}
+{"dataset_name": "kamel", "case_idx": 410, "question": "What military branch is Adley H. Gladden a member of?", "tool": "P241", "result": "Confederate States Army"}
+{"dataset_name": "kamel", "case_idx": 411, "question": "What teams was Ab de Vries a member of?", "tool": "P54", "result": "Netherlands national association football team"}
+{"dataset_name": "kamel", "case_idx": 412, "question": "What industries is MaineToday Media active in?", "tool": "P452", "result": "newspaper"}
+{"dataset_name": "kamel", "case_idx": 413, "question": "What positions has Maksym Zaderaka played on?", "tool": "P413", "result": "midfielder"}
+{"dataset_name": "kamel", "case_idx": 414, "question": "What year has Johnny Berry died in?", "tool": "P570", "result": "1994"}
+{"dataset_name": "kamel", "case_idx": 415, "question": "What is the country of origin of Philemon Arthur and the Dung?", "tool": "P495", "result": "Sweden"}
+{"dataset_name": "kamel", "case_idx": 416, "question": "What does Proton Technologies AG produce?", "tool": "P1056", "result": "ProtonVPN"}
+{"dataset_name": "kamel", "case_idx": 417, "question": "What teams was Viktor Östlund a member of?", "tool": "P54", "result": "Sweden men's national handball team"}
+{"dataset_name": "kamel", "case_idx": 418, "question": "How many participants had National Premier League Queensland?", "tool": "P1132", "result": "12"}
+{"dataset_name": "kamel", "case_idx": 419, "question": "What countries has Palestine national under-23 football team played for?", "tool": "P1532", "result": "State of Palestine"}
+{"dataset_name": "kamel", "case_idx": 420, "question": "What leagues was Werner Dreßel playing in?", "tool": "P118", "result": "Bundesliga"}
+{"dataset_name": "kamel", "case_idx": 421, "question": "What industries is Textlocal active in?", "tool": "P452", "result": "mobile marketing"}
+{"dataset_name": "kamel", "case_idx": 422, "question": "What are the twin municipalities of Kaarma Rural Municipality?", "tool": "P190", "result": "Väike-Maarja Rural Municipality"}
+{"dataset_name": "kamel", "case_idx": 423, "question": "How many children has Lorena Rojas?", "tool": "P1971", "result": "1"}
+{"dataset_name": "kamel", "case_idx": 424, "question": "What year was Nevada Territory abolished in?", "tool": "P576", "result": "1864"}
+{"dataset_name": "kamel", "case_idx": 425, "question": "How many participants had Miss World 2003?", "tool": "P1132", "result": "106"}
+{"dataset_name": "kamel", "case_idx": 426, "question": "What groups or organizations was Peter Saul a member?", "tool": "P463", "result": "American Academy of Arts and Letters"}
+{"dataset_name": "kamel", "case_idx": 427, "question": "What positions was Toby Ziegler holding?", "tool": "P39", "result": "White House Communications Director"}
+{"dataset_name": "kamel", "case_idx": 428, "question": "What countries is West Midlands sharing borders with?", "tool": "P47", "result": "East Midlands"}
+{"dataset_name": "kamel", "case_idx": 429, "question": "What countries is Tacna sharing borders with?", "tool": "P47", "result": "Moquegua"}
+{"dataset_name": "kamel", "case_idx": 430, "question": "What groups or organizations was Helen Blau a member?", "tool": "P463", "result": "National Academy of Sciences"}
+{"dataset_name": "kamel", "case_idx": 431, "question": "What year did Mrs. Pammi Pyarelal end in?", "tool": "P582", "result": "2013"}
+{"dataset_name": "kamel", "case_idx": 432, "question": "Where was Shinobi Ninja formed?", "tool": "P740", "result": "New York City"}
+{"dataset_name": "kamel", "case_idx": 433, "question": "What military branch is Gerardus Johannes Berenschot a member of?", "tool": "P241", "result": "Royal Netherlands East Indies Army"}
+{"dataset_name": "kamel", "case_idx": 434, "question": "What is the country of citizenship of Chatarina Larsson?", "tool": "P27", "result": "Sweden"}
+{"dataset_name": "kamel", "case_idx": 435, "question": "Who were employers of Dick Costolo?", "tool": "P108", "result": "Twitter"}
+{"dataset_name": "kamel", "case_idx": 436, "question": "What year was the first flight of General Aircraft Croydon in?", "tool": "P606", "result": "1935"}
+{"dataset_name": "kamel", "case_idx": 437, "question": "What country is Kampong Sungai Teraban located in?", "tool": "P17", "result": "Brunei"}
+{"dataset_name": "kamel", "case_idx": 438, "question": "How many children has Susan Hart?", "tool": "P1971", "result": "1"}
+{"dataset_name": "kamel", "case_idx": 439, "question": "What is the country of origin of Riot Girls?", "tool": "P495", "result": "Canada"}
+{"dataset_name": "kamel", "case_idx": 440, "question": "What military branch is William Davidson Bissett a member of?", "tool": "P241", "result": "British Army"}
+{"dataset_name": "kamel", "case_idx": 441, "question": "Where are the workplaces of Michelangelo?", "tool": "P937", "result": "Florence"}
+{"dataset_name": "kamel", "case_idx": 442, "question": "How many platforms has Guaanzhuang Station?", "tool": "P1103", "result": "2"}
+{"dataset_name": "kamel", "case_idx": 443, "question": "Who was the owner of KEXO?", "tool": "P127", "result": "Townsquare Media"}
+{"dataset_name": "kamel", "case_idx": 444, "question": "What constellation is Alpha Arietis a part of?", "tool": "P59", "result": "Aries"}
+{"dataset_name": "kamel", "case_idx": 445, "question": "What are the operating systems of Nokia 7610?", "tool": "P306", "result": "Symbian"}
+{"dataset_name": "kamel", "case_idx": 446, "question": "What countries has Valentina Islamova played for?", "tool": "P1532", "result": "Kazakhstan"}
+{"dataset_name": "kamel", "case_idx": 447, "question": "What is the country of citizenship of Price Daniel, Jr.?", "tool": "P27", "result": "United States of America"}
+{"dataset_name": "kamel", "case_idx": 448, "question": "Who was the owner of Whittle Arch?", "tool": "P127", "result": "Coventry City Council"}
+{"dataset_name": "kamel", "case_idx": 449, "question": "What year was the first flight of Concorde in?", "tool": "P606", "result": "1969"}
+{"dataset_name": "kamel", "case_idx": 450, "question": "What are the twin municipalities of Tresserve?", "tool": "P190", "result": "Avigliana"}
+{"dataset_name": "kamel", "case_idx": 451, "question": "What does Tufts Health Plan produce?", "tool": "P1056", "result": "health insurance"}
+{"dataset_name": "kamel", "case_idx": 452, "question": "How many participants had 2015–16 Czech First League?", "tool": "P1132", "result": "16"}
+{"dataset_name": "kamel", "case_idx": 453, "question": "What positions was Lee Chin-yung holding?", "tool": "P39", "result": "Mayor of Keelung"}
+{"dataset_name": "kamel", "case_idx": 454, "question": "What sports was Le Van Thang playing?", "tool": "P641", "result": "association football"}
+{"dataset_name": "kamel", "case_idx": 455, "question": "What year was Sexual Democracia created in?", "tool": "P571", "result": "1988"}
+{"dataset_name": "kamel", "case_idx": 456, "question": "How many participants had 2010 African Women's Championship?", "tool": "P1132", "result": "8"}
+{"dataset_name": "kamel", "case_idx": 457, "question": "What taxon rank has Erinacea anthyllis?", "tool": "P105", "result": "species"}
+{"dataset_name": "kamel", "case_idx": 458, "question": "What is the publisher of The Sun News-Pictorial?", "tool": "P123", "result": "The Herald and Weekly Times"}
+{"dataset_name": "kamel", "case_idx": 459, "question": "What taxon rank has Nesospiza?", "tool": "P105", "result": "genus"}
+{"dataset_name": "kamel", "case_idx": 460, "question": "What is the country of origin of Demons and Wonders?", "tool": "P495", "result": "Brazil"}
+{"dataset_name": "kamel", "case_idx": 461, "question": "What is the type of East Ural Nature Reserve?", "tool": "P31", "result": "Zapovednik"}
+{"dataset_name": "kamel", "case_idx": 462, "question": "Where did Marília Mendonça die?", "tool": "P20", "result": "Piedade de Caratinga"}
+{"dataset_name": "kamel", "case_idx": 463, "question": "What year was the first flight of G5N Shinzan in?", "tool": "P606", "result": "1941"}
+{"dataset_name": "kamel", "case_idx": 464, "question": "How many episodes does Dansez pentru tine have?", "tool": "P1113", "result": "7"}
+{"dataset_name": "kamel", "case_idx": 465, "question": "What is the publisher of Fight Night Champion?", "tool": "P123", "result": "EA Sports"}
+{"dataset_name": "kamel", "case_idx": 466, "question": "What positions has Antonio Tempestilli played on?", "tool": "P413", "result": "defender"}
+{"dataset_name": "kamel", "case_idx": 467, "question": "Where did Laura of Saint Catherine of Siena Montoya die?", "tool": "P20", "result": "Medellín"}
+{"dataset_name": "kamel", "case_idx": 468, "question": "What year was 1066 Lobelia invented in?", "tool": "P575", "result": "1926"}
+{"dataset_name": "kamel", "case_idx": 469, "question": "What form does the creative work Hullabaloo Soundtrack has?", "tool": "P7937", "result": "compilation album"}
+{"dataset_name": "kamel", "case_idx": 470, "question": "How many seasons had Marcus Welby?", "tool": "P2437", "result": "7"}
+{"dataset_name": "kamel", "case_idx": 471, "question": "What year was Muddy \"Mississippi\" Waters – Live published in?", "tool": "P577", "result": "1979"}
+{"dataset_name": "kamel", "case_idx": 472, "question": "What constellation is Xi-1 Sagittarii a part of?", "tool": "P59", "result": "Sagittarius"}
+{"dataset_name": "kamel", "case_idx": 473, "question": "What year was 11665 Dirichlet invented in?", "tool": "P575", "result": "1997"}
+{"dataset_name": "kamel", "case_idx": 474, "question": "What teams was Tommy Harris a member of?", "tool": "P54", "result": "Newbridge RFC"}
+{"dataset_name": "kamel", "case_idx": 475, "question": "What countries has Alexandre Sidorenko played for?", "tool": "P1532", "result": "France"}
+{"dataset_name": "kamel", "case_idx": 476, "question": "Where was Shani Rhys James living?", "tool": "P551", "result": "Llangadfan"}
+{"dataset_name": "kamel", "case_idx": 477, "question": "How many seasons had Offspring?", "tool": "P2437", "result": "6"}
+{"dataset_name": "kamel", "case_idx": 478, "question": "What is the language of Naše novine?", "tool": "P407", "result": "Croatian"}
+{"dataset_name": "kamel", "case_idx": 479, "question": "What year did Arnold Manoff start in?", "tool": "P2031", "result": "1942"}
+{"dataset_name": "kamel", "case_idx": 480, "question": "What year did Siege of the Montaña barracks start?", "tool": "P580", "result": "1936"}
+{"dataset_name": "kamel", "case_idx": 481, "question": "What is the language of Qazaq?", "tool": "P407", "result": "Kazakh"}
+{"dataset_name": "kamel", "case_idx": 482, "question": "What military branch is Sun Chuanfang a member of?", "tool": "P241", "result": "Beiyang Army"}
+{"dataset_name": "kamel", "case_idx": 483, "question": "What year was 4230 van den Bergh invented in?", "tool": "P575", "result": "1973"}
+{"dataset_name": "kamel", "case_idx": 484, "question": "What teams was Dean Byrne a member of?", "tool": "P54", "result": "St. George Illawarra Dragons"}
+{"dataset_name": "kamel", "case_idx": 485, "question": "What year was 6882 Sormano invented in?", "tool": "P575", "result": "1995"}
+{"dataset_name": "kamel", "case_idx": 486, "question": "What sports was FC Sputnik Kimry playing?", "tool": "P641", "result": "association football"}
+{"dataset_name": "kamel", "case_idx": 487, "question": "What is the country of citizenship of Gaspard-Théodore-Ignace de la Fontaine?", "tool": "P27", "result": "Luxembourg"}
+{"dataset_name": "kamel", "case_idx": 488, "question": "What year was FK Vindava abolished in?", "tool": "P576", "result": "2009"}
+{"dataset_name": "kamel", "case_idx": 489, "question": "What is the type of Pierwsze wyjście z mroku?", "tool": "P31", "result": "album"}
+{"dataset_name": "kamel", "case_idx": 490, "question": "What are the twin municipalities of Langenargen?", "tool": "P190", "result": "Noli"}
+{"dataset_name": "kamel", "case_idx": 491, "question": "Where is the headquarter of NASA Advanced Supercomputing Division located?", "tool": "P159", "result": "Ames Research Center"}
+{"dataset_name": "kamel", "case_idx": 492, "question": "What is the publisher of The Lord of the Rings: The Return of the King?", "tool": "P123", "result": "Electronic Arts"}
+{"dataset_name": "kamel", "case_idx": 493, "question": "What groups or organizations was Ferdinand Mount a member?", "tool": "P463", "result": "Royal Society of Literature"}
+{"dataset_name": "kamel", "case_idx": 494, "question": "How many children has Macklemore?", "tool": "P1971", "result": "2"}
+{"dataset_name": "kamel", "case_idx": 495, "question": "How many children has Nina Wadia?", "tool": "P1971", "result": "2"}
+{"dataset_name": "kamel", "case_idx": 496, "question": "What year was Federazione Anarchica Italiana created in?", "tool": "P571", "result": "1945"}
+{"dataset_name": "kamel", "case_idx": 497, "question": "What are the causes of death of Robert Dalby?", "tool": "P509", "result": "hanged, drawn, quartered and decapitated"}
+{"dataset_name": "kamel", "case_idx": 498, "question": "What is the type of Likouala Department?", "tool": "P31", "result": "department of the Republic of the Congo"}
+{"dataset_name": "kamel", "case_idx": 499, "question": "How many participants had Miss World 1993?", "tool": "P1132", "result": "81"}

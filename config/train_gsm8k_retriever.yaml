@@ -1,0 +1,42 @@
+model_name: LLaMA
+checkpoint: ../PTM/Llama-2-7b-chat-hf
+
+half_quantized: False
+database_vector_calculate: True
+
+train_epoch: 10
+train_batch: 12
+lr: 1e-4
+lr_w_tensor: 0.01
+gradient_accumulation_steps: 16
+max_grad_norm: 1.0
+seed: 42
+
+use_mamba: False
+
+cal_seq: False
+tensor_weighting: True
+tensor_filtering: False
+tensor_filtering_threshold: 1.0
+
+tool_range: -1
+
+similarity_norm: False
+
+
+dataset_dir:
+  gsm8k_xl: ./data/gsm8k_xl/
+  funcqa: ./data/funcqa/
+  vh: ./data/vh/
+  kamel: ./data/kamel/
+  SimpleQuestionsv2: ./data/SimpleToolQuestions/
+
+output_dir: output/
+
+load_toolcalling_checkpoint: False
+judge_checkpoint_dir: null
+retriever_checkpoint_dir: null
+
+
+temperature: 0
+top_p: 0.6

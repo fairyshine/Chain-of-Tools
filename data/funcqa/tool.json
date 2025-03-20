@@ -1,0 +1,153 @@
+{
+    "tool_dict": {
+        "<add>": 0,
+        "<subtract>": 1,
+        "<multiply>": 2,
+        "<divide>": 3,
+        "<power>": 4,
+        "<sqrt>": 5,
+        "<log>": 6,
+        "<ln>": 7,
+        "<lcm>": 8,
+        "<gcd>": 9,
+        "<remainder>": 10,
+        "<choose>": 11,
+        "<permutate>": 12
+    },
+    "tool_information": {
+        "<add>": {
+            "tool_name": "<add>",
+            "tool_description": "+: This tool adds(+) numbers together and returns the sum."
+        },
+        "<subtract>": {
+            "tool_name": "<subtract>",
+            "tool_description": "-: This tool subtracts(-) numbers from the first number provided, returning the difference."
+        },
+        "<multiply>": {
+            "tool_name": "<multiply>",
+            "tool_description": "x *: This tool multiplies(x) numbers together, returning the product."
+        },
+        "<divide>": {
+            "tool_name": "<divide>",
+            "tool_description": "/: This tool divides(/) the first number by the second number, returning the quotient. Take note of dividing by zero."
+        },
+        "<power>": {
+            "tool_name": "<power>",
+            "tool_description": "^: This tool raises a base number to the exponent provided, returning the power."
+        },
+        "<sqrt>": {
+            "tool_name": "<sqrt>",
+            "tool_description": "square: This tool calculates the square root of a number, returning the principal square root."
+        },
+        "<log>": {
+            "tool_name": "<log>",
+            "tool_description": "log log10: This tool calculates the logarithm of a number to a specified base, returning the log value."
+        },
+        "<ln>": {
+            "tool_name": "<ln>",
+            "tool_description": "ln: This tool calculates the natural log (base e) of a number, returning the value of ln."
+        },
+        "<lcm>": {
+            "tool_name": "<lcm>",
+            "tool_description": "least number: This tool finds the least common multiple of two or more numbers, returning the smallest common multiple."
+        },
+        "<gcd>": {
+            "tool_name": "<gcd>",
+            "tool_description": "greatest number: This tool calculates the greatest common divisor of two or more numbers, returning the largest common divisor."
+        },
+        "<remainder>": {
+            "tool_name": "<remainder>",
+            "tool_description": "left: This tool divides one number by another and returns the remainder of the division."
+        },
+        "<choose>": {
+            "tool_name": "<choose>",
+            "tool_description": "choose: This tool calculates the number of ways to choose k items from n items without repetition and without order."
+        },
+        "<permutate>": {
+            "tool_name": "<permutate>",
+            "tool_description": "arrange/assign: This tool calculates the number of ways to arrange n items into a sequence where order matters."
+        }
+    },
+    "tool_template_id": {
+        "<ln>": [
+            0,
+            13
+        ],
+        "<lcm>": [
+            1,
+            14
+        ],
+        "<choose>": [
+            2,
+            15
+        ],
+        "<add>": [
+            3,
+            16
+        ],
+        "<divide>": [
+            4,
+            17
+        ],
+        "<subtract>": [
+            5,
+            18
+        ],
+        "<sqrt>": [
+            6,
+            19
+        ],
+        "<remainder>": [
+            7,
+            20
+        ],
+        "<power>": [
+            8,
+            21
+        ],
+        "<permutate>": [
+            9,
+            22
+        ],
+        "<multiply>": [
+            10,
+            23
+        ],
+        "<log>": [
+            11,
+            24
+        ],
+        "<gcd>": [
+            12,
+            25
+        ]
+    },
+    "template_list": [
+        "Answer the following question with the operator <ln>:\n\nQ: If e^x=1160, what is x?\nA: If e^x=1160, then x=ln(1160)=<ln>(1160)=7.06.\n\nQ:  ln(6281.3) is equal to what?\nA: ln(6281.3)=<ln>(6281.3)=8.75.\n\nQ:  ln(5451) is equal to what?\nA: ln(5451)=<ln>(5451)=8.6.\n\nQ: If e^x=9934, what is x?\nA: If e^x=9934, then x=ln(9934)=<ln>(9934)=9.2.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <lcm>:\n\nQ: A factory produces two types of products. The first product is produced every 865 days, and the second product is produced every 460 days. If the factory starts producing both products at the same time, what is the least amount of time it will take for the factory to produce both products on the same day?\nA: The least amount of time it will take for the factory to produce both products on the same day is <lcm>(865,460)=79580.\n\nQ: A music teacher wants to schedule her students' practice sessions on a rotation basis. One student needs to practice every 221 days, another student every 172 days, and the third student every 250 days. If the teacher wants the students to practice together on the same day, what is the least number of days before they can all practice together again?\nA: The least number of days before they can all practice together again is the least common multiple of 221, 172, and 250, which is <lcm>(221,172,250)=4751500.\n\nQ: A company has two machines that produce a product. Machine A produces one unit every 284 minutes, while Machine B produces one unit every 95 minutes. If both machines start at the same time, what is the least amount of time it will take for both machines to produce the same number of units?\nA: The least amount of time it will take for both machines to produce the same number of units is <lcm>(284,95)=26980.\n\nQ: A library has two bookshelves, one with books that are 643 pages long and the other with books that are 747 pages long. If both bookshelves need to be reorganized at the same time, what is the least amount of time it will take to reorganize both bookshelves?\nA: The least amount of time it will take to reorganize both bookshelves is <lcm>(643,747)=480321.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <choose>:\n\nQ: A committee of 13 people is to be selected from a group of 15 people. How many ways can the committee be selected?\nA: There are <choose>(15,13)=105 ways to select the committee.\n\nQ: A company has 8 employees, but only 6 can attend a conference. How many different groups of employees can the company send to the conference?\nA: The number of different groups of employees the company can send to the conference is 8C6=<choose>(8,6)=28.\n\nQ: A restaurant has a menu with 5 entrees and a customer wants to order 2 dishes. How many different combinations of dishes can the customer order?\nA: The number of different combinations of dishes the customer can order is <choose>(5,2)=10.\n\nQ: How many ways can you select 9 books from a shelf containing 12 books?\nA: There are <choose>(12,9)=220 ways to select 9 books from a shelf containing 12 books.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <add>:\n\nQ: A store sells 311 apples and 112 oranges. How many fruits are sold in total?\nA: The total number of fruits sold by the store is 311+112=<add>(311, 112)=423.\n\nQ: A bakery made 201 loaves of bread in the morning and 31 in the afternoon. How many loaves of bread did they make in total?\nA: The total number of loaves of bread made is 201+31=<add>(201, 31)=232.\n\nQ: A car traveled 118.01 miles in the morning and 451.96 miles in the afternoon. How many miles did the car travel in total?\nA: The car traveled 118.01+451.96=<add>(118.01, 451.96)=569.97 miles in total.\n\nQ: A store sells 277 apples, 209 oranges, and 72 bananas. How many fruits are sold in total?\nA: The total number of fruits sold by the store is 277+209+72=<add>(277, 209, 72)=558.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <divide>:\n\nQ: A company has a total budget of 360.27 dollars to spend on 352.92 employees. How much money can each employee receive?\nA: Each employee can receive 360.27/352.92=<divide>(360.27, 352.92)=1.02 dollars.\n\nQ: A car can travel 776.93 miles on a full tank of gas. If the gas tank holds 455.09 gallons of gas, how far can the car travel per gallon of gas?\nA: The car can travel 776.93/455.09=<divide>(776.93, 455.09)=1.71 miles per gallon of gas.\n\nQ: A car travels 4096.04 miles on 2170.65 gallons of gas. What is its fuel efficiency in miles per gallon?\nA: The car's fuel efficiency is 4096.04/2170.65=<divide>(4096.04, 2170.65)=1.89 miles per gallon.\n\nQ: A pizza can be divided into 606 equal slices. If a group of 574 people want to share the pizza equally, how many slices of pizza will each person get?\nA: Each person will get 606/574=<divide>(606, 574)=1.06 slices of pizza.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <subtract>:\n\nQ: If a store has 490 pencils and sells 50 pencils, how many pencils are left?\nA: The store has 490-50=<subtract>(490, 50)=440 pencils left.\n\nQ: A restaurant has 311 bottles of soda in stock. They use 226 bottles of soda to serve customers today. How many bottles of soda are left in the restaurant?\nA: The restaurant initially has 311 bottles of soda, and 226 bottles of soda are used, so now there are 311-226=<subtract>(311, 226)=85 bottles of soda left.\n\nQ: A person had 377 books in their backpack. They took out 64 books to read and left the rest in the backpack. How many books are left in the backpack?\nA: The person has 377-64=<subtract>(377, 64)=313 books left in the backpack.\n\nQ: A person had 209 books in their backpack. They took out 11 books to read and left the rest in the backpack. How many books are left in the backpack?\nA: The person has 209-11=<subtract>(209, 11)=198 books left in the backpack.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <sqrt>:\n\nQ: What is the result of √716?\nA: The value of √716 is <sqrt>(716)=26.76.\n\nQ: What is the value of the square root of 7584?\nA: The square root of 7584 is <sqrt>(7584)=87.09.\n\nQ: A square garden has an area of 1004.25 square feet. What is the length of one side of the garden?\nA: The length of one side of the square garden is <sqrt>(1004.25)=31.69 feet.\n\nQ:  If we know the variance of the weather data is 478.54, what is the standard deviation?\nA: The standard deviation is <sqrt>(478.54)=21.88.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <remainder>:\n\nQ: A factory produces 9424 products in a day. If each box can hold 9266 products, how many products will be left over?\nA: The number of products that will be left over is 9424%9266=<remainder>(9424,9266)=158.\n\nQ: A school has 7602 students and they need to be divided into classes of 3497 students each. How many students will be left out?\nA: Divide 7602 by 3497, the remainder is <remainder>(7602,3497)=608.\n\nQ: A pizza restaurant has 1136 slices of pizza and wants to divide them equally among 443 people. If each person can have the same number of slices, how many slices will be left over?\nA: The number of slices left over will be 1136 mod 443=<remainder>(1136,443)=250.\n\nQ: A pizza parlor has 7935 pizzas and each pizza can be cut into 2016 slices. If each person can have only one slice, how many slices of pizza will be left?\nA: The number of slices of pizza left is 7935%2016=<remainder>(7935,2016)=1887.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <power>:\n\nQ: A bacteria culture doubles every 3 hours. Starting with one bacterium, how many bacteria will there be after 39 hours?\nA: After 11 hours, the number of the bacteria will be 2^(39/3)=<power>(2, 39/3)=8192.\n\nQ: A bacteria colony doubles every 5 minutes. How many times will the colony be in 8 minutes?\nA: The colony will be 2^(8/5)=<power>(2, 8/5)=3.03 times in 8 minutes.\n\nQ: A computer's hard drive has certain gigabytes capacity. If a user stores twice the amount of data every year, how many times will the amount of data stored on the hard drive increase after 7 years?\nA: After 7 years, the amount of data stored on the hard drive will increase by 2^7=<power>(2, 7)=128 times.\n\nQ: A smartphone battery drains at a rate of 18% per hour. If it is fully charged right now, how much battery life will it have after 10 hours?\nA: After 10 hours, the smartphone will have 0.82^10=<power>(0.82, 10)=0.14 of its original battery life.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <permutate>:\n\nQ: A group of 10 people are going to be arranged in a straight line for a parade. In how many ways can the people be arranged?\nA: The number of possible arrangements is <permutate>(10,10)=3628800.\n\nQ: A company has 4 employees who need to be assigned to 2 different offices. In how many ways can this be done?\nA: There are <permutate>(4,2)=12 ways to assign employees to offices.\n\nQ: A restaurant has 5 tables and wants to arrange 3 tables for a private event, how many ways can they arrange the tables?\nA: The number of ways to arrange 3 tables out of 5 tables is 5P3=<permutate>(5,3)=60.\n\nQ: A restaurant has 9 tables and wants to arrange 6 tables for a private event, how many ways can they arrange the tables?\nA: The number of ways to arrange 6 tables out of 9 tables is 9P6=<permutate>(9,6)=60480.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <multiply>:\n\nQ: A company pays its employees 370.33 dollars per hour. If an employee works for 320 hours, how much will they earn?\nA: If an employee is paid 370.33 dollars per hour and works for 320 hours, then they will earn 370.33*320=<multiply>(370.33, 320)=118505.6 dollars.\n\nQ: A box contains 140 items and each item weighs 257.74 pounds. What is the total weight of the items in the box?\nA: Each item weighs 257.74 pounds, so 140 items weigh 140*257.74=<multiply>(140, 257.74)=36083.6 pounds in total.\n\nQ: If a car travels at 70 miles per hour for 308 hours, how many miles does it travel?\nA: The car travels 70*308=<multiply>(70, 308)=21560 miles.\n\nQ: If there are 301 students in a classroom and each student has 295 pencils, how many pencils are there in total?\nA: There are 301*295=<multiply>(301, 295)=88795 pencils in total.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <log>:\n\nQ:  The concentration of the hydronium ion in moles per liter is 0.16366030353324176, what is the pH?\nA:  The concentration of the hydronium ion in moles per liter is 0.16366030353324176, so the pH is -log(0.16366030353324176)=- <log>(0.16366030353324176)=-0.79<eoe>-0.79.\n\nQ:  The 10th logarithm of 7753.68 is?\nA:  The 10th logarithm of 7753.68 is log(7753.68)=<log>(7753.68)=3.89.\n\nQ:  What is the value of the logarithm of 1742.22?\nA:  The value of the logarithm of 1742.22 is log(1742.22)=<log>(1742.22)=3.24.\n\nQ:  What is the value of the logarithm of 8886.05?\nA:  The value of the logarithm of 8886.05 is log(8886.05)=<log>(8886.05)=3.95.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <gcd>:\n\nQ: A group of 229 students want to divide 609 candies evenly among themselves. What is the largest number of candies each student can have?\nA: The largest number of candies each student can have is the greatest common divisor of 229 and 609, which is <gcd>(229,609)=1.\n\nQ: A group of students wants to distribute 237 pencils and 894 erasers evenly among themselves. What is the maximum number of students in the group that can receive the same number of pencils and erasers?\nA: The maximum number of students is the greatest common divisor of 237 and 894, which is <gcd>(237,894)=3.\n\nQ: A farmer has 956 cows and 813 chickens. He wants to divide them equally into pens with an equal number of cows and chickens in each pen. What is the maximum number of cows and chickens in each pen?\nA: The maximum number of cows and chickens in each pen is <gcd>(956,813)=1.\n\nQ: A baker wants to cut a rectangular cake into square pieces. The cake is 144 inches long and 657 inches wide. What is the largest possible size (side length) of a square piece that can be cut?\nA: The largest possible side length of a square piece that can be cut is is <gcd>(144,657)=9.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <ln>:\n\nQ: If e^x=1160, what is x?\nA: If e^x=1160, then x=ln(1160)=<ln>(1160)=7.06.\n\nQ:  ln(6281.3) is equal to what?\nA: ln(6281.3)=<ln>(6281.3)=8.75.\n\nQ:  ln(5451) is equal to what?\nA: ln(5451)=<ln>(5451)=8.6.\n\nQ: If e^x=9934, what is x?\nA: If e^x=9934, then x=ln(9934)=<ln>(9934)=9.2.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <lcm>:\n\nQ: A factory produces two types of products. The first product is produced every 865 days, and the second product is produced every 460 days. If the factory starts producing both products at the same time, what is the least amount of time it will take for the factory to produce both products on the same day?\nA: The least amount of time it will take for the factory to produce both products on the same day is <lcm>(865,460)=79580.\n\nQ: A music teacher wants to schedule her students' practice sessions on a rotation basis. One student needs to practice every 221 days, another student every 172 days, and the third student every 250 days. If the teacher wants the students to practice together on the same day, what is the least number of days before they can all practice together again?\nA: The least number of days before they can all practice together again is the least common multiple of 221, 172, and 250, which is <lcm>(221,172,250)=4751500.\n\nQ: A company has two machines that produce a product. Machine A produces one unit every 284 minutes, while Machine B produces one unit every 95 minutes. If both machines start at the same time, what is the least amount of time it will take for both machines to produce the same number of units?\nA: The least amount of time it will take for both machines to produce the same number of units is <lcm>(284,95)=26980.\n\nQ: A library has two bookshelves, one with books that are 643 pages long and the other with books that are 747 pages long. If both bookshelves need to be reorganized at the same time, what is the least amount of time it will take to reorganize both bookshelves?\nA: The least amount of time it will take to reorganize both bookshelves is <lcm>(643,747)=480321.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <choose>:\n\nQ: A committee of 13 people is to be selected from a group of 15 people. How many ways can the committee be selected?\nA: There are <choose>(15,13)=105 ways to select the committee.\n\nQ: A company has 8 employees, but only 6 can attend a conference. How many different groups of employees can the company send to the conference?\nA: The number of different groups of employees the company can send to the conference is 8C6=<choose>(8,6)=28.\n\nQ: A restaurant has a menu with 5 entrees and a customer wants to order 2 dishes. How many different combinations of dishes can the customer order?\nA: The number of different combinations of dishes the customer can order is <choose>(5,2)=10.\n\nQ: How many ways can you select 9 books from a shelf containing 12 books?\nA: There are <choose>(12,9)=220 ways to select 9 books from a shelf containing 12 books.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <add>:\n\nQ: A store sells 311 apples and 112 oranges. How many fruits are sold in total?\nA: The total number of fruits sold by the store is 311+112=<add>(311, 112)=423.\n\nQ: A bakery made 201 loaves of bread in the morning and 31 in the afternoon. How many loaves of bread did they make in total?\nA: The total number of loaves of bread made is 201+31=<add>(201, 31)=232.\n\nQ: A car traveled 118.01 miles in the morning and 451.96 miles in the afternoon. How many miles did the car travel in total?\nA: The car traveled 118.01+451.96=<add>(118.01, 451.96)=569.97 miles in total.\n\nQ: A store sells 277 apples, 209 oranges, and 72 bananas. How many fruits are sold in total?\nA: The total number of fruits sold by the store is 277+209+72=<add>(277, 209, 72)=558.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <divide>:\n\nQ: A company has a total budget of 360.27 dollars to spend on 352.92 employees. How much money can each employee receive?\nA: Each employee can receive 360.27/352.92=<divide>(360.27, 352.92)=1.02 dollars.\n\nQ: A car can travel 776.93 miles on a full tank of gas. If the gas tank holds 455.09 gallons of gas, how far can the car travel per gallon of gas?\nA: The car can travel 776.93/455.09=<divide>(776.93, 455.09)=1.71 miles per gallon of gas.\n\nQ: A car travels 4096.04 miles on 2170.65 gallons of gas. What is its fuel efficiency in miles per gallon?\nA: The car's fuel efficiency is 4096.04/2170.65=<divide>(4096.04, 2170.65)=1.89 miles per gallon.\n\nQ: A pizza can be divided into 606 equal slices. If a group of 574 people want to share the pizza equally, how many slices of pizza will each person get?\nA: Each person will get 606/574=<divide>(606, 574)=1.06 slices of pizza.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <subtract>:\n\nQ: If a store has 490 pencils and sells 50 pencils, how many pencils are left?\nA: The store has 490-50=<subtract>(490, 50)=440 pencils left.\n\nQ: A restaurant has 311 bottles of soda in stock. They use 226 bottles of soda to serve customers today. How many bottles of soda are left in the restaurant?\nA: The restaurant initially has 311 bottles of soda, and 226 bottles of soda are used, so now there are 311-226=<subtract>(311, 226)=85 bottles of soda left.\n\nQ: A person had 377 books in their backpack. They took out 64 books to read and left the rest in the backpack. How many books are left in the backpack?\nA: The person has 377-64=<subtract>(377, 64)=313 books left in the backpack.\n\nQ: A person had 209 books in their backpack. They took out 11 books to read and left the rest in the backpack. How many books are left in the backpack?\nA: The person has 209-11=<subtract>(209, 11)=198 books left in the backpack.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <sqrt>:\n\nQ: What is the result of √716?\nA: The value of √716 is <sqrt>(716)=26.76.\n\nQ: What is the value of the square root of 7584?\nA: The square root of 7584 is <sqrt>(7584)=87.09.\n\nQ: A square garden has an area of 1004.25 square feet. What is the length of one side of the garden?\nA: The length of one side of the square garden is <sqrt>(1004.25)=31.69 feet.\n\nQ:  If we know the variance of the weather data is 478.54, what is the standard deviation?\nA: The standard deviation is <sqrt>(478.54)=21.88.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <remainder>:\n\nQ: A factory produces 9424 products in a day. If each box can hold 9266 products, how many products will be left over?\nA: The number of products that will be left over is 9424%9266=<remainder>(9424,9266)=158.\n\nQ: A school has 7602 students and they need to be divided into classes of 3497 students each. How many students will be left out?\nA: Divide 7602 by 3497, the remainder is <remainder>(7602,3497)=608.\n\nQ: A pizza restaurant has 1136 slices of pizza and wants to divide them equally among 443 people. If each person can have the same number of slices, how many slices will be left over?\nA: The number of slices left over will be 1136 mod 443=<remainder>(1136,443)=250.\n\nQ: A pizza parlor has 7935 pizzas and each pizza can be cut into 2016 slices. If each person can have only one slice, how many slices of pizza will be left?\nA: The number of slices of pizza left is 7935%2016=<remainder>(7935,2016)=1887.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <power>:\n\nQ: A bacteria culture doubles every 3 hours. Starting with one bacterium, how many bacteria will there be after 39 hours?\nA: After 11 hours, the number of the bacteria will be 2^(39/3)=<power>(2, 39/3)=8192.\n\nQ: The radius of a circle is 5 cm. What is the area of the circle?\nA: The area of the circle is 3.14*5^2=<power>(5, 2)=25*3.14=<multiply>(25, 3.14)=78.5.5 cm^2.\n\nQ: A computer's hard drive has certain gigabytes capacity. If a user stores twice the amount of data every year, how many times will the amount of data stored on the hard drive increase after 7 years?\nA: After 7 years, the amount of data stored on the hard drive will increase by 2^7=<power>(2, 7)=128 times.\n\nQ: A smartphone battery drains at a rate of 18% per hour. If it is fully charged right now, how much battery life will it have after 10 hours?\nA: After 10 hours, the smartphone will have 0.82^10=<power>(0.82, 10)=0.14 of its original battery life.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <permutate>:\n\nQ: A group of 10 people are going to be arranged in a straight line for a parade. In how many ways can the people be arranged?\nA: The number of possible arrangements is <permutate>(10,10)=3628800.\n\nQ: A company has 4 employees who need to be assigned to 2 different offices. In how many ways can this be done?\nA: There are <permutate>(4,2)=12 ways to assign employees to offices.\n\nQ: A restaurant has 5 tables and wants to arrange 3 tables for a private event, how many ways can they arrange the tables?\nA: The number of ways to arrange 3 tables out of 5 tables is 5P3=<permutate>(5,3)=60.\n\nQ: A restaurant has 9 tables and wants to arrange 6 tables for a private event, how many ways can they arrange the tables?\nA: The number of ways to arrange 6 tables out of 9 tables is 9P6=<permutate>(9,6)=60480.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <multiply>:\n\nQ: A company pays its employees 370.33 dollars per hour. If an employee works for 320 hours, how much will they earn?\nA: If an employee is paid 370.33 dollars per hour and works for 320 hours, then they will earn 370.33*320=<multiply>(370.33, 320)=118505.6 dollars.\n\nQ: A box contains 140 items and each item weighs 257.74 pounds. What is the total weight of the items in the box?\nA: Each item weighs 257.74 pounds, so 140 items weigh 140*257.74=<multiply>(140, 257.74)=36083.6 pounds in total.\n\nQ: If a car travels at 70 miles per hour for 308 hours, how many miles does it travel?\nA: The car travels 70*308=<multiply>(70, 308)=21560 miles.\n\nQ: If there are 301 students in a classroom and each student has 295 pencils, how many pencils are there in total?\nA: There are 301*295=<multiply>(301, 295)=88795 pencils in total.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <log>:\n\nQ:  The concentration of the hydronium ion in moles per liter is 0.16366030353324176, what is the pH?\nA:  The concentration of the hydronium ion in moles per liter is 0.16366030353324176, so the pH is -log(0.16366030353324176)=- <log>(0.16366030353324176)=-0.79<eoe>-0.79.\n\nQ:  The 10th logarithm of 7753.68 is?\nA:  The 10th logarithm of 7753.68 is log(7753.68)=<log>(7753.68)=3.89.\n\nQ:  What is the value of the logarithm of 1742.22?\nA:  The value of the logarithm of 1742.22 is log(1742.22)=<log>(1742.22)=3.24.\n\nQ:  What is the value of the logarithm of 8886.05?\nA:  The value of the logarithm of 8886.05 is log(8886.05)=<log>(8886.05)=3.95.\n\nQ: [QUESTION]\nA:",
+        "Answer the following question with the operator <gcd>:\n\nQ: A group of 229 students want to divide 609 candies evenly among themselves. What is the largest number of candies each student can have?\nA: The largest number of candies each student can have is the greatest common divisor of 229 and 609, which is <gcd>(229,609)=1.\n\nQ: A group of students wants to distribute 237 pencils and 894 erasers evenly among themselves. What is the maximum number of students in the group that can receive the same number of pencils and erasers?\nA: The maximum number of students is the greatest common divisor of 237 and 894, which is <gcd>(237,894)=3.\n\nQ: A farmer has 956 cows and 813 chickens. He wants to divide them equally into pens with an equal number of cows and chickens in each pen. What is the maximum number of cows and chickens in each pen?\nA: The maximum number of cows and chickens in each pen is <gcd>(956,813)=1.\n\nQ: A baker wants to cut a rectangular cake into square pieces. The cake is 144 inches long and 657 inches wide. What is the largest possible size (side length) of a square piece that can be cut?\nA: The largest possible side length of a square piece that can be cut is is <gcd>(144,657)=9.\n\nQ: [QUESTION]\nA:"
+    ]
+}
