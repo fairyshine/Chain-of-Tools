@@ -43,3 +43,7 @@ python ./src/script/train_funcqa_retriever.py --config_file config/train_funcqa_
 - Eval (replace the judge and retriever checkpoint dir in line 31,32)
 
 python ./src/script/test_funcqa.py --config_file config/test.yaml
+
+## 🤗 Dataset
+
+https://huggingface.co/datasets/RadiCat/SimpleToolQuestions
