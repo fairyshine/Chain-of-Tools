@@ -1,8 +1,8 @@
 # Chain-of-Tools
 
+![](assets/CoTools.jpg)
 
-
-## Training
+## 🚀 Training
 
 ### Environment
 
