@@ -2,6 +2,12 @@
 
 ![](assets/CoTools.jpg)
 
+> [!TIP]
+>
+> This work was done during 2024S2. Later we found that hidden states of the last layer might not be the best choice. Maybe try the 2/3 position. Hope this gives you some inspiration.
+
+
+
 ## 🚀 Training
 
 ### Environment
